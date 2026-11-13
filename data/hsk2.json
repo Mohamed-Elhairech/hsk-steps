@@ -1,0 +1,3589 @@
+{
+ "level": 2,
+ "lessons": [
+  {
+   "id": 1,
+   "title": {
+    "zh": "她请我们吃了北京烤鸭",
+    "en": "She treated us to Peking Duck"
+   },
+   "words": [
+    {
+     "hanzi": "帮忙",
+     "pinyin": "bāngmáng",
+     "pos": "verb",
+     "meaning": "to help out"
+    },
+    {
+     "hanzi": "不好意思",
+     "pinyin": "bù hǎoyìsi",
+     "pos": "phrase",
+     "meaning": "sorry, excuse me"
+    },
+    {
+     "hanzi": "次",
+     "pinyin": "cì",
+     "pos": "measure word",
+     "meaning": "time (occurrence)"
+    },
+    {
+     "hanzi": "懂",
+     "pinyin": "dǒng",
+     "pos": "verb",
+     "meaning": "to understand"
+    },
+    {
+     "hanzi": "给",
+     "pinyin": "gěi",
+     "pos": "preposition",
+     "meaning": "for, to"
+    },
+    {
+     "hanzi": "接",
+     "pinyin": "jiē",
+     "pos": "verb",
+     "meaning": "to pick up, to meet",
+     "extra": true
+    },
+    {
+     "hanzi": "介绍",
+     "pinyin": "jièshào",
+     "pos": "verb",
+     "meaning": "to introduce"
+    },
+    {
+     "hanzi": "就",
+     "pinyin": "jiù",
+     "pos": "adverb",
+     "meaning": "exactly; then"
+    },
+    {
+     "hanzi": "旅游",
+     "pinyin": "lǚyóu",
+     "pos": "verb",
+     "meaning": "to travel"
+    },
+    {
+     "hanzi": "那",
+     "pinyin": "nà",
+     "pos": "conjunction",
+     "meaning": "then, in that case"
+    },
+    {
+     "hanzi": "让",
+     "pinyin": "ràng",
+     "pos": "verb",
+     "meaning": "to let, to ask"
+    },
+    {
+     "hanzi": "已经",
+     "pinyin": "yǐjīng",
+     "pos": "adverb",
+     "meaning": "already"
+    },
+    {
+     "hanzi": "意思",
+     "pinyin": "yìsi",
+     "pos": "noun",
+     "meaning": "meaning"
+    },
+    {
+     "hanzi": "有时",
+     "pinyin": "yǒushí",
+     "pos": "adverb",
+     "meaning": "sometimes"
+    },
+    {
+     "hanzi": "北京烤鸭",
+     "pinyin": "Běijīng Kǎoyā",
+     "pos": "proper noun",
+     "meaning": "Peking Duck"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Meeting a traveller in Beijing.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你们是什么时候到北京的？",
+       "pinyin": "Nǐmen shì shénme shíhou dào Běijīng de?",
+       "en": "When did you get to Beijing?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我们是昨天到的。朋友来机场接我们。",
+       "pinyin": "Wǒmen shì zuótiān dào de. Péngyou lái jīchǎng jiē wǒmen.",
+       "en": "We arrived yesterday. A friend met us at the airport."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你们是来旅游的吧？",
+       "pinyin": "Nǐmen shì lái lǚyóu de ba?",
+       "en": "You're here to travel, I suppose?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "对。朋友还请我们吃了北京烤鸭。",
+       "pinyin": "Duì. Péngyou hái qǐng wǒmen chīle Běijīng Kǎoyā.",
+       "en": "Yes. Our friend also treated us to Peking Duck."
+      }
+     ]
+    },
+    {
+     "scene": "Asking for help with a word.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "不好意思，这个字是什么意思？",
+       "pinyin": "Bù hǎoyìsi, zhège zì shì shénme yìsi?",
+       "en": "Excuse me, what does this character mean?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我也不懂。老师让我们问他。",
+       "pinyin": "Wǒ yě bù dǒng. Lǎoshī ràng wǒmen wèn tā.",
+       "en": "I don't understand it either. The teacher told us to ask him."
+      },
+      {
+       "speaker": "A：",
+       "zh": "谢谢你帮忙！",
+       "pinyin": "Xièxie nǐ bāngmáng!",
+       "en": "Thanks for your help!"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The particle 吧 (2)",
+     "explanation": "吧 at the end of a sentence can show a guess. The speaker thinks something is true and wants it confirmed.",
+     "examples": [
+      {
+       "zh": "你是学生吧？",
+       "pinyin": "Nǐ shì xuéshēng ba?",
+       "en": "You're a student, I suppose?"
+      }
+     ]
+    },
+    {
+     "name": "The 是……的 sentence",
+     "explanation": "Use 是……的 to stress when, where or how a past event happened. Put the stressed detail after 是.",
+     "examples": [
+      {
+       "zh": "我是昨天到的。",
+       "pinyin": "Wǒ shì zuótiān dào de.",
+       "en": "I arrived yesterday."
+      },
+      {
+       "zh": "你们是怎么来的？",
+       "pinyin": "Nǐmen shì zěnme lái de?",
+       "en": "How did you come?"
+      }
+     ]
+    },
+    {
+     "name": "Pivotal sentences",
+     "explanation": "The object of the first verb is also the subject of the second verb. Verbs like 让 and 请 often start this pattern.",
+     "examples": [
+      {
+       "zh": "老师让我们问他。",
+       "pinyin": "Lǎoshī ràng wǒmen wèn tā.",
+       "en": "The teacher told us to ask him."
+      },
+      {
+       "zh": "朋友请我吃饭。",
+       "pinyin": "Péngyou qǐng wǒ chī fàn.",
+       "en": "A friend invited me to a meal."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我是昨天到（　）。",
+     "options": [
+      "的",
+      "吗",
+      "了",
+      "呢"
+     ],
+     "answer": "的",
+     "explanation": "是……的 stresses when something happened.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "妈妈（　）我买水果。",
+     "options": [
+      "让",
+      "懂",
+      "次",
+      "就"
+     ],
+     "answer": "让",
+     "explanation": "让 starts a pivotal sentence: mum tells me to do something.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "We arrived yesterday.",
+     "tokens": [
+      "我们",
+      "是",
+      "昨天",
+      "到",
+      "的"
+     ],
+     "explanation": "The stressed detail, 昨天, comes after 是."
+    },
+    {
+     "type": "order",
+     "prompt": "A friend invited me to a meal.",
+     "tokens": [
+      "朋友",
+      "请",
+      "我",
+      "吃饭"
+     ],
+     "explanation": "我 is the object of 请 and the subject of 吃饭."
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "title": {
+    "zh": "还是打车去北大吧",
+    "en": "Let's take a taxi to Peking University instead"
+   },
+   "words": [
+    {
+     "hanzi": "啊",
+     "pinyin": "a",
+     "pos": "particle",
+     "meaning": "particle of surprise or emphasis"
+    },
+    {
+     "hanzi": "别",
+     "pinyin": "bié",
+     "pos": "adverb",
+     "meaning": "don't"
+    },
+    {
+     "hanzi": "车站",
+     "pinyin": "chēzhàn",
+     "pos": "noun",
+     "meaning": "station, stop"
+    },
+    {
+     "hanzi": "打车",
+     "pinyin": "dǎchē",
+     "pos": "verb",
+     "meaning": "to take a taxi"
+    },
+    {
+     "hanzi": "但",
+     "pinyin": "dàn",
+     "pos": "conjunction",
+     "meaning": "but"
+    },
+    {
+     "hanzi": "公交车",
+     "pinyin": "gōngjiāochē",
+     "pos": "noun",
+     "meaning": "bus"
+    },
+    {
+     "hanzi": "过来",
+     "pinyin": "guòlái",
+     "pos": "verb",
+     "meaning": "to come over"
+    },
+    {
+     "hanzi": "还是",
+     "pinyin": "háishi",
+     "pos": "conjunction",
+     "meaning": "or; had better",
+     "alsoIn": [
+      10
+     ]
+    },
+    {
+     "hanzi": "间",
+     "pinyin": "jiān",
+     "pos": "measure word",
+     "meaning": "measure word for rooms"
+    },
+    {
+     "hanzi": "教室",
+     "pinyin": "jiàoshì",
+     "pos": "noun",
+     "meaning": "classroom"
+    },
+    {
+     "hanzi": "名",
+     "pinyin": "míng",
+     "pos": "measure word",
+     "meaning": "measure word for people"
+    },
+    {
+     "hanzi": "票",
+     "pinyin": "piào",
+     "pos": "noun",
+     "meaning": "ticket"
+    },
+    {
+     "hanzi": "外国",
+     "pinyin": "wàiguó",
+     "pos": "noun",
+     "meaning": "foreign country"
+    },
+    {
+     "hanzi": "万",
+     "pinyin": "wàn",
+     "pos": "numeral",
+     "meaning": "ten thousand"
+    },
+    {
+     "hanzi": "网上",
+     "pinyin": "wǎngshang",
+     "pos": "noun",
+     "meaning": "online"
+    },
+    {
+     "hanzi": "远",
+     "pinyin": "yuǎn",
+     "pos": "adjective",
+     "meaning": "far"
+    },
+    {
+     "hanzi": "北京大学",
+     "pinyin": "Běijīng Dàxué",
+     "pos": "proper noun",
+     "meaning": "Peking University"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Going to the university.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "我们怎么去北京大学？坐公交车吗？",
+       "pinyin": "Wǒmen zěnme qù Běijīng Dàxué? Zuò gōngjiāochē ma?",
+       "en": "How shall we get to Peking University? By bus?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "车站太远了。我们还是打车吧。",
+       "pinyin": "Chēzhàn tài yuǎn le. Wǒmen háishi dǎchē ba.",
+       "en": "The stop is too far. Let's take a taxi instead."
+      },
+      {
+       "speaker": "A：",
+       "zh": "好。我想买的东西也在那儿。",
+       "pinyin": "Hǎo. Wǒ xiǎng mǎi de dōngxi yě zài nàr.",
+       "en": "Okay. The things I want to buy are there too."
+      }
+     ]
+    },
+    {
+     "scene": "Talking about a classroom.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这间教室有多少人？",
+       "pinyin": "Zhè jiān jiàoshì yǒu duōshao rén?",
+       "en": "How many people are in this classroom?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "有二十多名学生，都是外国人。",
+       "pinyin": "Yǒu èrshí duō míng xuéshēng, dōu shì wàiguó rén.",
+       "en": "Over twenty students, all from abroad."
+      },
+      {
+       "speaker": "A：",
+       "zh": "啊，别过来，老师来了！",
+       "pinyin": "À, bié guòlái, lǎoshī lái le!",
+       "en": "Oh, don't come over, the teacher is here!"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The pattern 还是……吧",
+     "explanation": "After comparing choices, 还是……吧 gives the option you prefer: \"let's... instead\".",
+     "examples": [
+      {
+       "zh": "我们还是打车吧。",
+       "pinyin": "Wǒmen háishi dǎchē ba.",
+       "en": "Let's take a taxi instead."
+      }
+     ]
+    },
+    {
+     "name": "Approximate numbers with 多",
+     "explanation": "多 after a round number means \"more than\".",
+     "examples": [
+      {
+       "zh": "二十多名学生",
+       "pinyin": "èrshí duō míng xuéshēng",
+       "en": "over twenty students"
+      },
+      {
+       "zh": "一百多块",
+       "pinyin": "yìbǎi duō kuài",
+       "en": "over a hundred yuan"
+      }
+     ]
+    },
+    {
+     "name": "Verb phrases as attributives",
+     "explanation": "A verb phrase or subject-verb phrase can describe a noun. Put it before 的.",
+     "examples": [
+      {
+       "zh": "我想买的东西",
+       "pinyin": "wǒ xiǎng mǎi de dōngxi",
+       "en": "the things I want to buy"
+      },
+      {
+       "zh": "来北京的人",
+       "pinyin": "lái Běijīng de rén",
+       "en": "the people who come to Beijing"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "车站太远了，我们（　）打车吧。",
+     "options": [
+      "还是",
+      "但",
+      "别",
+      "名"
+     ],
+     "answer": "还是",
+     "explanation": "还是……吧 gives the preferred option.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "教室里有二十（　）个学生。",
+     "options": [
+      "多",
+      "间",
+      "票",
+      "外"
+     ],
+     "answer": "多",
+     "explanation": "多 after a round number means \"more than\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Let's take a taxi instead.",
+     "tokens": [
+      "我们",
+      "还是",
+      "打车",
+      "吧"
+     ],
+     "explanation": "吧 ends the suggestion."
+    },
+    {
+     "type": "order",
+     "prompt": "the things I want to buy",
+     "tokens": [
+      "我",
+      "想",
+      "买",
+      "的",
+      "东西"
+     ],
+     "explanation": "The describing phrase goes before 的."
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "title": {
+    "zh": "我想去西安旅游",
+    "en": "I want to visit Xi'an"
+   },
+   "words": [
+    {
+     "hanzi": "不错",
+     "pinyin": "búcuò",
+     "pos": "adjective",
+     "meaning": "quite good"
+    },
+    {
+     "hanzi": "出去",
+     "pinyin": "chūqù",
+     "pos": "verb",
+     "meaning": "to go out"
+    },
+    {
+     "hanzi": "回来",
+     "pinyin": "huílái",
+     "pos": "verb",
+     "meaning": "to come back"
+    },
+    {
+     "hanzi": "回去",
+     "pinyin": "huíqù",
+     "pos": "verb",
+     "meaning": "to go back"
+    },
+    {
+     "hanzi": "累",
+     "pinyin": "lèi",
+     "pos": "adjective",
+     "meaning": "tired"
+    },
+    {
+     "hanzi": "每",
+     "pinyin": "měi",
+     "pos": "pronoun",
+     "meaning": "every"
+    },
+    {
+     "hanzi": "拿",
+     "pinyin": "ná",
+     "pos": "verb",
+     "meaning": "to take, to hold"
+    },
+    {
+     "hanzi": "手",
+     "pinyin": "shǒu",
+     "pos": "noun",
+     "meaning": "hand"
+    },
+    {
+     "hanzi": "送",
+     "pinyin": "sòng",
+     "pos": "verb",
+     "meaning": "to give (as a gift)"
+    },
+    {
+     "hanzi": "完",
+     "pinyin": "wán",
+     "pos": "verb",
+     "meaning": "to finish"
+    },
+    {
+     "hanzi": "为什么",
+     "pinyin": "wèi shénme",
+     "pos": "pronoun",
+     "meaning": "why"
+    },
+    {
+     "hanzi": "洗",
+     "pinyin": "xǐ",
+     "pos": "verb",
+     "meaning": "to wash"
+    },
+    {
+     "hanzi": "一起",
+     "pinyin": "yìqǐ",
+     "pos": "adverb",
+     "meaning": "together"
+    },
+    {
+     "hanzi": "这么",
+     "pinyin": "zhème",
+     "pos": "pronoun",
+     "meaning": "so, like this"
+    },
+    {
+     "hanzi": "自己",
+     "pinyin": "zìjǐ",
+     "pos": "pronoun",
+     "meaning": "oneself"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Planning a trip.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "今天的事你做完了吗？",
+       "pinyin": "Jīntiān de shì nǐ zuòwán le ma?",
+       "en": "Have you finished today's work?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "做完了。我想去西安旅游，你和我一起去吗？",
+       "pinyin": "Zuòwán le. Wǒ xiǎng qù Xī'ān lǚyóu, nǐ hé wǒ yìqǐ qù ma?",
+       "en": "Yes. I want to visit Xi'an. Will you come with me?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "为什么去那儿？",
+       "pinyin": "Wèi shénme qù nàr?",
+       "en": "Why go there?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "那儿的东西不错。你看看这个。",
+       "pinyin": "Nàr de dōngxi búcuò. Nǐ kànkan zhège.",
+       "en": "There are nice things there. Have a look at this."
+      }
+     ]
+    },
+    {
+     "scene": "A tired friend comes home.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你累了吧？洗洗手，休息休息。",
+       "pinyin": "Nǐ lèi le ba? Xǐxi shǒu, xiūxi xiūxi.",
+       "en": "You must be tired. Wash your hands and have a rest."
+      },
+      {
+       "speaker": "B：",
+       "zh": "好。我每天都这么忙！",
+       "pinyin": "Hǎo. Wǒ měi tiān dōu zhème máng!",
+       "en": "Okay. I'm this busy every day!"
+      },
+      {
+       "speaker": "A：",
+       "zh": "你昨天休息了一下，今天还累吗？",
+       "pinyin": "Nǐ zuótiān xiūxile yíxià, jīntiān hái lèi ma?",
+       "en": "You rested a bit yesterday. Are you still tired today?"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Complement of result",
+     "explanation": "A verb or adjective right after a verb shows the result of the action. The negative uses 没.",
+     "examples": [
+      {
+       "zh": "我做完了。",
+       "pinyin": "Wǒ zuòwán le.",
+       "en": "I've finished it."
+      },
+      {
+       "zh": "我没看见。",
+       "pinyin": "Wǒ méi kànjiàn.",
+       "en": "I didn't see it."
+      }
+     ]
+    },
+    {
+     "name": "Verb reduplication (1)",
+     "explanation": "Repeating a verb makes an action sound short, casual or like a try. It is common in speech.",
+     "examples": [
+      {
+       "zh": "你看看。",
+       "pinyin": "Nǐ kànkan.",
+       "en": "Have a look."
+      },
+      {
+       "zh": "我们休息休息。",
+       "pinyin": "Wǒmen xiūxi xiūxi.",
+       "en": "Let's have a rest."
+      }
+     ]
+    },
+    {
+     "name": "Verb reduplication (2)",
+     "explanation": "For things already done, a one-syllable verb becomes A了A. A two-syllable verb normally uses AB了一下. A separable verb becomes A了AB.",
+     "examples": [
+      {
+       "zh": "我看了看。",
+       "pinyin": "Wǒ kànle kàn.",
+       "en": "I had a look."
+      },
+      {
+       "zh": "我休息了一下。",
+       "pinyin": "Wǒ xiūxile yíxià.",
+       "en": "I rested a bit."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "这本书我看（　）了。",
+     "options": [
+      "完",
+      "每",
+      "手",
+      "送"
+     ],
+     "answer": "完",
+     "explanation": "完 after a verb shows the action is finished.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "你（　）看这个。",
+     "options": [
+      "看",
+      "拿",
+      "累",
+      "洗"
+     ],
+     "answer": "看",
+     "explanation": "Repeating the verb makes it casual: 看看.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I've finished it.",
+     "tokens": [
+      "我",
+      "做",
+      "完",
+      "了"
+     ],
+     "explanation": "完 goes right after the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "I had a look.",
+     "tokens": [
+      "我",
+      "看",
+      "了",
+      "看"
+     ],
+     "explanation": "Past actions use A了A."
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "title": {
+    "zh": "你穿红色的很好看",
+    "en": "You look pretty good in red"
+   },
+   "words": [
+    {
+     "hanzi": "白色",
+     "pinyin": "báisè",
+     "pos": "noun",
+     "meaning": "white"
+    },
+    {
+     "hanzi": "更",
+     "pinyin": "gèng",
+     "pos": "adverb",
+     "meaning": "even more",
+     "extra": true
+    },
+    {
+     "hanzi": "过去",
+     "pinyin": "guòqù",
+     "pos": "verb",
+     "meaning": "to go over"
+    },
+    {
+     "hanzi": "过",
+     "pinyin": "guo",
+     "pos": "particle",
+     "meaning": "shows past experience"
+    },
+    {
+     "hanzi": "黑色",
+     "pinyin": "hēisè",
+     "pos": "noun",
+     "meaning": "black"
+    },
+    {
+     "hanzi": "红色",
+     "pinyin": "hóngsè",
+     "pos": "noun",
+     "meaning": "red"
+    },
+    {
+     "hanzi": "进去",
+     "pinyin": "jìnqù",
+     "pos": "verb",
+     "meaning": "to go in"
+    },
+    {
+     "hanzi": "裤子",
+     "pinyin": "kùzi",
+     "pos": "noun",
+     "meaning": "trousers"
+    },
+    {
+     "hanzi": "绿色",
+     "pinyin": "lǜsè",
+     "pos": "noun",
+     "meaning": "green"
+    },
+    {
+     "hanzi": "商场",
+     "pinyin": "shāngchǎng",
+     "pos": "noun",
+     "meaning": "shopping mall"
+    },
+    {
+     "hanzi": "试",
+     "pinyin": "shì",
+     "pos": "verb",
+     "meaning": "to try",
+     "extra": true
+    },
+    {
+     "hanzi": "书包",
+     "pinyin": "shūbāo",
+     "pos": "noun",
+     "meaning": "school bag"
+    },
+    {
+     "hanzi": "所以",
+     "pinyin": "suǒyǐ",
+     "pos": "conjunction",
+     "meaning": "so, therefore"
+    },
+    {
+     "hanzi": "条",
+     "pinyin": "tiáo",
+     "pos": "measure word",
+     "meaning": "measure word for long things"
+    },
+    {
+     "hanzi": "颜色",
+     "pinyin": "yánsè",
+     "pos": "noun",
+     "meaning": "colour"
+    },
+    {
+     "hanzi": "因为",
+     "pinyin": "yīnwèi",
+     "pos": "conjunction",
+     "meaning": "because"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Shopping for clothes.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这条红色的裤子你试过吗？",
+       "pinyin": "Zhè tiáo hóngsè de kùzi nǐ shìguo ma?",
+       "en": "Have you tried these red trousers?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "试过。我穿红色的不好看，还是黑色的好。",
+       "pinyin": "Shìguo. Wǒ chuān hóngsè de bù hǎokàn, háishi hēisè de hǎo.",
+       "en": "Yes. Red doesn't suit me. Black is better."
+      },
+      {
+       "speaker": "A：",
+       "zh": "白色的呢？更好看！",
+       "pinyin": "Báisè de ne? Gèng hǎokàn!",
+       "en": "What about the white ones? Even nicer!"
+      }
+     ]
+    },
+    {
+     "scene": "Talking about a trip.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你去过商场吗？",
+       "pinyin": "Nǐ qùguo shāngchǎng ma?",
+       "en": "Have you been to the mall?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "没去过。因为太远，所以我在网上买书包。",
+       "pinyin": "Méi qùguo. Yīnwèi tài yuǎn, suǒyǐ wǒ zài wǎngshang mǎi shūbāo.",
+       "en": "No. It's too far, so I buy school bags online."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The aspect particle 过",
+     "explanation": "过 after a verb shows that something has happened at some time in the past. The negative is 没 + verb + 过.",
+     "examples": [
+      {
+       "zh": "我去过北京。",
+       "pinyin": "Wǒ qùguo Běijīng.",
+       "en": "I've been to Beijing."
+      },
+      {
+       "zh": "我没吃过这个菜。",
+       "pinyin": "Wǒ méi chīguo zhège cài.",
+       "en": "I've never eaten this dish."
+      }
+     ]
+    },
+    {
+     "name": "因为……，所以……",
+     "explanation": "This pair links a cause with its result.",
+     "examples": [
+      {
+       "zh": "因为太远，所以我不去。",
+       "pinyin": "Yīnwèi tài yuǎn, suǒyǐ wǒ bú qù.",
+       "en": "It's too far, so I'm not going."
+      }
+     ]
+    },
+    {
+     "name": "The 的 phrase",
+     "explanation": "Adding 的 after a word can replace a noun that is already understood.",
+     "examples": [
+      {
+       "zh": "红色的",
+       "pinyin": "hóngsè de",
+       "en": "the red one"
+      },
+      {
+       "zh": "我买的",
+       "pinyin": "wǒ mǎi de",
+       "en": "the one I bought"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我去（　）北京。",
+     "options": [
+      "过",
+      "条",
+      "试",
+      "更"
+     ],
+     "answer": "过",
+     "explanation": "过 after a verb shows past experience.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "（　）太远，所以我不去。",
+     "options": [
+      "因为",
+      "但",
+      "更",
+      "好"
+     ],
+     "answer": "因为",
+     "explanation": "因为 gives the reason and 所以 gives the result.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I've never eaten this dish.",
+     "tokens": [
+      "我",
+      "没",
+      "吃",
+      "过",
+      "这个",
+      "菜"
+     ],
+     "explanation": "没 + verb + 过 is the negative."
+    },
+    {
+     "type": "order",
+     "prompt": "Red doesn't suit me.",
+     "tokens": [
+      "我",
+      "穿",
+      "红色",
+      "的",
+      "不",
+      "好看"
+     ],
+     "explanation": "红色的 stands for the red clothes."
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "title": {
+    "zh": "第一次去中国朋友家",
+    "en": "Visiting a Chinese friend's home for the first time"
+   },
+   "words": [
+    {
+     "hanzi": "等",
+     "pinyin": "děng",
+     "pos": "verb",
+     "meaning": "to wait"
+    },
+    {
+     "hanzi": "跟",
+     "pinyin": "gēn",
+     "pos": "preposition",
+     "meaning": "with"
+    },
+    {
+     "hanzi": "进来",
+     "pinyin": "jìnlái",
+     "pos": "verb",
+     "meaning": "to come in"
+    },
+    {
+     "hanzi": "酒店",
+     "pinyin": "jiǔdiàn",
+     "pos": "noun",
+     "meaning": "hotel"
+    },
+    {
+     "hanzi": "快",
+     "pinyin": "kuài",
+     "pos": "adjective",
+     "meaning": "fast"
+    },
+    {
+     "hanzi": "礼物",
+     "pinyin": "lǐwù",
+     "pos": "noun",
+     "meaning": "gift",
+     "extra": true
+    },
+    {
+     "hanzi": "面",
+     "pinyin": "miàn",
+     "pos": "noun",
+     "meaning": "noodles; flour"
+    },
+    {
+     "hanzi": "奶茶",
+     "pinyin": "nǎichá",
+     "pos": "noun",
+     "meaning": "milk tea"
+    },
+    {
+     "hanzi": "奶奶",
+     "pinyin": "nǎinai",
+     "pos": "noun",
+     "meaning": "grandma"
+    },
+    {
+     "hanzi": "上来",
+     "pinyin": "shànglái",
+     "pos": "verb",
+     "meaning": "to come up"
+    },
+    {
+     "hanzi": "上去",
+     "pinyin": "shàngqù",
+     "pos": "verb",
+     "meaning": "to go up"
+    },
+    {
+     "hanzi": "下来",
+     "pinyin": "xiàlái",
+     "pos": "verb",
+     "meaning": "to come down"
+    },
+    {
+     "hanzi": "下面",
+     "pinyin": "xiàmian",
+     "pos": "noun",
+     "meaning": "below, under"
+    },
+    {
+     "hanzi": "下去",
+     "pinyin": "xiàqù",
+     "pos": "verb",
+     "meaning": "to go down"
+    },
+    {
+     "hanzi": "爷爷",
+     "pinyin": "yéye",
+     "pos": "noun",
+     "meaning": "grandpa"
+    },
+    {
+     "hanzi": "一会儿",
+     "pinyin": "yíhuìr",
+     "pos": "noun",
+     "meaning": "a moment"
+    },
+    {
+     "hanzi": "准备",
+     "pinyin": "zhǔnbèi",
+     "pos": "verb",
+     "meaning": "to prepare"
+    },
+    {
+     "hanzi": "走",
+     "pinyin": "zǒu",
+     "pos": "verb",
+     "meaning": "to walk, to leave"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Arriving at a friend's flat.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你到了吗？我下去接你。",
+       "pinyin": "Nǐ dào le ma? Wǒ xiàqù jiē nǐ.",
+       "en": "Are you here? I'll go down and meet you."
+      },
+      {
+       "speaker": "B：",
+       "zh": "到了，我在下面。这是给你奶奶和爷爷的礼物。",
+       "pinyin": "Dào le, wǒ zài xiàmian. Zhè shì gěi nǐ nǎinai hé yéye de lǐwù.",
+       "en": "Yes, I'm downstairs. This is a gift for your grandparents."
+      },
+      {
+       "speaker": "A：",
+       "zh": "谢谢！快上来，进来吧！",
+       "pinyin": "Xièxie! Kuài shànglái, jìnlái ba!",
+       "en": "Thanks! Come up quickly, come in!"
+      }
+     ]
+    },
+    {
+     "scene": "Getting ready for dinner.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "等一会儿，我去拿面。",
+       "pinyin": "Děng yíhuìr, wǒ qù ná miàn.",
+       "en": "Wait a moment, I'll go and get the noodles."
+      },
+      {
+       "speaker": "B：",
+       "zh": "都八点了，我们走吧。",
+       "pinyin": "Dōu bā diǎn le, wǒmen zǒu ba.",
+       "en": "It's already eight, let's go."
+      },
+      {
+       "speaker": "A：",
+       "zh": "别走，晚饭准备好了！",
+       "pinyin": "Bié zǒu, wǎnfàn zhǔnbèi hǎo le!",
+       "en": "Don't leave, dinner is ready!"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Simple complement of direction (1)",
+     "explanation": "来 after a verb means the movement is towards the speaker. 去 means it is away from the speaker.",
+     "examples": [
+      {
+       "zh": "你上来吧。",
+       "pinyin": "Nǐ shànglái ba.",
+       "en": "Come on up."
+      },
+      {
+       "zh": "我下去。",
+       "pinyin": "Wǒ xiàqù.",
+       "en": "I'm going down."
+      }
+     ]
+    },
+    {
+     "name": "Simple complement of direction (2)",
+     "explanation": "A place goes before 来 or 去. A thing can go before or after them.",
+     "examples": [
+      {
+       "zh": "他回家去了。",
+       "pinyin": "Tā huí jiā qù le.",
+       "en": "He has gone home."
+      },
+      {
+       "zh": "他拿来一杯茶。",
+       "pinyin": "Tā nálái yì bēi chá.",
+       "en": "He brought a cup of tea."
+      }
+     ]
+    },
+    {
+     "name": "The pattern 都……了",
+     "explanation": "都……了 stresses that something is later or more than expected.",
+     "examples": [
+      {
+       "zh": "都八点了。",
+       "pinyin": "Dōu bā diǎn le.",
+       "en": "It's already eight."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "你在下面，快（　）吧！",
+     "options": [
+      "上来",
+      "下去",
+      "走",
+      "等"
+     ],
+     "answer": "上来",
+     "explanation": "来 shows movement towards the speaker, who is upstairs.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "（　）十点了，我们走吧。",
+     "options": [
+      "都",
+      "快",
+      "面",
+      "跟"
+     ],
+     "answer": "都",
+     "explanation": "都……了 means \"already\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "He has gone home.",
+     "tokens": [
+      "他",
+      "回",
+      "家",
+      "去",
+      "了"
+     ],
+     "explanation": "A place goes before 去."
+    },
+    {
+     "type": "order",
+     "prompt": "It's already eight.",
+     "tokens": [
+      "都",
+      "八",
+      "点",
+      "了"
+     ],
+     "explanation": "都 comes first and 了 ends the sentence."
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "title": {
+    "zh": "小雪，生日快乐！",
+    "en": "Happy birthday, Xiaoxue!"
+   },
+   "words": [
+    {
+     "hanzi": "长",
+     "pinyin": "cháng",
+     "pos": "adjective",
+     "meaning": "long"
+    },
+    {
+     "hanzi": "床",
+     "pinyin": "chuáng",
+     "pos": "noun",
+     "meaning": "bed"
+    },
+    {
+     "hanzi": "打开",
+     "pinyin": "dǎkāi",
+     "pos": "verb",
+     "meaning": "to open"
+    },
+    {
+     "hanzi": "蛋糕",
+     "pinyin": "dàngāo",
+     "pos": "noun",
+     "meaning": "cake",
+     "extra": true
+    },
+    {
+     "hanzi": "地",
+     "pinyin": "de",
+     "pos": "particle",
+     "meaning": "links an adverbial to a verb"
+    },
+    {
+     "hanzi": "过",
+     "pinyin": "guò",
+     "pos": "verb",
+     "meaning": "to pass; to celebrate"
+    },
+    {
+     "hanzi": "画",
+     "pinyin": "huà",
+     "pos": "verb",
+     "meaning": "to draw, to paint"
+    },
+    {
+     "hanzi": "画笔",
+     "pinyin": "huàbǐ",
+     "pos": "noun",
+     "meaning": "paintbrush",
+     "extra": true
+    },
+    {
+     "hanzi": "快乐",
+     "pinyin": "kuàilè",
+     "pos": "adjective",
+     "meaning": "happy"
+    },
+    {
+     "hanzi": "肉",
+     "pinyin": "ròu",
+     "pos": "noun",
+     "meaning": "meat"
+    },
+    {
+     "hanzi": "生日",
+     "pinyin": "shēngrì",
+     "pos": "noun",
+     "meaning": "birthday"
+    },
+    {
+     "hanzi": "舒服",
+     "pinyin": "shūfu",
+     "pos": "adjective",
+     "meaning": "comfortable"
+    },
+    {
+     "hanzi": "忘",
+     "pinyin": "wàng",
+     "pos": "verb",
+     "meaning": "to forget"
+    },
+    {
+     "hanzi": "鱼",
+     "pinyin": "yú",
+     "pos": "noun",
+     "meaning": "fish"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "A birthday party.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "生日快乐！这是给你的画笔。",
+       "pinyin": "Shēngrì kuàilè! Zhè shì gěi nǐ de huàbǐ.",
+       "en": "Happy birthday! These paintbrushes are for you."
+      },
+      {
+       "speaker": "B：",
+       "zh": "谢谢！我打开看看。太好了！",
+       "pinyin": "Xièxie! Wǒ dǎkāi kànkan. Tài hǎo le!",
+       "en": "Thanks! I'll open it and see. Great!"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我们吃蛋糕、肉、鱼什么的吧。",
+       "pinyin": "Wǒmen chī dàngāo, ròu, yú shénme de ba.",
+       "en": "Let's eat cake, meat, fish and so on."
+      }
+     ]
+    },
+    {
+     "scene": "A lazy morning.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你怎么还在床上？",
+       "pinyin": "Nǐ zěnme hái zài chuáng shang?",
+       "en": "Why are you still in bed?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "今天休息，我想好好地睡觉。",
+       "pinyin": "Jīntiān xiūxi, wǒ xiǎng hǎohǎo de shuìjiào.",
+       "en": "It's my day off, I want to sleep well."
+      },
+      {
+       "speaker": "A：",
+       "zh": "别忘了，下午我们还要走一会儿。",
+       "pinyin": "Bié wàng le, xiàwǔ wǒmen hái yào zǒu yíhuìr.",
+       "en": "Don't forget, we're going for a walk this afternoon."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Adjective reduplication",
+     "explanation": "Repeating an adjective makes the description more vivid. It often adds liking.",
+     "examples": [
+      {
+       "zh": "大大的房间",
+       "pinyin": "dàdà de fángjiān",
+       "en": "a big, big room"
+      },
+      {
+       "zh": "小小的手",
+       "pinyin": "xiǎoxiǎo de shǒu",
+       "en": "tiny hands"
+      }
+     ]
+    },
+    {
+     "name": "The set phrase 什么的",
+     "explanation": "什么的 goes after a list and means \"and so on\".",
+     "examples": [
+      {
+       "zh": "蛋糕、肉、鱼什么的",
+       "pinyin": "dàngāo, ròu, yú shénme de",
+       "en": "cake, meat, fish and so on"
+      }
+     ]
+    },
+    {
+     "name": "The structural particle 地",
+     "explanation": "地 links a describing word to the verb that follows it.",
+     "examples": [
+      {
+       "zh": "他高兴地走了。",
+       "pinyin": "Tā gāoxìng de zǒu le.",
+       "en": "He left happily."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我们吃肉、鱼（　）。",
+     "options": [
+      "什么的",
+      "生日",
+      "打开",
+      "长"
+     ],
+     "answer": "什么的",
+     "explanation": "什么的 ends a list.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "他高兴（　）走了。",
+     "options": [
+      "地",
+      "的",
+      "得",
+      "忘"
+     ],
+     "answer": "地",
+     "explanation": "地 goes before a verb.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "He left happily.",
+     "tokens": [
+      "他",
+      "高兴",
+      "地",
+      "走",
+      "了"
+     ],
+     "explanation": "Describing word, 地, then the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "Don't forget.",
+     "tokens": [
+      "别",
+      "忘",
+      "了"
+     ],
+     "explanation": "别 means \"don't\"."
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "title": {
+    "zh": "他篮球打得很好",
+    "en": "He plays basketball very well"
+   },
+   "words": [
+    {
+     "hanzi": "爱好",
+     "pinyin": "àihào",
+     "pos": "noun",
+     "meaning": "hobby"
+    },
+    {
+     "hanzi": "从",
+     "pinyin": "cóng",
+     "pos": "preposition",
+     "meaning": "from"
+    },
+    {
+     "hanzi": "打",
+     "pinyin": "dǎ",
+     "pos": "verb",
+     "meaning": "to hit; to play"
+    },
+    {
+     "hanzi": "得",
+     "pinyin": "de",
+     "pos": "particle",
+     "meaning": "links a verb to how it is done"
+    },
+    {
+     "hanzi": "开始",
+     "pinyin": "kāishǐ",
+     "pos": "verb",
+     "meaning": "to start"
+    },
+    {
+     "hanzi": "篮球",
+     "pinyin": "lánqiú",
+     "pos": "noun",
+     "meaning": "basketball"
+    },
+    {
+     "hanzi": "跑",
+     "pinyin": "pǎo",
+     "pos": "verb",
+     "meaning": "to run"
+    },
+    {
+     "hanzi": "跑步",
+     "pinyin": "pǎobù",
+     "pos": "verb",
+     "meaning": "to run, to jog"
+    },
+    {
+     "hanzi": "球",
+     "pinyin": "qiú",
+     "pos": "noun",
+     "meaning": "ball"
+    },
+    {
+     "hanzi": "踢",
+     "pinyin": "tī",
+     "pos": "verb",
+     "meaning": "to kick"
+    },
+    {
+     "hanzi": "往",
+     "pinyin": "wǎng",
+     "pos": "preposition",
+     "meaning": "towards"
+    },
+    {
+     "hanzi": "游",
+     "pinyin": "yóu",
+     "pos": "verb",
+     "meaning": "to swim"
+    },
+    {
+     "hanzi": "游泳",
+     "pinyin": "yóuyǒng",
+     "pos": "verb",
+     "meaning": "to swim"
+    },
+    {
+     "hanzi": "运动",
+     "pinyin": "yùndòng",
+     "pos": "noun",
+     "meaning": "sport, exercise"
+    },
+    {
+     "hanzi": "足球",
+     "pinyin": "zúqiú",
+     "pos": "noun",
+     "meaning": "football"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Talking about sports.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你的爱好是什么？",
+       "pinyin": "Nǐ de àihào shì shénme?",
+       "en": "What's your hobby?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我喜欢运动。我打篮球，也踢足球。",
+       "pinyin": "Wǒ xǐhuan yùndòng. Wǒ dǎ lánqiú, yě tī zúqiú.",
+       "en": "I like sports. I play basketball and football too."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你打得怎么样？",
+       "pinyin": "Nǐ dǎ de zěnmeyàng?",
+       "en": "How well do you play?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我打得不好，我哥哥打得很好。",
+       "pinyin": "Wǒ dǎ de bù hǎo, wǒ gēge dǎ de hěn hǎo.",
+       "en": "I don't play well, but my brother plays very well."
+      }
+     ]
+    },
+    {
+     "scene": "At the pool.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你游泳游得真快！",
+       "pinyin": "Nǐ yóuyǒng yóu de zhēn kuài!",
+       "en": "You swim really fast!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "谢谢。我一到这儿就开始游。",
+       "pinyin": "Xièxie. Wǒ yí dào zhèr jiù kāishǐ yóu.",
+       "en": "Thanks. I start swimming as soon as I get here."
+      },
+      {
+       "speaker": "A：",
+       "zh": "我们从明天开始一起跑步吧。",
+       "pinyin": "Wǒmen cóng míngtiān kāishǐ yìqǐ pǎobù ba.",
+       "en": "Let's start running together from tomorrow."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The pattern 一……就……",
+     "explanation": "This shows that one thing happens right after another.",
+     "examples": [
+      {
+       "zh": "我一到家就休息。",
+       "pinyin": "Wǒ yí dào jiā jiù xiūxi.",
+       "en": "I rest as soon as I get home."
+      }
+     ]
+    },
+    {
+     "name": "Complement of state (1)",
+     "explanation": "得 after a verb is followed by a description of how the action goes. The negative puts 不 before the adjective.",
+     "examples": [
+      {
+       "zh": "他跑得很快。",
+       "pinyin": "Tā pǎo de hěn kuài.",
+       "en": "He runs fast."
+      },
+      {
+       "zh": "我跑得不快。",
+       "pinyin": "Wǒ pǎo de bú kuài.",
+       "en": "I don't run fast."
+      }
+     ]
+    },
+    {
+     "name": "Complement of state (2)",
+     "explanation": "With an object or a separable verb, repeat the verb, or move the object to the front.",
+     "examples": [
+      {
+       "zh": "他打篮球打得很好。",
+       "pinyin": "Tā dǎ lánqiú dǎ de hěn hǎo.",
+       "en": "He plays basketball very well."
+      },
+      {
+       "zh": "他篮球打得很好。",
+       "pinyin": "Tā lánqiú dǎ de hěn hǎo.",
+       "en": "He plays basketball very well."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "他跑（　）很快。",
+     "options": [
+      "得",
+      "地",
+      "的",
+      "从"
+     ],
+     "answer": "得",
+     "explanation": "得 links a verb to how it is done.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我（　）到家就休息。",
+     "options": [
+      "一",
+      "往",
+      "球",
+      "跑"
+     ],
+     "answer": "一",
+     "explanation": "一……就…… means \"as soon as\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "He plays basketball very well.",
+     "tokens": [
+      "他",
+      "打",
+      "篮球",
+      "打",
+      "得",
+      "很",
+      "好"
+     ],
+     "explanation": "With an object, the verb is repeated before 得."
+    },
+    {
+     "type": "order",
+     "prompt": "I rest as soon as I get home.",
+     "tokens": [
+      "我",
+      "一",
+      "到",
+      "家",
+      "就",
+      "休息"
+     ],
+     "explanation": "一 and 就 link the two actions."
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "title": {
+    "zh": "虽然你忘了，但是我记得",
+    "en": "Even though you forgot, I remembered"
+   },
+   "words": [
+    {
+     "hanzi": "爱情片",
+     "pinyin": "àiqíngpiàn",
+     "pos": "noun",
+     "meaning": "romance film",
+     "extra": true
+    },
+    {
+     "hanzi": "比",
+     "pinyin": "bǐ",
+     "pos": "preposition",
+     "meaning": "compared with, than"
+    },
+    {
+     "hanzi": "但是",
+     "pinyin": "dànshì",
+     "pos": "conjunction",
+     "meaning": "but"
+    },
+    {
+     "hanzi": "点",
+     "pinyin": "diǎn",
+     "pos": "verb",
+     "meaning": "to order (food)"
+    },
+    {
+     "hanzi": "饭馆",
+     "pinyin": "fànguǎn",
+     "pos": "noun",
+     "meaning": "restaurant"
+    },
+    {
+     "hanzi": "花",
+     "pinyin": "huā",
+     "pos": "noun",
+     "meaning": "flower; to spend",
+     "alsoIn": [
+      13
+     ]
+    },
+    {
+     "hanzi": "记得",
+     "pinyin": "jìde",
+     "pos": "verb",
+     "meaning": "to remember"
+    },
+    {
+     "hanzi": "妻子",
+     "pinyin": "qīzi",
+     "pos": "noun",
+     "meaning": "wife"
+    },
+    {
+     "hanzi": "手表",
+     "pinyin": "shǒubiǎo",
+     "pos": "noun",
+     "meaning": "watch"
+    },
+    {
+     "hanzi": "虽然",
+     "pinyin": "suīrán",
+     "pos": "conjunction",
+     "meaning": "although"
+    },
+    {
+     "hanzi": "有意思",
+     "pinyin": "yǒu yìsi",
+     "pos": "adjective",
+     "meaning": "interesting"
+    },
+    {
+     "hanzi": "右",
+     "pinyin": "yòu",
+     "pos": "noun",
+     "meaning": "right"
+    },
+    {
+     "hanzi": "右边",
+     "pinyin": "yòubian",
+     "pos": "noun",
+     "meaning": "right side"
+    },
+    {
+     "hanzi": "丈夫",
+     "pinyin": "zhàngfu",
+     "pos": "noun",
+     "meaning": "husband"
+    },
+    {
+     "hanzi": "左",
+     "pinyin": "zuǒ",
+     "pos": "noun",
+     "meaning": "left"
+    },
+    {
+     "hanzi": "左边",
+     "pinyin": "zuǒbian",
+     "pos": "noun",
+     "meaning": "left side"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "A forgotten date.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "今天几号？你记得吗？",
+       "pinyin": "Jīntiān jǐ hào? Nǐ jìde ma?",
+       "en": "What's the date today? Do you remember?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "虽然你忘了，但是我记得！这些花是给你的。",
+       "pinyin": "Suīrán nǐ wàng le, dànshì wǒ jìde! Zhèxiē huā shì gěi nǐ de.",
+       "en": "Though you forgot, I remembered! These flowers are for you."
+      },
+      {
+       "speaker": "A：",
+       "zh": "真漂亮！你是很好的丈夫。",
+       "pinyin": "Zhēn piàoliang! Nǐ shì hěn hǎo de zhàngfu.",
+       "en": "So pretty! You're a very good husband."
+      }
+     ]
+    },
+    {
+     "scene": "Choosing a restaurant.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这个饭馆比那个大。",
+       "pinyin": "Zhège fànguǎn bǐ nàge dà.",
+       "en": "This restaurant is bigger than that one."
+      },
+      {
+       "speaker": "B：",
+       "zh": "但是那个更便宜。",
+       "pinyin": "Dànshì nàge gèng piányi.",
+       "en": "But that one is even cheaper."
+      },
+      {
+       "speaker": "A：",
+       "zh": "好，我们去左边的那个，点几个菜。",
+       "pinyin": "Hǎo, wǒmen qù zuǒbian de nàge, diǎn jǐ ge cài.",
+       "en": "Okay, let's go to the one on the left and order some dishes."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Comparative sentences (1)",
+     "explanation": "Use 比 to compare two things: A 比 B + adjective.",
+     "examples": [
+      {
+       "zh": "今天比昨天冷。",
+       "pinyin": "Jīntiān bǐ zuótiān lěng.",
+       "en": "Today is colder than yesterday."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (2)",
+     "explanation": "With 比, don't use 很 or 非常 before the adjective. Use 还 or 更 for \"even more\".",
+     "examples": [
+      {
+       "zh": "今天比昨天更冷。",
+       "pinyin": "Jīntiān bǐ zuótiān gèng lěng.",
+       "en": "Today is even colder than yesterday."
+      }
+     ]
+    },
+    {
+     "name": "虽然……，但是……",
+     "explanation": "This pair means \"although... (still)\". English uses only one of the two words, but Chinese can use both.",
+     "examples": [
+      {
+       "zh": "虽然你忘了，但是我记得。",
+       "pinyin": "Suīrán nǐ wàng le, dànshì wǒ jìde.",
+       "en": "Though you forgot, I remembered."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "今天（　）昨天冷。",
+     "options": [
+      "比",
+      "很",
+      "左",
+      "花"
+     ],
+     "answer": "比",
+     "explanation": "A 比 B + adjective compares two things.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "这个比那个（　）贵。",
+     "options": [
+      "更",
+      "很",
+      "非常",
+      "右"
+     ],
+     "answer": "更",
+     "explanation": "After 比, use 更, not 很 or 非常.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Today is colder than yesterday.",
+     "tokens": [
+      "今天",
+      "比",
+      "昨天",
+      "冷"
+     ],
+     "explanation": "A 比 B + adjective."
+    },
+    {
+     "type": "order",
+     "prompt": "Though you forgot, I remembered.",
+     "tokens": [
+      "虽然",
+      "你",
+      "忘",
+      "了",
+      "但是",
+      "我",
+      "记得"
+     ],
+     "explanation": "虽然 first, 但是 second."
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "title": {
+    "zh": "我去买杯奶茶",
+    "en": "I'm going to buy a cup of bubble tea"
+   },
+   "words": [
+    {
+     "hanzi": "高",
+     "pinyin": "gāo",
+     "pos": "adjective",
+     "meaning": "tall, high"
+    },
+    {
+     "hanzi": "个子",
+     "pinyin": "gèzi",
+     "pos": "noun",
+     "meaning": "height, build"
+    },
+    {
+     "hanzi": "坏",
+     "pinyin": "huài",
+     "pos": "adjective",
+     "meaning": "broken, bad"
+    },
+    {
+     "hanzi": "近",
+     "pinyin": "jìn",
+     "pos": "adjective",
+     "meaning": "near, close"
+    },
+    {
+     "hanzi": "咖啡",
+     "pinyin": "kāfēi",
+     "pos": "noun",
+     "meaning": "coffee"
+    },
+    {
+     "hanzi": "离",
+     "pinyin": "lí",
+     "pos": "verb",
+     "meaning": "to be away from"
+    },
+    {
+     "hanzi": "门口",
+     "pinyin": "ménkǒu",
+     "pos": "noun",
+     "meaning": "doorway, entrance"
+    },
+    {
+     "hanzi": "那么",
+     "pinyin": "nàme",
+     "pos": "pronoun",
+     "meaning": "so, like that"
+    },
+    {
+     "hanzi": "男孩儿",
+     "pinyin": "nánháir",
+     "pos": "noun",
+     "meaning": "boy"
+    },
+    {
+     "hanzi": "旁边",
+     "pinyin": "pángbiān",
+     "pos": "noun",
+     "meaning": "beside, next to"
+    },
+    {
+     "hanzi": "这样",
+     "pinyin": "zhèyàng",
+     "pos": "pronoun",
+     "meaning": "this way, like this"
+    },
+    {
+     "hanzi": "周",
+     "pinyin": "zhōu",
+     "pos": "noun",
+     "meaning": "week"
+    },
+    {
+     "hanzi": "走路",
+     "pinyin": "zǒulù",
+     "pos": "verb",
+     "meaning": "to walk"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "A walk to the shop.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "我去买杯奶茶，你要喝吗？",
+       "pinyin": "Wǒ qù mǎi bēi nǎichá, nǐ yào hē ma?",
+       "en": "I'm going to buy a milk tea. Do you want one?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我喝咖啡。店离这儿远吗？",
+       "pinyin": "Wǒ hē kāfēi. Diàn lí zhèr yuǎn ma?",
+       "en": "I'll have coffee. Is the shop far from here?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "很近，就在学校门口旁边，走路五分钟。",
+       "pinyin": "Hěn jìn, jiù zài xuéxiào ménkǒu pángbiān, zǒulù wǔ fēnzhōng.",
+       "en": "It's close, right next to the school gate, a five-minute walk."
+      }
+     ]
+    },
+    {
+     "scene": "Comparing two brothers.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你哥哥个子高吗？",
+       "pinyin": "Nǐ gēge gèzi gāo ma?",
+       "en": "Is your older brother tall?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我没有他那么高。",
+       "pinyin": "Wǒ méiyǒu tā nàme gāo.",
+       "en": "I'm not as tall as him."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你们每周打几个小时球？",
+       "pinyin": "Nǐmen měi zhōu dǎ jǐ ge xiǎoshí qiú?",
+       "en": "How many hours a week do you play ball?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我们打两个小时。",
+       "pinyin": "Wǒmen dǎ liǎng ge xiǎoshí.",
+       "en": "We play for two hours."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Comparative sentences (3)",
+     "explanation": "没有 compares and means \"not as... as\": A 没有 B + adjective. You can add 这么 or 那么.",
+     "examples": [
+      {
+       "zh": "姐姐没有哥哥高。",
+       "pinyin": "Jiějie méiyǒu gēge gāo.",
+       "en": "My sister isn't as tall as my brother."
+      }
+     ]
+    },
+    {
+     "name": "The verb 离",
+     "explanation": "离 gives the distance between two places or times.",
+     "examples": [
+      {
+       "zh": "学校离这儿很近。",
+       "pinyin": "Xuéxiào lí zhèr hěn jìn.",
+       "en": "The school is close to here."
+      }
+     ]
+    },
+    {
+     "name": "Complement of duration (1)",
+     "explanation": "A length of time goes after the verb to show how long something lasts.",
+     "examples": [
+      {
+       "zh": "我们休息十分钟。",
+       "pinyin": "Wǒmen xiūxi shí fēnzhōng.",
+       "en": "Let's rest for ten minutes."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "学校（　）这儿很近。",
+     "options": [
+      "离",
+      "从",
+      "往",
+      "比"
+     ],
+     "answer": "离",
+     "explanation": "离 gives the distance between places.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我（　）他那么高。",
+     "options": [
+      "没有",
+      "不是",
+      "比",
+      "很"
+     ],
+     "answer": "没有",
+     "explanation": "A 没有 B means A is not as... as B.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Let's rest for ten minutes.",
+     "tokens": [
+      "我们",
+      "休息",
+      "十",
+      "分钟"
+     ],
+     "explanation": "The length of time goes after the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "My sister isn't as tall as my brother.",
+     "tokens": [
+      "姐姐",
+      "没有",
+      "哥哥",
+      "高"
+     ],
+     "explanation": "A 没有 B + adjective."
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": {
+    "zh": "就要考试了",
+    "en": "The exam is coming"
+   },
+   "words": [
+    {
+     "hanzi": "帮",
+     "pinyin": "bāng",
+     "pos": "verb",
+     "meaning": "to help"
+    },
+    {
+     "hanzi": "本子",
+     "pinyin": "běnzi",
+     "pos": "noun",
+     "meaning": "notebook"
+    },
+    {
+     "hanzi": "笔",
+     "pinyin": "bǐ",
+     "pos": "noun",
+     "meaning": "pen",
+     "alsoIn": [
+      13
+     ]
+    },
+    {
+     "hanzi": "词",
+     "pinyin": "cí",
+     "pos": "noun",
+     "meaning": "word"
+    },
+    {
+     "hanzi": "错",
+     "pinyin": "cuò",
+     "pos": "adjective",
+     "meaning": "wrong"
+    },
+    {
+     "hanzi": "后面",
+     "pinyin": "hòumiàn",
+     "pos": "noun",
+     "meaning": "behind, at the back"
+    },
+    {
+     "hanzi": "开学",
+     "pinyin": "kāixué",
+     "pos": "verb",
+     "meaning": "school starts"
+    },
+    {
+     "hanzi": "考",
+     "pinyin": "kǎo",
+     "pos": "verb",
+     "meaning": "to take a test"
+    },
+    {
+     "hanzi": "考试",
+     "pinyin": "kǎoshì",
+     "pos": "noun",
+     "meaning": "exam"
+    },
+    {
+     "hanzi": "快要",
+     "pinyin": "kuàiyào",
+     "pos": "adverb",
+     "meaning": "about to"
+    },
+    {
+     "hanzi": "门",
+     "pinyin": "mén",
+     "pos": "noun",
+     "meaning": "door"
+    },
+    {
+     "hanzi": "题",
+     "pinyin": "tí",
+     "pos": "noun",
+     "meaning": "question (on a test)"
+    },
+    {
+     "hanzi": "笑",
+     "pinyin": "xiào",
+     "pos": "verb",
+     "meaning": "to laugh, to smile"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Before the exam.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "快要考试了，你准备好了吗？",
+       "pinyin": "Kuàiyào kǎoshì le, nǐ zhǔnbèi hǎo le ma?",
+       "en": "The exam is coming. Are you ready?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "没有。这些题错了吗？",
+       "pinyin": "Méiyǒu. Zhèxiē tí cuò le ma?",
+       "en": "No. Are these answers wrong?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我帮你看看。这个词你写错了。",
+       "pinyin": "Wǒ bāng nǐ kànkan. Zhège cí nǐ xiě cuò le.",
+       "en": "Let me help you look. You wrote this word wrongly."
+      }
+     ]
+    },
+    {
+     "scene": "Back at school.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你是今天开学还是明天开学？",
+       "pinyin": "Nǐ shì jīntiān kāixué háishi míngtiān kāixué?",
+       "en": "Does school start today or tomorrow?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "明天。我们班人很多，就要上学了，真高兴！",
+       "pinyin": "Míngtiān. Wǒmen bān rén hěn duō, jiù yào shàngxué le, zhēn gāoxìng!",
+       "en": "Tomorrow. Our class is big, and school is about to start. I'm so happy!"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Subject-predicate phrases as predicates",
+     "explanation": "The predicate can itself be a small subject + predicate. This describes one part of the main subject.",
+     "examples": [
+      {
+       "zh": "他个子很高。",
+       "pinyin": "Tā gèzi hěn gāo.",
+       "en": "He is tall."
+      }
+     ]
+    },
+    {
+     "name": "Alternative questions",
+     "explanation": "Use 还是 between two choices to ask which one is true.",
+     "examples": [
+      {
+       "zh": "你喝茶还是喝咖啡？",
+       "pinyin": "Nǐ hē chá háishi hē kāfēi?",
+       "en": "Would you like tea or coffee?"
+      }
+     ]
+    },
+    {
+     "name": "The pattern 要/快/快要/就要……了",
+     "explanation": "These show that something will happen soon. Time words can go before 就要, but not before 快要.",
+     "examples": [
+      {
+       "zh": "快要考试了。",
+       "pinyin": "Kuàiyào kǎoshì le.",
+       "en": "The exam is coming soon."
+      },
+      {
+       "zh": "明天就要开学了。",
+       "pinyin": "Míngtiān jiù yào kāixué le.",
+       "en": "School starts tomorrow."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "你喝茶（　）喝咖啡？",
+     "options": [
+      "还是",
+      "但",
+      "笑",
+      "词"
+     ],
+     "answer": "还是",
+     "explanation": "还是 in a question offers a choice.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "明天（　）要考试了。",
+     "options": [
+      "就",
+      "快",
+      "门",
+      "帮"
+     ],
+     "answer": "就",
+     "explanation": "A time word can go before 就要.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "The exam is coming soon.",
+     "tokens": [
+      "快要",
+      "考试",
+      "了"
+     ],
+     "explanation": "快要 and 了 wrap the event."
+    },
+    {
+     "type": "order",
+     "prompt": "He is tall.",
+     "tokens": [
+      "他",
+      "个子",
+      "很",
+      "高"
+     ],
+     "explanation": "个子很高 is the predicate."
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": {
+    "zh": "我最喜欢吃中国菜",
+    "en": "I like Chinese food the most"
+   },
+   "words": [
+    {
+     "hanzi": "动",
+     "pinyin": "dòng",
+     "pos": "verb",
+     "meaning": "to move"
+    },
+    {
+     "hanzi": "进",
+     "pinyin": "jìn",
+     "pos": "verb",
+     "meaning": "to enter"
+    },
+    {
+     "hanzi": "经常",
+     "pinyin": "jīngcháng",
+     "pos": "adverb",
+     "meaning": "often"
+    },
+    {
+     "hanzi": "路上",
+     "pinyin": "lùshang",
+     "pos": "noun",
+     "meaning": "on the road, on the way"
+    },
+    {
+     "hanzi": "慢",
+     "pinyin": "màn",
+     "pos": "adjective",
+     "meaning": "slow"
+    },
+    {
+     "hanzi": "身体",
+     "pinyin": "shēntǐ",
+     "pos": "noun",
+     "meaning": "body, health"
+    },
+    {
+     "hanzi": "时",
+     "pinyin": "shí",
+     "pos": "noun",
+     "meaning": "time, when"
+    },
+    {
+     "hanzi": "疼",
+     "pinyin": "téng",
+     "pos": "adjective",
+     "meaning": "painful"
+    },
+    {
+     "hanzi": "头",
+     "pinyin": "tóu",
+     "pos": "noun",
+     "meaning": "head"
+    },
+    {
+     "hanzi": "药",
+     "pinyin": "yào",
+     "pos": "noun",
+     "meaning": "medicine"
+    },
+    {
+     "hanzi": "药店",
+     "pinyin": "yàodiàn",
+     "pos": "noun",
+     "meaning": "pharmacy"
+    },
+    {
+     "hanzi": "着",
+     "pinyin": "zhe",
+     "pos": "particle",
+     "meaning": "shows a continuing action or state"
+    },
+    {
+     "hanzi": "最",
+     "pinyin": "zuì",
+     "pos": "adverb",
+     "meaning": "most"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "At a restaurant.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你最喜欢吃什么？",
+       "pinyin": "Nǐ zuì xǐhuan chī shénme?",
+       "en": "What do you like eating most?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我最喜欢吃中国菜。饭店门开着吗？",
+       "pinyin": "Wǒ zuì xǐhuan chī Zhōngguó cài. Fàndiàn mén kāizhe ma?",
+       "en": "I like Chinese food the most. Is the restaurant open?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "开着。路上还下着雨，我们快进去吧。",
+       "pinyin": "Kāizhe. Lùshang hái xiàzhe yǔ, wǒmen kuài jìnqù ba.",
+       "en": "Yes. It's still raining out, let's go in quickly."
+      }
+     ]
+    },
+    {
+     "scene": "Feeling ill.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你头疼吗？",
+       "pinyin": "Nǐ tóu téng ma?",
+       "en": "Do you have a headache?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "有点儿疼。我经常这样。",
+       "pinyin": "Yǒudiǎnr téng. Wǒ jīngcháng zhèyàng.",
+       "en": "A little. I'm often like this."
+      },
+      {
+       "speaker": "A：",
+       "zh": "别动，我去药店买药。",
+       "pinyin": "Bié dòng, wǒ qù yàodiàn mǎi yào.",
+       "en": "Don't move, I'll go to the pharmacy for some medicine."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The aspect particle 着 (1)",
+     "explanation": "着 after a verb shows that an action or state is continuing. The negative is 没(有) before the verb.",
+     "examples": [
+      {
+       "zh": "门开着。",
+       "pinyin": "Mén kāizhe.",
+       "en": "The door is open."
+      },
+      {
+       "zh": "门没开着。",
+       "pinyin": "Mén méi kāizhe.",
+       "en": "The door isn't open."
+      }
+     ]
+    },
+    {
+     "name": "The aspect particle 着 (2)",
+     "explanation": "The object goes after 着.",
+     "examples": [
+      {
+       "zh": "外面下着雨。",
+       "pinyin": "Wàimiàn xiàzhe yǔ.",
+       "en": "It's raining outside."
+      },
+      {
+       "zh": "他拿着一本书。",
+       "pinyin": "Tā názhe yì běn shū.",
+       "en": "He's holding a book."
+      }
+     ]
+    },
+    {
+     "name": "The adverb 最",
+     "explanation": "最 means \"the most\". It goes before an adjective or a verb like 喜欢.",
+     "examples": [
+      {
+       "zh": "我最喜欢中国菜。",
+       "pinyin": "Wǒ zuì xǐhuan Zhōngguó cài.",
+       "en": "I like Chinese food the most."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "门开（　）。",
+     "options": [
+      "着",
+      "过",
+      "头",
+      "药"
+     ],
+     "answer": "着",
+     "explanation": "着 shows a continuing state.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我（　）喜欢吃鱼。",
+     "options": [
+      "最",
+      "慢",
+      "时",
+      "进"
+     ],
+     "answer": "最",
+     "explanation": "最 goes before the verb.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "He's holding a book.",
+     "tokens": [
+      "他",
+      "拿",
+      "着",
+      "一",
+      "本",
+      "书"
+     ],
+     "explanation": "The object goes after 着."
+    },
+    {
+     "type": "order",
+     "prompt": "I like Chinese food the most.",
+     "tokens": [
+      "我",
+      "最",
+      "喜欢",
+      "中国",
+      "菜"
+     ],
+     "explanation": "最 goes before 喜欢."
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": {
+    "zh": "这里比北京冷多了",
+    "en": "It's much colder here than in Beijing"
+   },
+   "words": [
+    {
+     "hanzi": "从小",
+     "pinyin": "cóngxiǎo",
+     "pos": "adverb",
+     "meaning": "since childhood"
+    },
+    {
+     "hanzi": "地铁",
+     "pinyin": "dìtiě",
+     "pos": "noun",
+     "meaning": "subway"
+    },
+    {
+     "hanzi": "好",
+     "pinyin": "hǎo",
+     "pos": "adjective",
+     "meaning": "good; (after a verb) done properly"
+    },
+    {
+     "hanzi": "楼",
+     "pinyin": "lóu",
+     "pos": "noun",
+     "meaning": "building, floor"
+    },
+    {
+     "hanzi": "晴",
+     "pinyin": "qíng",
+     "pos": "adjective",
+     "meaning": "sunny"
+    },
+    {
+     "hanzi": "事情",
+     "pinyin": "shìqing",
+     "pos": "noun",
+     "meaning": "matter, thing"
+    },
+    {
+     "hanzi": "外面",
+     "pinyin": "wàimiàn",
+     "pos": "noun",
+     "meaning": "outside"
+    },
+    {
+     "hanzi": "小时候",
+     "pinyin": "xiǎoshíhou",
+     "pos": "noun",
+     "meaning": "in childhood"
+    },
+    {
+     "hanzi": "阴",
+     "pinyin": "yīn",
+     "pos": "adjective",
+     "meaning": "cloudy"
+    },
+    {
+     "hanzi": "站",
+     "pinyin": "zhàn",
+     "pos": "verb",
+     "meaning": "to stand; n. station",
+     "alsoIn": [
+      14
+     ]
+    },
+    {
+     "hanzi": "正",
+     "pinyin": "zhèng",
+     "pos": "adverb",
+     "meaning": "just, right now"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Comparing cities by phone.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你那儿天气怎么样？",
+       "pinyin": "Nǐ nàr tiānqì zěnmeyàng?",
+       "en": "How's the weather where you are?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "今天阴，比北京冷多了。",
+       "pinyin": "Jīntiān yīn, bǐ Běijīng lěng duō le.",
+       "en": "It's cloudy today, much colder than Beijing."
+      },
+      {
+       "speaker": "A：",
+       "zh": "北京很晴，外面很舒服。",
+       "pinyin": "Běijīng hěn qíng, wàimiàn hěn shūfu.",
+       "en": "Beijing is sunny, it's lovely outside."
+      }
+     ]
+    },
+    {
+     "scene": "Comparing two runners.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你弟弟从小就喜欢运动。",
+       "pinyin": "Nǐ dìdi cóngxiǎo jiù xǐhuan yùndòng.",
+       "en": "Your younger brother has loved sports since he was small."
+      },
+      {
+       "speaker": "B：",
+       "zh": "他跑得比我快得多。",
+       "pinyin": "Tā pǎo de bǐ wǒ kuài de duō.",
+       "en": "He runs much faster than me."
+      },
+      {
+       "speaker": "A：",
+       "zh": "他坐地铁比我走得早。",
+       "pinyin": "Tā zuò dìtiě bǐ wǒ zǒu de zǎo.",
+       "en": "He takes the subway and leaves earlier than me."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Comparative sentences (4)",
+     "explanation": "多了 or 得多 after the adjective shows a big difference.",
+     "examples": [
+      {
+       "zh": "今天比昨天热多了。",
+       "pinyin": "Jīntiān bǐ zuótiān rè duō le.",
+       "en": "Today is much hotter than yesterday."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (5)",
+     "explanation": "With a complement of state, 比 can go before the verb or after 得.",
+     "examples": [
+      {
+       "zh": "我写得比他快。",
+       "pinyin": "Wǒ xiě de bǐ tā kuài.",
+       "en": "I write faster than him."
+      },
+      {
+       "zh": "我比他写得快。",
+       "pinyin": "Wǒ bǐ tā xiě de kuài.",
+       "en": "I write faster than him."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (6)",
+     "explanation": "When the verb also has an object, move the object forward or repeat the verb.",
+     "examples": [
+      {
+       "zh": "他足球比我踢得好。",
+       "pinyin": "Tā zúqiú bǐ wǒ tī de hǎo.",
+       "en": "He plays football better than me."
+      },
+      {
+       "zh": "他踢足球比我踢得好。",
+       "pinyin": "Tā tī zúqiú bǐ wǒ tī de hǎo.",
+       "en": "He plays football better than me."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "今天比昨天热（　）。",
+     "options": [
+      "多了",
+      "很",
+      "非常",
+      "楼"
+     ],
+     "answer": "多了",
+     "explanation": "多了 after the adjective shows a big difference.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我写（　）比他快。",
+     "options": [
+      "得",
+      "地",
+      "的",
+      "正"
+     ],
+     "answer": "得",
+     "explanation": "得 links the verb to the description.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "It's much colder here than in Beijing.",
+     "tokens": [
+      "这里",
+      "比",
+      "北京",
+      "冷",
+      "多",
+      "了"
+     ],
+     "explanation": "多了 follows the adjective."
+    },
+    {
+     "type": "order",
+     "prompt": "I write faster than him.",
+     "tokens": [
+      "我",
+      "写",
+      "得",
+      "比",
+      "他",
+      "快"
+     ],
+     "explanation": "比 can follow 得."
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": {
+    "zh": "我们爱上中文课",
+    "en": "We love attending Chinese class"
+   },
+   "words": [
+    {
+     "hanzi": "班",
+     "pinyin": "bān",
+     "pos": "noun",
+     "meaning": "class (group of students)"
+    },
+    {
+     "hanzi": "告诉",
+     "pinyin": "gàosu",
+     "pos": "verb",
+     "meaning": "to tell"
+    },
+    {
+     "hanzi": "教",
+     "pinyin": "jiāo",
+     "pos": "verb",
+     "meaning": "to teach"
+    },
+    {
+     "hanzi": "可能",
+     "pinyin": "kěnéng",
+     "pos": "adverb",
+     "meaning": "maybe"
+    },
+    {
+     "hanzi": "里面",
+     "pinyin": "lǐmiàn",
+     "pos": "noun",
+     "meaning": "inside"
+    },
+    {
+     "hanzi": "那样",
+     "pinyin": "nàyàng",
+     "pos": "pronoun",
+     "meaning": "that way, like that"
+    },
+    {
+     "hanzi": "上面",
+     "pinyin": "shàngmiàn",
+     "pos": "noun",
+     "meaning": "on top, above"
+    },
+    {
+     "hanzi": "上网",
+     "pinyin": "shàngwǎng",
+     "pos": "verb",
+     "meaning": "to go online"
+    },
+    {
+     "hanzi": "希望",
+     "pinyin": "xīwàng",
+     "pos": "verb",
+     "meaning": "to hope"
+    },
+    {
+     "hanzi": "洗手间",
+     "pinyin": "xǐshǒujiān",
+     "pos": "noun",
+     "meaning": "toilet"
+    },
+    {
+     "hanzi": "新年",
+     "pinyin": "xīnnián",
+     "pos": "noun",
+     "meaning": "New Year",
+     "extra": true
+    }
+   ],
+   "texts": [
+    {
+     "scene": "The first day of class.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你们班有多少人？",
+       "pinyin": "Nǐmen bān yǒu duōshao rén?",
+       "en": "How many people are in your class?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我们班比他们班多五个人。老师教我们中文。",
+       "pinyin": "Wǒmen bān bǐ tāmen bān duō wǔ ge rén. Lǎoshī jiāo wǒmen Zhōngwén.",
+       "en": "Our class has five more people than theirs. The teacher teaches us Chinese."
+      },
+      {
+       "speaker": "A：",
+       "zh": "中文课有意思吗？",
+       "pinyin": "Zhōngwén kè yǒu yìsi ma?",
+       "en": "Is Chinese class interesting?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "很有意思。我们都爱上中文课！",
+       "pinyin": "Hěn yǒu yìsi. Wǒmen dōu ài shàng Zhōngwén kè!",
+       "en": "Very. We all love going to Chinese class!"
+      }
+     ]
+    },
+    {
+     "scene": "Giving New Year gifts.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "新年快乐！我送给你一个本子。",
+       "pinyin": "Xīnnián kuàilè! Wǒ sònggěi nǐ yí ge běnzi.",
+       "en": "Happy New Year! I'm giving you a notebook."
+      },
+      {
+       "speaker": "B：",
+       "zh": "谢谢！可能比我的贵一点儿。",
+       "pinyin": "Xièxie! Kěnéng bǐ wǒ de guì yìdiǎnr.",
+       "en": "Thanks! It may be a little more expensive than mine."
+      },
+      {
+       "speaker": "A：",
+       "zh": "希望你喜欢！",
+       "pinyin": "Xīwàng nǐ xǐhuan!",
+       "en": "I hope you like it!"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Double-object sentences (2)",
+     "explanation": "Verbs such as 拿, 送 and 卖 can add 给, then take a person and a thing.",
+     "examples": [
+      {
+       "zh": "我送给她一本书。",
+       "pinyin": "Wǒ sònggěi tā yì běn shū.",
+       "en": "I gave her a book."
+      },
+      {
+       "zh": "他卖给我两个苹果。",
+       "pinyin": "Tā màigěi wǒ liǎng ge píngguǒ.",
+       "en": "He sold me two apples."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (7)",
+     "explanation": "A number phrase after the adjective gives the exact difference: A 比 B + adjective + number.",
+     "examples": [
+      {
+       "zh": "我哥哥比我大两岁。",
+       "pinyin": "Wǒ gēge bǐ wǒ dà liǎng suì.",
+       "en": "My brother is two years older than me."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (8)",
+     "explanation": "一点儿 or 一些 after the adjective shows a small difference.",
+     "examples": [
+      {
+       "zh": "姐姐比我高一点儿。",
+       "pinyin": "Jiějie bǐ wǒ gāo yìdiǎnr.",
+       "en": "My sister is a little taller than me."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我送（　）她一本书。",
+     "options": [
+      "给",
+      "比",
+      "上面",
+      "教"
+     ],
+     "answer": "给",
+     "explanation": "送 adds 给 before the person.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "姐姐比我高（　）。",
+     "options": [
+      "一点儿",
+      "很",
+      "非常",
+      "有时"
+     ],
+     "answer": "一点儿",
+     "explanation": "一点儿 after the adjective shows a small difference.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "My brother is two years older than me.",
+     "tokens": [
+      "我",
+      "哥哥",
+      "比",
+      "我",
+      "大",
+      "两",
+      "岁"
+     ],
+     "explanation": "The difference follows the adjective."
+    },
+    {
+     "type": "order",
+     "prompt": "I gave her a book.",
+     "tokens": [
+      "我",
+      "送",
+      "给",
+      "她",
+      "一",
+      "本",
+      "书"
+     ],
+     "explanation": "The person comes before the thing."
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": {
+    "zh": "一个人过年多没意思啊",
+    "en": "It's boring to celebrate the Spring Festival alone"
+   },
+   "words": [
+    {
+     "hanzi": "包",
+     "pinyin": "bāo",
+     "pos": "verb",
+     "meaning": "to wrap; to make (dumplings)"
+    },
+    {
+     "hanzi": "房子",
+     "pinyin": "fángzi",
+     "pos": "noun",
+     "meaning": "house",
+     "extra": true
+    },
+    {
+     "hanzi": "过年",
+     "pinyin": "guònián",
+     "pos": "verb",
+     "meaning": "to celebrate the New Year"
+    },
+    {
+     "hanzi": "没意思",
+     "pinyin": "méi yìsi",
+     "pos": "adjective",
+     "meaning": "boring"
+    },
+    {
+     "hanzi": "女孩儿",
+     "pinyin": "nǚháir",
+     "pos": "noun",
+     "meaning": "girl"
+    },
+    {
+     "hanzi": "前面",
+     "pinyin": "qiánmiàn",
+     "pos": "noun",
+     "meaning": "in front, ahead"
+    },
+    {
+     "hanzi": "跳舞",
+     "pinyin": "tiàowǔ",
+     "pos": "verb",
+     "meaning": "to dance"
+    },
+    {
+     "hanzi": "位",
+     "pinyin": "wèi",
+     "pos": "measure word",
+     "meaning": "polite measure word for people"
+    },
+    {
+     "hanzi": "小孩儿",
+     "pinyin": "xiǎoháir",
+     "pos": "noun",
+     "meaning": "child"
+    },
+    {
+     "hanzi": "姓",
+     "pinyin": "xìng",
+     "pos": "verb",
+     "meaning": "to be surnamed"
+    },
+    {
+     "hanzi": "眼睛",
+     "pinyin": "yǎnjing",
+     "pos": "noun",
+     "meaning": "eye"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Spring Festival plans.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你一个人过年吗？多没意思啊！",
+       "pinyin": "Nǐ yí ge rén guònián ma? Duō méi yìsi a!",
+       "en": "Are you spending New Year alone? How boring!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "是啊。我的房子里有一只小狗。",
+       "pinyin": "Shì a. Wǒ de fángzi li yǒu yì zhī xiǎo gǒu.",
+       "en": "Yes. There's just a little dog in my house."
+      },
+      {
+       "speaker": "A：",
+       "zh": "来我家吧！我们一起包饺子。",
+       "pinyin": "Lái wǒ jiā ba! Wǒmen yìqǐ bāo jiǎozi.",
+       "en": "Come to my home! We'll make dumplings together."
+      }
+     ]
+    },
+    {
+     "scene": "Watching the door.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "门口站着一位女孩儿。",
+       "pinyin": "Ménkǒu zhànzhe yí wèi nǚháir.",
+       "en": "A girl is standing at the door."
+      },
+      {
+       "speaker": "B：",
+       "zh": "她姓什么？你跑下去问问。",
+       "pinyin": "Tā xìng shénme? Nǐ pǎo xiàqù wènwen.",
+       "en": "What's her surname? Run down and ask."
+      },
+      {
+       "speaker": "A：",
+       "zh": "好，她走进来了。",
+       "pinyin": "Hǎo, tā zǒu jìnlái le.",
+       "en": "Okay, she has walked in."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Existential sentences (2)",
+     "explanation": "Place + verb + 着 + person or thing says what exists in a place.",
+     "examples": [
+      {
+       "zh": "楼下站着很多人。",
+       "pinyin": "Lóu xià zhànzhe hěn duō rén.",
+       "en": "Many people are standing downstairs."
+      }
+     ]
+    },
+    {
+     "name": "The adverb of degree 多",
+     "explanation": "多 + adjective + 啊 is an exclamation: \"how...!\"",
+     "examples": [
+      {
+       "zh": "多漂亮啊！",
+       "pinyin": "Duō piàoliang a!",
+       "en": "How pretty!"
+      }
+     ]
+    },
+    {
+     "name": "Compound complement of direction",
+     "explanation": "上, 下, 进, 出, 回 and 过 can join 来 or 去, then follow a verb to show direction. A place goes before the final 来 or 去.",
+     "examples": [
+      {
+       "zh": "他跑上来了。",
+       "pinyin": "Tā pǎo shànglái le.",
+       "en": "He ran up."
+      },
+      {
+       "zh": "我们走回家去吧。",
+       "pinyin": "Wǒmen zǒu huí jiā qù ba.",
+       "en": "Let's walk home."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "门口站（　）一个人。",
+     "options": [
+      "着",
+      "位",
+      "姓",
+      "跳舞"
+     ],
+     "answer": "着",
+     "explanation": "Place + verb + 着 + person shows what is there.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "（　）漂亮啊！",
+     "options": [
+      "多",
+      "小",
+      "比",
+      "长"
+     ],
+     "answer": "多",
+     "explanation": "多……啊 means \"how...!\"",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Many people are standing downstairs.",
+     "tokens": [
+      "楼",
+      "下",
+      "站",
+      "着",
+      "很",
+      "多",
+      "人"
+     ],
+     "explanation": "The place comes first."
+    },
+    {
+     "type": "order",
+     "prompt": "How boring!",
+     "tokens": [
+      "多",
+      "没意思",
+      "啊"
+     ],
+     "explanation": "多……啊 frames the exclamation."
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": {
+    "zh": "我想再去一次中国",
+    "en": "I want to go to China again"
+   },
+   "words": [
+    {
+     "hanzi": "出国",
+     "pinyin": "chūguó",
+     "pos": "verb",
+     "meaning": "to go abroad"
+    },
+    {
+     "hanzi": "出门",
+     "pinyin": "chūmén",
+     "pos": "verb",
+     "meaning": "to go out"
+    },
+    {
+     "hanzi": "飞",
+     "pinyin": "fēi",
+     "pos": "verb",
+     "meaning": "to fly"
+    },
+    {
+     "hanzi": "高中",
+     "pinyin": "gāozhōng",
+     "pos": "noun",
+     "meaning": "senior high school"
+    },
+    {
+     "hanzi": "好像",
+     "pinyin": "hǎoxiàng",
+     "pos": "adverb",
+     "meaning": "seem, it looks like",
+     "extra": true
+    },
+    {
+     "hanzi": "机场",
+     "pinyin": "jīchǎng",
+     "pos": "noun",
+     "meaning": "airport"
+    },
+    {
+     "hanzi": "机票",
+     "pinyin": "jīpiào",
+     "pos": "noun",
+     "meaning": "plane ticket"
+    },
+    {
+     "hanzi": "路",
+     "pinyin": "lù",
+     "pos": "noun",
+     "meaning": "road"
+    },
+    {
+     "hanzi": "门票",
+     "pinyin": "ménpiào",
+     "pos": "noun",
+     "meaning": "entrance ticket"
+    },
+    {
+     "hanzi": "鸟",
+     "pinyin": "niǎo",
+     "pos": "noun",
+     "meaning": "bird"
+    },
+    {
+     "hanzi": "姓名",
+     "pinyin": "xìngmíng",
+     "pos": "noun",
+     "meaning": "full name"
+    },
+    {
+     "hanzi": "颐和园",
+     "pinyin": "Yíhé Yuán",
+     "pos": "proper noun",
+     "meaning": "the Summer Palace"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Planning a return trip.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你去过几次中国？",
+       "pinyin": "Nǐ qùguo jǐ cì Zhōngguó?",
+       "en": "How many times have you been to China?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我去过两次北京。我还想再去一次。",
+       "pinyin": "Wǒ qùguo liǎng cì Běijīng. Wǒ hái xiǎng zài qù yí cì.",
+       "en": "I've been to Beijing twice. I want to go again."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你看过颐和园吗？",
+       "pinyin": "Nǐ kànguo Yíhé Yuán ma?",
+       "en": "Have you seen the Summer Palace?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "看过一次，门票不贵。这次我买好机票了。",
+       "pinyin": "Kànguo yí cì, ménpiào bú guì. Zhè cì wǒ mǎi hǎo jīpiào le.",
+       "en": "Once, and the tickets aren't expensive. I've bought my plane ticket this time."
+      }
+     ]
+    },
+    {
+     "scene": "An old classmate.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你的老师有三十岁吗？",
+       "pinyin": "Nǐ de lǎoshī yǒu sānshí suì ma?",
+       "en": "Is your teacher thirty yet?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "好像有。我在高中见过她一次。",
+       "pinyin": "Hǎoxiàng yǒu. Wǒ zài gāozhōng jiànguo tā yí cì.",
+       "en": "It seems so. I met her once at senior high school."
+      },
+      {
+       "speaker": "A：",
+       "zh": "出门前别忘了写好姓名。",
+       "pinyin": "Chūmén qián bié wàng le xiě hǎo xìngmíng.",
+       "en": "Before you go out, don't forget to write your full name."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Complement of frequency (1)",
+     "explanation": "Number + 次 after a verb shows how many times something happens. A person or place name can go before or after it.",
+     "examples": [
+      {
+       "zh": "我去过两次北京。",
+       "pinyin": "Wǒ qùguo liǎng cì Běijīng.",
+       "en": "I've been to Beijing twice."
+      },
+      {
+       "zh": "我去过北京两次。",
+       "pinyin": "Wǒ qùguo Běijīng liǎng cì.",
+       "en": "I've been to Beijing twice."
+      }
+     ]
+    },
+    {
+     "name": "Complement of frequency (2)",
+     "explanation": "A thing goes after the number phrase. A pronoun goes before it.",
+     "examples": [
+      {
+       "zh": "我看过两次这个电影。",
+       "pinyin": "Wǒ kànguo liǎng cì zhège diànyǐng.",
+       "en": "I've seen this film twice."
+      },
+      {
+       "zh": "我见过他一次。",
+       "pinyin": "Wǒ jiànguo tā yí cì.",
+       "en": "I've met him once."
+      }
+     ]
+    },
+    {
+     "name": "The 有 sentence (2)",
+     "explanation": "有 + a number shows that something reaches a certain amount.",
+     "examples": [
+      {
+       "zh": "你的老师有三十岁吗？",
+       "pinyin": "Nǐ de lǎoshī yǒu sānshí suì ma?",
+       "en": "Is your teacher as old as thirty?"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我见过他一（　）。",
+     "options": [
+      "次",
+      "路",
+      "鸟",
+      "飞"
+     ],
+     "answer": "次",
+     "explanation": "次 counts how many times.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "你的老师（　）三十岁吗？",
+     "options": [
+      "有",
+      "是",
+      "比",
+      "过"
+     ],
+     "answer": "有",
+     "explanation": "有 + number shows reaching an amount.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I've met him once.",
+     "tokens": [
+      "我",
+      "见",
+      "过",
+      "他",
+      "一",
+      "次"
+     ],
+     "explanation": "A pronoun goes before the number phrase."
+    },
+    {
+     "type": "order",
+     "prompt": "I've been to Beijing twice.",
+     "tokens": [
+      "我",
+      "去",
+      "过",
+      "两",
+      "次",
+      "北京"
+     ],
+     "explanation": "Place names can follow the number phrase."
+    }
+   ]
+  }
+ ]
+}

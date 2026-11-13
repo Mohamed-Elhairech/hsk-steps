@@ -1,0 +1,5736 @@
+{
+ "level": 3,
+ "lessons": [
+  {
+   "id": 1,
+   "title": {
+    "zh": "我们去机场接你们",
+    "en": "We will pick you up at the airport"
+   },
+   "words": [
+    {
+     "hanzi": "帮助",
+     "pinyin": "bāngzhù",
+     "pos": "verb",
+     "meaning": "to help"
+    },
+    {
+     "hanzi": "不见",
+     "pinyin": "bújiàn",
+     "pos": "verb",
+     "meaning": "to be missing"
+    },
+    {
+     "hanzi": "带",
+     "pinyin": "dài",
+     "pos": "verb",
+     "meaning": "to bring, to take"
+    },
+    {
+     "hanzi": "丢",
+     "pinyin": "diū",
+     "pos": "verb",
+     "meaning": "to lose"
+    },
+    {
+     "hanzi": "短",
+     "pinyin": "duǎn",
+     "pos": "adjective",
+     "meaning": "short"
+    },
+    {
+     "hanzi": "发现",
+     "pinyin": "fāxiàn",
+     "pos": "verb",
+     "meaning": "to discover, to find"
+    },
+    {
+     "hanzi": "服务台",
+     "pinyin": "fúwùtái",
+     "pos": "noun",
+     "meaning": "service desk",
+     "extra": true
+    },
+    {
+     "hanzi": "好像",
+     "pinyin": "hǎoxiàng",
+     "pos": "adverb",
+     "meaning": "seem, be like",
+     "alsoIn": [
+      16
+     ]
+    },
+    {
+     "hanzi": "号码",
+     "pinyin": "hàomǎ",
+     "pos": "noun",
+     "meaning": "number"
+    },
+    {
+     "hanzi": "护照",
+     "pinyin": "hùzhào",
+     "pos": "noun",
+     "meaning": "passport"
+    },
+    {
+     "hanzi": "接",
+     "pinyin": "jiē",
+     "pos": "verb",
+     "meaning": "to pick up"
+    },
+    {
+     "hanzi": "米",
+     "pinyin": "mǐ",
+     "pos": "measure word",
+     "meaning": "metre"
+    },
+    {
+     "hanzi": "年轻",
+     "pinyin": "niánqīng",
+     "pos": "adjective",
+     "meaning": "young"
+    },
+    {
+     "hanzi": "身高",
+     "pinyin": "shēngāo",
+     "pos": "noun",
+     "meaning": "height"
+    },
+    {
+     "hanzi": "瘦",
+     "pinyin": "shòu",
+     "pos": "adjective",
+     "meaning": "thin"
+    },
+    {
+     "hanzi": "头发",
+     "pinyin": "tóufa",
+     "pos": "noun",
+     "meaning": "hair"
+    },
+    {
+     "hanzi": "箱子",
+     "pinyin": "xiāngzi",
+     "pos": "noun",
+     "meaning": "suitcase, box"
+    },
+    {
+     "hanzi": "像",
+     "pinyin": "xiàng",
+     "pos": "verb",
+     "meaning": "to be like"
+    },
+    {
+     "hanzi": "行李",
+     "pinyin": "xíngli",
+     "pos": "noun",
+     "meaning": "luggage"
+    },
+    {
+     "hanzi": "以为",
+     "pinyin": "yǐwéi",
+     "pos": "verb",
+     "meaning": "to think (mistakenly)"
+    },
+    {
+     "hanzi": "应该",
+     "pinyin": "yīnggāi",
+     "pos": "modal verb",
+     "meaning": "should"
+    },
+    {
+     "hanzi": "站",
+     "pinyin": "zhàn",
+     "pos": "verb",
+     "meaning": "to stand"
+    },
+    {
+     "hanzi": "长",
+     "pinyin": "zhǎng",
+     "pos": "verb",
+     "meaning": "to grow"
+    },
+    {
+     "hanzi": "着急",
+     "pinyin": "zháojí",
+     "pos": "adjective",
+     "meaning": "anxious, worried"
+    },
+    {
+     "hanzi": "照片",
+     "pinyin": "zhàopiàn",
+     "pos": "noun",
+     "meaning": "photo"
+    },
+    {
+     "hanzi": "中间",
+     "pinyin": "zhōngjiān",
+     "pos": "noun",
+     "meaning": "between, in the middle"
+    },
+    {
+     "hanzi": "重要",
+     "pinyin": "zhòngyào",
+     "pos": "adjective",
+     "meaning": "important"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "At the airport.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你的行李箱子呢？不见了吗？",
+       "pinyin": "Nǐ de xíngli xiāngzi ne? Bújiàn le ma?",
+       "en": "Where's your suitcase? Is it missing?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "别着急，好像在那边。我看看护照。",
+       "pinyin": "Bié zháojí, hǎoxiàng zài nàbiān. Wǒ kànkan hùzhào.",
+       "en": "Don't worry, it seems to be over there. Let me check my passport."
+      },
+      {
+       "speaker": "A：",
+       "zh": "那个年轻的高个子司机来接我们。",
+       "pinyin": "Nàge niánqīng de gāo gèzi lái jiē wǒmen.",
+       "en": "That young tall person is here to pick us up."
+      },
+      {
+       "speaker": "B：",
+       "zh": "他看上去很好。我们站在这儿等吧。",
+       "pinyin": "Tā kàn shàngqù hěn hǎo. Wǒmen zhàn zài zhèr děng ba.",
+       "en": "He looks nice. Let's stand here and wait."
+      }
+     ]
+    },
+    {
+     "scene": "Asking a friend for help.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你想吃点儿什么吗？",
+       "pinyin": "Nǐ xiǎng chī diǎnr shénme ma?",
+       "en": "Would you like something to eat?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "不想。这件事很重要，我应该告诉谁？",
+       "pinyin": "Bù xiǎng. Zhè jiàn shì hěn zhòngyào, wǒ yīnggāi gàosu shéi?",
+       "en": "No, thanks. This is important. Who should I tell?"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The set phrases 看上去 and 看起来",
+     "explanation": "Both mean \"it looks\" or \"it seems\", giving an impression from what you see.",
+     "examples": [
+      {
+       "zh": "他看上去很年轻。",
+       "pinyin": "Tā kàn shàngqù hěn niánqīng.",
+       "en": "He looks young."
+      }
+     ]
+    },
+    {
+     "name": "Question words without a question (1)",
+     "explanation": "哪儿, 什么, 谁 and 哪 can stand for something unknown or not important, like \"somewhere\" or \"something\".",
+     "examples": [
+      {
+       "zh": "你想吃点儿什么吗？",
+       "pinyin": "Nǐ xiǎng chī diǎnr shénme ma?",
+       "en": "Would you like something to eat?"
+      }
+     ]
+    },
+    {
+     "name": "Multiple attributives",
+     "explanation": "Several describers can come before a noun. Words like \"that\" and numbers come first, then longer descriptions, then short adjectives.",
+     "examples": [
+      {
+       "zh": "那个年轻的高个子",
+       "pinyin": "nàge niánqīng de gāo gèzi",
+       "en": "that tall young person"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "他（　）很年轻。",
+     "options": [
+      "看上去",
+      "应该",
+      "年轻",
+      "重要"
+     ],
+     "answer": "看上去",
+     "explanation": "看上去 gives an impression from what you see.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "别（　），我们有时间。",
+     "options": [
+      "着急",
+      "身高",
+      "号码",
+      "中间"
+     ],
+     "answer": "着急",
+     "explanation": "别着急 means \"don't worry\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Would you like something to eat?",
+     "tokens": [
+      "你",
+      "想",
+      "吃",
+      "点儿",
+      "什么",
+      "吗"
+     ],
+     "explanation": "With 吗, 什么 means \"something\"."
+    },
+    {
+     "type": "order",
+     "prompt": "He looks young.",
+     "tokens": [
+      "他",
+      "看上去",
+      "很",
+      "年轻"
+     ],
+     "explanation": "看上去 goes before the description."
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "title": {
+    "zh": "你们想吃什么就点什么",
+    "en": "You can order whatever you feel like"
+   },
+   "words": [
+    {
+     "hanzi": "不用",
+     "pinyin": "búyòng",
+     "pos": "adverb",
+     "meaning": "no need to"
+    },
+    {
+     "hanzi": "菜单",
+     "pinyin": "càidān",
+     "pos": "noun",
+     "meaning": "menu"
+    },
+    {
+     "hanzi": "尝",
+     "pinyin": "cháng",
+     "pos": "verb",
+     "meaning": "to taste"
+    },
+    {
+     "hanzi": "蛋糕",
+     "pinyin": "dàngāo",
+     "pos": "noun",
+     "meaning": "cake"
+    },
+    {
+     "hanzi": "饿",
+     "pinyin": "è",
+     "pos": "adjective",
+     "meaning": "hungry"
+    },
+    {
+     "hanzi": "方便",
+     "pinyin": "fāngbiàn",
+     "pos": "adjective",
+     "meaning": "convenient"
+    },
+    {
+     "hanzi": "方便面",
+     "pinyin": "fāngbiànmiàn",
+     "pos": "noun",
+     "meaning": "instant noodles"
+    },
+    {
+     "hanzi": "服务",
+     "pinyin": "fúwù",
+     "pos": "noun",
+     "meaning": "service"
+    },
+    {
+     "hanzi": "好久",
+     "pinyin": "hǎojiǔ",
+     "pos": "adverb",
+     "meaning": "for a long time"
+    },
+    {
+     "hanzi": "鸡",
+     "pinyin": "jī",
+     "pos": "noun",
+     "meaning": "chicken"
+    },
+    {
+     "hanzi": "记",
+     "pinyin": "jì",
+     "pos": "verb",
+     "meaning": "to remember, to note down"
+    },
+    {
+     "hanzi": "简单",
+     "pinyin": "jiǎndān",
+     "pos": "adjective",
+     "meaning": "simple"
+    },
+    {
+     "hanzi": "渴",
+     "pinyin": "kě",
+     "pos": "adjective",
+     "meaning": "thirsty"
+    },
+    {
+     "hanzi": "客气",
+     "pinyin": "kèqi",
+     "pos": "adjective",
+     "meaning": "polite"
+    },
+    {
+     "hanzi": "筷子",
+     "pinyin": "kuàizi",
+     "pos": "noun",
+     "meaning": "chopsticks"
+    },
+    {
+     "hanzi": "马上",
+     "pinyin": "mǎshàng",
+     "pos": "adverb",
+     "meaning": "right away"
+    },
+    {
+     "hanzi": "热情",
+     "pinyin": "rèqíng",
+     "pos": "adjective",
+     "meaning": "warm, friendly"
+    },
+    {
+     "hanzi": "勺子",
+     "pinyin": "sháozi",
+     "pos": "noun",
+     "meaning": "spoon"
+    },
+    {
+     "hanzi": "双",
+     "pinyin": "shuāng",
+     "pos": "measure word",
+     "meaning": "pair"
+    },
+    {
+     "hanzi": "外卖",
+     "pinyin": "wàimài",
+     "pos": "noun",
+     "meaning": "takeaway food"
+    },
+    {
+     "hanzi": "碗",
+     "pinyin": "wǎn",
+     "pos": "noun",
+     "meaning": "bowl"
+    },
+    {
+     "hanzi": "选",
+     "pinyin": "xuǎn",
+     "pos": "verb",
+     "meaning": "to choose"
+    },
+    {
+     "hanzi": "饮料",
+     "pinyin": "yǐnliào",
+     "pos": "noun",
+     "meaning": "drink"
+    },
+    {
+     "hanzi": "用",
+     "pinyin": "yòng",
+     "pos": "verb",
+     "meaning": "to use"
+    },
+    {
+     "hanzi": "又",
+     "pinyin": "yòu",
+     "pos": "adverb",
+     "meaning": "again, also"
+    },
+    {
+     "hanzi": "员",
+     "pinyin": "yuán",
+     "pos": "suffix",
+     "meaning": "person doing a job"
+    },
+    {
+     "hanzi": "张",
+     "pinyin": "zhāng",
+     "pos": "measure word",
+     "meaning": "measure word for flat things",
+     "alsoIn": [
+      16
+     ]
+    },
+    {
+     "hanzi": "只",
+     "pinyin": "zhǐ",
+     "pos": "adverb",
+     "meaning": "only"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Ordering at a restaurant.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "我又饿又渴！菜单呢？",
+       "pinyin": "Wǒ yòu è yòu kě! Càidān ne?",
+       "en": "I'm hungry and thirsty! Where's the menu?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "你们想吃什么就点什么，这儿的服务很好。",
+       "pinyin": "Nǐmen xiǎng chī shénme jiù diǎn shénme, zhèr de fúwù hěn hǎo.",
+       "en": "Order whatever you want. The service here is very good."
+      },
+      {
+       "speaker": "A：",
+       "zh": "我什么都想尝。服务员，请拿三双筷子和两个勺子。",
+       "pinyin": "Wǒ shénme dōu xiǎng cháng. Fúwùyuán, qǐng ná sān shuāng kuàizi hé liǎng ge sháozi.",
+       "en": "I want to try everything. Waiter, please bring three pairs of chopsticks and two spoons."
+      }
+     ]
+    },
+    {
+     "scene": "Eating at home.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "今天不去了，点外卖吧。",
+       "pinyin": "Jīntiān bú qù le, diǎn wàimài ba.",
+       "en": "We won't go out today. Let's order takeaway."
+      },
+      {
+       "speaker": "B：",
+       "zh": "也可以吃方便面，又方便又简单。",
+       "pinyin": "Yě kěyǐ chī fāngbiànmiàn, yòu fāngbiàn yòu jiǎndān.",
+       "en": "We could also have instant noodles. It's convenient and simple."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The pattern 又……又……",
+     "explanation": "Use it to say that two qualities are true at once.",
+     "examples": [
+      {
+       "zh": "我又饿又渴。",
+       "pinyin": "Wǒ yòu è yòu kě.",
+       "en": "I'm hungry and thirsty."
+      }
+     ]
+    },
+    {
+     "name": "Question words without a question (2)",
+     "explanation": "With 都, a question word can mean \"any\" or \"every\".",
+     "examples": [
+      {
+       "zh": "我什么都想吃。",
+       "pinyin": "Wǒ shénme dōu xiǎng chī.",
+       "en": "I want to eat everything."
+      },
+      {
+       "zh": "谁都知道。",
+       "pinyin": "Shéi dōu zhīdào.",
+       "en": "Everybody knows."
+      }
+     ]
+    },
+    {
+     "name": "Question words without a question (3)",
+     "explanation": "The same question word used twice refers to the same thing both times: \"whatever... that...\".",
+     "examples": [
+      {
+       "zh": "你想吃什么就点什么。",
+       "pinyin": "Nǐ xiǎng chī shénme jiù diǎn shénme.",
+       "en": "Order whatever you want to eat."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我（　）饿又渴。",
+     "options": [
+      "又",
+      "只",
+      "用",
+      "选"
+     ],
+     "answer": "又",
+     "explanation": "又……又…… joins two qualities.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "你想吃什么就点（　）。",
+     "options": [
+      "什么",
+      "谁",
+      "哪",
+      "几"
+     ],
+     "answer": "什么",
+     "explanation": "The same question word repeats.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Everybody knows.",
+     "tokens": [
+      "谁",
+      "都",
+      "知道"
+     ],
+     "explanation": "谁 + 都 means \"everybody\"."
+    },
+    {
+     "type": "order",
+     "prompt": "I want to eat everything.",
+     "tokens": [
+      "我",
+      "什么",
+      "都",
+      "想",
+      "吃"
+     ],
+     "explanation": "什么 + 都 means \"everything\"."
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "title": {
+    "zh": "这个小区挺好的",
+    "en": "This neighborhood is pretty nice"
+   },
+   "words": [
+    {
+     "hanzi": "搬",
+     "pinyin": "bān",
+     "pos": "verb",
+     "meaning": "to move, to carry"
+    },
+    {
+     "hanzi": "搬家",
+     "pinyin": "bānjiā",
+     "pos": "verb",
+     "meaning": "to move house"
+    },
+    {
+     "hanzi": "办",
+     "pinyin": "bàn",
+     "pos": "verb",
+     "meaning": "to do, to handle"
+    },
+    {
+     "hanzi": "冰箱",
+     "pinyin": "bīngxiāng",
+     "pos": "noun",
+     "meaning": "fridge"
+    },
+    {
+     "hanzi": "才",
+     "pinyin": "cái",
+     "pos": "adverb",
+     "meaning": "not until, only"
+    },
+    {
+     "hanzi": "层",
+     "pinyin": "céng",
+     "pos": "measure word",
+     "meaning": "floor, storey"
+    },
+    {
+     "hanzi": "初中",
+     "pinyin": "chūzhōng",
+     "pos": "noun",
+     "meaning": "junior high school"
+    },
+    {
+     "hanzi": "打扫",
+     "pinyin": "dǎsǎo",
+     "pos": "verb",
+     "meaning": "to clean"
+    },
+    {
+     "hanzi": "灯",
+     "pinyin": "dēng",
+     "pos": "noun",
+     "meaning": "light, lamp"
+    },
+    {
+     "hanzi": "房子",
+     "pinyin": "fángzi",
+     "pos": "noun",
+     "meaning": "house"
+    },
+    {
+     "hanzi": "关",
+     "pinyin": "guān",
+     "pos": "verb",
+     "meaning": "to close, to turn off"
+    },
+    {
+     "hanzi": "花园",
+     "pinyin": "huāyuán",
+     "pos": "noun",
+     "meaning": "garden"
+    },
+    {
+     "hanzi": "还",
+     "pinyin": "huán",
+     "pos": "verb",
+     "meaning": "to return, to give back"
+    },
+    {
+     "hanzi": "环境",
+     "pinyin": "huánjìng",
+     "pos": "noun",
+     "meaning": "environment"
+    },
+    {
+     "hanzi": "换",
+     "pinyin": "huàn",
+     "pos": "verb",
+     "meaning": "to change, to exchange"
+    },
+    {
+     "hanzi": "空调",
+     "pinyin": "kōngtiáo",
+     "pos": "noun",
+     "meaning": "air conditioner"
+    },
+    {
+     "hanzi": "听说",
+     "pinyin": "tīngshuō",
+     "pos": "verb",
+     "meaning": "to hear that"
+    },
+    {
+     "hanzi": "挺",
+     "pinyin": "tǐng",
+     "pos": "adverb",
+     "meaning": "quite, rather"
+    },
+    {
+     "hanzi": "卫生间",
+     "pinyin": "wèishēngjiān",
+     "pos": "noun",
+     "meaning": "bathroom"
+    },
+    {
+     "hanzi": "洗衣机",
+     "pinyin": "xǐyījī",
+     "pos": "noun",
+     "meaning": "washing machine"
+    },
+    {
+     "hanzi": "小区",
+     "pinyin": "xiǎoqū",
+     "pos": "noun",
+     "meaning": "housing estate"
+    },
+    {
+     "hanzi": "信用卡",
+     "pinyin": "xìnyòngkǎ",
+     "pos": "noun",
+     "meaning": "credit card"
+    },
+    {
+     "hanzi": "需要",
+     "pinyin": "xūyào",
+     "pos": "verb",
+     "meaning": "to need"
+    },
+    {
+     "hanzi": "银行",
+     "pinyin": "yínháng",
+     "pos": "noun",
+     "meaning": "bank"
+    },
+    {
+     "hanzi": "咱们",
+     "pinyin": "zánmen",
+     "pos": "pronoun",
+     "meaning": "we, us (including you)"
+    },
+    {
+     "hanzi": "纸",
+     "pinyin": "zhǐ",
+     "pos": "noun",
+     "meaning": "paper"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Moving house.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "听说你搬家了，新房子怎么样？",
+       "pinyin": "Tīngshuō nǐ bānjiā le, xīn fángzi zěnmeyàng?",
+       "en": "I hear you've moved. How's the new house?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "这个小区挺好的，环境好，有花园。",
+       "pinyin": "Zhège xiǎoqū tǐng hǎo de, huánjìng hǎo, yǒu huāyuán.",
+       "en": "This housing estate is pretty nice. It's a good environment with a garden."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你累吧？",
+       "pinyin": "Nǐ lèi ba?",
+       "en": "Are you tired?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "累坏了！我昨天晚上才打扫完。",
+       "pinyin": "Lèi huài le! Wǒ zuótiān wǎnshang cái dǎsǎo wán.",
+       "en": "Worn out! I only finished cleaning last night."
+      }
+     ]
+    },
+    {
+     "scene": "Sorting out the flat.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "冰箱和洗衣机都有吗？",
+       "pinyin": "Bīngxiāng hé xǐyījī dōu yǒu ma?",
+       "en": "Do you have a fridge and a washing machine?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "有。卫生间的灯要换，咱们明天再办。",
+       "pinyin": "Yǒu. Wèishēngjiān de dēng yào huàn, zánmen míngtiān zài bàn.",
+       "en": "Yes. The bathroom light needs changing. We'll do it tomorrow."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The adverb of degree 挺",
+     "explanation": "挺 means \"quite\". 的 is often added at the end.",
+     "examples": [
+      {
+       "zh": "这个小区挺好的。",
+       "pinyin": "Zhège xiǎoqū tǐng hǎo de.",
+       "en": "This housing estate is quite nice."
+      }
+     ]
+    },
+    {
+     "name": "Complement of degree (1)",
+     "explanation": "坏了 after an adjective means \"terribly\". It is used mostly for negative feelings.",
+     "examples": [
+      {
+       "zh": "我这几天忙坏了。",
+       "pinyin": "Wǒ zhè jǐ tiān máng huài le.",
+       "en": "I've been terribly busy these days."
+      }
+     ]
+    },
+    {
+     "name": "就 and 才",
+     "explanation": "就 shows that something happens early or quickly. 才 shows that it happens late or slowly.",
+     "examples": [
+      {
+       "zh": "他八点就来了。",
+       "pinyin": "Tā bā diǎn jiù lái le.",
+       "en": "He came as early as eight."
+      },
+      {
+       "zh": "他十点才来。",
+       "pinyin": "Tā shí diǎn cái lái.",
+       "en": "He didn't come until ten."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "他十点（　）来。",
+     "options": [
+      "才",
+      "挺",
+      "换",
+      "需要"
+     ],
+     "answer": "才",
+     "explanation": "才 shows that something happened late.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我累（　）了！",
+     "options": [
+      "坏",
+      "挺",
+      "关",
+      "办"
+     ],
+     "answer": "坏",
+     "explanation": "坏了 after an adjective means \"terribly\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "This housing estate is quite nice.",
+     "tokens": [
+      "这个",
+      "小区",
+      "挺",
+      "好",
+      "的"
+     ],
+     "explanation": "挺……的 means \"quite\"."
+    },
+    {
+     "type": "order",
+     "prompt": "He came as early as eight.",
+     "tokens": [
+      "他",
+      "八",
+      "点",
+      "就",
+      "来",
+      "了"
+     ],
+     "explanation": "就 shows it was early."
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "title": {
+    "zh": "这家宾馆跟别的都不一样",
+    "en": "This hotel is unlike any other"
+   },
+   "words": [
+    {
+     "hanzi": "别的",
+     "pinyin": "biéde",
+     "pos": "pronoun",
+     "meaning": "other"
+    },
+    {
+     "hanzi": "宾馆",
+     "pinyin": "bīnguǎn",
+     "pos": "noun",
+     "meaning": "hotel"
+    },
+    {
+     "hanzi": "草原",
+     "pinyin": "cǎoyuán",
+     "pos": "noun",
+     "meaning": "grassland",
+     "extra": true
+    },
+    {
+     "hanzi": "除了",
+     "pinyin": "chúle",
+     "pos": "preposition",
+     "meaning": "besides, except"
+    },
+    {
+     "hanzi": "干净",
+     "pinyin": "gānjìng",
+     "pos": "adjective",
+     "meaning": "clean"
+    },
+    {
+     "hanzi": "海",
+     "pinyin": "hǎi",
+     "pos": "noun",
+     "meaning": "sea"
+    },
+    {
+     "hanzi": "欢迎",
+     "pinyin": "huānyíng",
+     "pos": "verb",
+     "meaning": "to welcome"
+    },
+    {
+     "hanzi": "假期",
+     "pinyin": "jiàqī",
+     "pos": "noun",
+     "meaning": "holiday"
+    },
+    {
+     "hanzi": "久",
+     "pinyin": "jiǔ",
+     "pos": "adjective",
+     "meaning": "long (time)"
+    },
+    {
+     "hanzi": "刻",
+     "pinyin": "kè",
+     "pos": "measure word",
+     "meaning": "quarter of an hour"
+    },
+    {
+     "hanzi": "马",
+     "pinyin": "mǎ",
+     "pos": "noun",
+     "meaning": "horse"
+    },
+    {
+     "hanzi": "满意",
+     "pinyin": "mǎnyì",
+     "pos": "adjective",
+     "meaning": "satisfied"
+    },
+    {
+     "hanzi": "牛",
+     "pinyin": "niú",
+     "pos": "noun",
+     "meaning": "cow, ox"
+    },
+    {
+     "hanzi": "骑",
+     "pinyin": "qí",
+     "pos": "verb",
+     "meaning": "to ride"
+    },
+    {
+     "hanzi": "起飞",
+     "pinyin": "qǐfēi",
+     "pos": "verb",
+     "meaning": "to take off"
+    },
+    {
+     "hanzi": "司机",
+     "pinyin": "sījī",
+     "pos": "noun",
+     "meaning": "driver"
+    },
+    {
+     "hanzi": "特别",
+     "pinyin": "tèbié",
+     "pos": "adverb",
+     "meaning": "especially"
+    },
+    {
+     "hanzi": "晚点",
+     "pinyin": "wǎndiǎn",
+     "pos": "verb",
+     "meaning": "to be delayed"
+    },
+    {
+     "hanzi": "先",
+     "pinyin": "xiān",
+     "pos": "adverb",
+     "meaning": "first"
+    },
+    {
+     "hanzi": "相机",
+     "pinyin": "xiàngjī",
+     "pos": "noun",
+     "meaning": "camera"
+    },
+    {
+     "hanzi": "羊",
+     "pinyin": "yáng",
+     "pos": "noun",
+     "meaning": "sheep"
+    },
+    {
+     "hanzi": "一定",
+     "pinyin": "yídìng",
+     "pos": "adverb",
+     "meaning": "certainly"
+    },
+    {
+     "hanzi": "一样",
+     "pinyin": "yíyàng",
+     "pos": "adjective",
+     "meaning": "the same"
+    },
+    {
+     "hanzi": "以外",
+     "pinyin": "yǐwài",
+     "pos": "noun",
+     "meaning": "besides, other than"
+    },
+    {
+     "hanzi": "一直",
+     "pinyin": "yìzhí",
+     "pos": "adverb",
+     "meaning": "all along, straight"
+    },
+    {
+     "hanzi": "月亮",
+     "pinyin": "yuèliang",
+     "pos": "noun",
+     "meaning": "moon"
+    },
+    {
+     "hanzi": "主意",
+     "pinyin": "zhǔyi",
+     "pos": "noun",
+     "meaning": "idea",
+     "extra": true
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Choosing a hotel.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这家宾馆跟别的都不一样，特别干净。",
+       "pinyin": "Zhè jiā bīnguǎn gēn biéde dōu bù yíyàng, tèbié gānjìng.",
+       "en": "This hotel is unlike the others. It's especially clean."
+      },
+      {
+       "speaker": "B：",
+       "zh": "除了房间以外，服务也很好。",
+       "pinyin": "Chúle fángjiān yǐwài, fúwù yě hěn hǎo.",
+       "en": "Besides the rooms, the service is good too."
+      },
+      {
+       "speaker": "A：",
+       "zh": "我一点儿也不想走。你满意吗？",
+       "pinyin": "Wǒ yìdiǎnr yě bù xiǎng zǒu. Nǐ mǎnyì ma?",
+       "en": "I don't want to leave at all. Are you satisfied?"
+      }
+     ]
+    },
+    {
+     "scene": "Delayed by the weather.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "飞机晚点了，什么时候起飞？",
+       "pinyin": "Fēijī wǎndiǎn le, shénme shíhou qǐfēi?",
+       "en": "The plane is delayed. When will it take off?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我们再等一刻钟吧。假期还长。",
+       "pinyin": "Wǒmen zài děng yí kè zhōng ba. Jiàqī hái cháng.",
+       "en": "Let's wait another fifteen minutes. The holiday is still long."
+      },
+      {
+       "speaker": "A：",
+       "zh": "先骑马，再去看海，一定很好。",
+       "pinyin": "Xiān qí mǎ, zài qù kàn hǎi, yídìng hěn hǎo.",
+       "en": "First horse riding, then the sea. It's sure to be great."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The pattern 一……也/都 + 不/没……",
+     "explanation": "This stresses a complete negative: \"not even one\" or \"not at all\".",
+     "examples": [
+      {
+       "zh": "我一点儿也不想走。",
+       "pinyin": "Wǒ yìdiǎnr yě bù xiǎng zǒu.",
+       "en": "I don't want to leave at all."
+      },
+      {
+       "zh": "他一个人都不认识。",
+       "pinyin": "Tā yí ge rén dōu bú rènshi.",
+       "en": "He doesn't know a single person."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (9)",
+     "explanation": "A 跟 B 一样 means A and B are the same. An adjective can follow 一样. The negative is 不一样.",
+     "examples": [
+      {
+       "zh": "这家宾馆跟别的都不一样。",
+       "pinyin": "Zhè jiā bīnguǎn gēn biéde dōu bù yíyàng.",
+       "en": "This hotel is different from all the others."
+      },
+      {
+       "zh": "他跟我一样高。",
+       "pinyin": "Tā gēn wǒ yíyàng gāo.",
+       "en": "He is as tall as me."
+      }
+     ]
+    },
+    {
+     "name": "The pattern 除了……（以外），……都/还/也……",
+     "explanation": "With 都, it means \"everything except\". With 还 or 也, it means \"as well as\".",
+     "examples": [
+      {
+       "zh": "除了他以外，我们都去。",
+       "pinyin": "Chúle tā yǐwài, wǒmen dōu qù.",
+       "en": "Everyone goes except him."
+      },
+      {
+       "zh": "除了苹果，我还买了面包。",
+       "pinyin": "Chúle píngguǒ, wǒ hái mǎile miànbāo.",
+       "en": "Besides apples, I also bought bread."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "他跟我（　）高。",
+     "options": [
+      "一样",
+      "特别",
+      "满意",
+      "先"
+     ],
+     "answer": "一样",
+     "explanation": "A 跟 B 一样 + adjective.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "除了他以外，我们（　）去。",
+     "options": [
+      "都",
+      "再",
+      "先",
+      "久"
+     ],
+     "answer": "都",
+     "explanation": "除了 with 都 means \"everyone except\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "He is as tall as me.",
+     "tokens": [
+      "他",
+      "跟",
+      "我",
+      "一样",
+      "高"
+     ],
+     "explanation": "The adjective follows 一样."
+    },
+    {
+     "type": "order",
+     "prompt": "I don't want to leave at all.",
+     "tokens": [
+      "我",
+      "一点儿",
+      "也",
+      "不",
+      "想",
+      "走"
+     ],
+     "explanation": "一点儿也不 is a complete negative."
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "title": {
+    "zh": "这样的照片才好看",
+    "en": "Photos like these are the best"
+   },
+   "words": [
+    {
+     "hanzi": "比较",
+     "pinyin": "bǐjiào",
+     "pos": "adverb",
+     "meaning": "fairly, rather"
+    },
+    {
+     "hanzi": "大衣",
+     "pinyin": "dàyī",
+     "pos": "noun",
+     "meaning": "overcoat"
+    },
+    {
+     "hanzi": "电",
+     "pinyin": "diàn",
+     "pos": "noun",
+     "meaning": "electricity"
+    },
+    {
+     "hanzi": "锻炼",
+     "pinyin": "duànliàn",
+     "pos": "verb",
+     "meaning": "to exercise"
+    },
+    {
+     "hanzi": "封",
+     "pinyin": "fēng",
+     "pos": "measure word",
+     "meaning": "measure word for letters, emails"
+    },
+    {
+     "hanzi": "感兴趣",
+     "pinyin": "gǎn xìngqù",
+     "pos": "verb",
+     "meaning": "to be interested"
+    },
+    {
+     "hanzi": "干",
+     "pinyin": "gàn",
+     "pos": "verb",
+     "meaning": "to do"
+    },
+    {
+     "hanzi": "哈哈",
+     "pinyin": "hāhā",
+     "pos": "interjection",
+     "meaning": "ha ha",
+     "extra": true
+    },
+    {
+     "hanzi": "会",
+     "pinyin": "huì",
+     "pos": "noun",
+     "meaning": "meeting"
+    },
+    {
+     "hanzi": "结束",
+     "pinyin": "jiéshù",
+     "pos": "verb",
+     "meaning": "to end"
+    },
+    {
+     "hanzi": "难过",
+     "pinyin": "nánguò",
+     "pos": "adjective",
+     "meaning": "sad"
+    },
+    {
+     "hanzi": "难看",
+     "pinyin": "nánkàn",
+     "pos": "adjective",
+     "meaning": "ugly"
+    },
+    {
+     "hanzi": "爬",
+     "pinyin": "pá",
+     "pos": "verb",
+     "meaning": "to climb"
+    },
+    {
+     "hanzi": "拍照",
+     "pinyin": "pāizhào",
+     "pos": "verb",
+     "meaning": "to take a photo"
+    },
+    {
+     "hanzi": "山",
+     "pinyin": "shān",
+     "pos": "noun",
+     "meaning": "mountain"
+    },
+    {
+     "hanzi": "收到",
+     "pinyin": "shōudào",
+     "pos": "verb",
+     "meaning": "to receive"
+    },
+    {
+     "hanzi": "树",
+     "pinyin": "shù",
+     "pos": "noun",
+     "meaning": "tree"
+    },
+    {
+     "hanzi": "水平",
+     "pinyin": "shuǐpíng",
+     "pos": "noun",
+     "meaning": "level, standard"
+    },
+    {
+     "hanzi": "太阳",
+     "pinyin": "tàiyáng",
+     "pos": "noun",
+     "meaning": "sun"
+    },
+    {
+     "hanzi": "鞋",
+     "pinyin": "xié",
+     "pos": "noun",
+     "meaning": "shoes"
+    },
+    {
+     "hanzi": "兴趣",
+     "pinyin": "xìngqù",
+     "pos": "noun",
+     "meaning": "interest"
+    },
+    {
+     "hanzi": "音乐",
+     "pinyin": "yīnyuè",
+     "pos": "noun",
+     "meaning": "music"
+    },
+    {
+     "hanzi": "邮件",
+     "pinyin": "yóujiàn",
+     "pos": "noun",
+     "meaning": "email, mail"
+    },
+    {
+     "hanzi": "照",
+     "pinyin": "zhào",
+     "pos": "verb",
+     "meaning": "to take (a photo)"
+    },
+    {
+     "hanzi": "照相",
+     "pinyin": "zhàoxiàng",
+     "pos": "verb",
+     "meaning": "to take a photo"
+    },
+    {
+     "hanzi": "终于",
+     "pinyin": "zhōngyú",
+     "pos": "adverb",
+     "meaning": "finally"
+    },
+    {
+     "hanzi": "总是",
+     "pinyin": "zǒngshì",
+     "pos": "adverb",
+     "meaning": "always"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Taking photos on a mountain.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "今天太阳好得很，我们去爬山拍照吧！",
+       "pinyin": "Jīntiān tàiyáng hǎo de hěn, wǒmen qù pá shān pāizhào ba!",
+       "en": "The sun is great today. Let's go up the mountain and take photos!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "好！我对照相比较感兴趣。",
+       "pinyin": "Hǎo! Wǒ duì zhàoxiàng bǐjiào gǎn xìngqù.",
+       "en": "Great! I'm quite interested in photography."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你看，山上走下来一个人，树下有很多人。",
+       "pinyin": "Nǐ kàn, shān shang zǒu xiàlai yí ge rén, shù xià yǒu hěn duō rén.",
+       "en": "Look, someone is coming down the mountain, and there are many people under the trees."
+      },
+      {
+       "speaker": "B：",
+       "zh": "这样的照片才好看！张张都不错。",
+       "pinyin": "Zhèyàng de zhàopiàn cái hǎokàn! Zhāngzhāng dōu búcuò.",
+       "en": "Photos like these are the good ones! Every one is great."
+      }
+     ]
+    },
+    {
+     "scene": "After the meeting.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你收到邮件了吗？",
+       "pinyin": "Nǐ shōudào yóujiàn le ma?",
+       "en": "Did you get the email?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "收到了。开完会我就回一封。",
+       "pinyin": "Shōudào le. Kāiwán huì wǒ jiù huí yì fēng.",
+       "en": "Yes. I'll write back as soon as the meeting is over."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Complement of degree (2)",
+     "explanation": "得很 after an adjective means \"very\". It is used in speech.",
+     "examples": [
+      {
+       "zh": "现在天气好得很。",
+       "pinyin": "Xiànzài tiānqì hǎo de hěn.",
+       "en": "The weather is very nice now."
+      }
+     ]
+    },
+    {
+     "name": "Reduplication of measure words",
+     "explanation": "Repeating a measure word means \"every\". 都 often follows.",
+     "examples": [
+      {
+       "zh": "张张都好看。",
+       "pinyin": "Zhāngzhāng dōu hǎokàn.",
+       "en": "Every one looks good."
+      },
+      {
+       "zh": "天天都很忙。",
+       "pinyin": "Tiāntiān dōu hěn máng.",
+       "en": "I'm busy every day."
+      }
+     ]
+    },
+    {
+     "name": "Existential sentences (3)",
+     "explanation": "Place + verb + direction or result + number + thing says that something appears or disappears at a place.",
+     "examples": [
+      {
+       "zh": "后边走过去两个人。",
+       "pinyin": "Hòubian zǒu guòqu liǎng ge rén.",
+       "en": "Two people walked past behind us."
+      }
+     ]
+    },
+    {
+     "name": "The pattern ……了……就……",
+     "explanation": "The second action happens as soon as the first is done.",
+     "examples": [
+      {
+       "zh": "吃了饭就走。",
+       "pinyin": "Chīle fàn jiù zǒu.",
+       "en": "We'll leave right after eating."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "今天天气好（　）很。",
+     "options": [
+      "得",
+      "地",
+      "的",
+      "比"
+     ],
+     "answer": "得",
+     "explanation": "得很 means \"very\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "这些照片（　）都好看。",
+     "options": [
+      "张张",
+      "比较",
+      "音乐",
+      "终于"
+     ],
+     "answer": "张张",
+     "explanation": "A repeated measure word means \"every\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "We'll leave right after eating.",
+     "tokens": [
+      "吃",
+      "了",
+      "饭",
+      "就",
+      "走"
+     ],
+     "explanation": "了 marks the first action and 就 the second."
+    },
+    {
+     "type": "order",
+     "prompt": "I'm busy every day.",
+     "tokens": [
+      "天天",
+      "都",
+      "很",
+      "忙"
+     ],
+     "explanation": "天天 means every day."
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "title": {
+    "zh": "高铁上还可以点外卖",
+    "en": "You can even order takeout on a high-speed train"
+   },
+   "words": [
+    {
+     "hanzi": "安静",
+     "pinyin": "ānjìng",
+     "pos": "adjective",
+     "meaning": "quiet"
+    },
+    {
+     "hanzi": "必须",
+     "pinyin": "bìxū",
+     "pos": "adverb",
+     "meaning": "must"
+    },
+    {
+     "hanzi": "常用",
+     "pinyin": "cháng yòng",
+     "pos": "adjective",
+     "meaning": "commonly used"
+    },
+    {
+     "hanzi": "迟到",
+     "pinyin": "chídào",
+     "pos": "verb",
+     "meaning": "to be late"
+    },
+    {
+     "hanzi": "充电宝",
+     "pinyin": "chōngdiànbǎo",
+     "pos": "noun",
+     "meaning": "power bank",
+     "extra": true
+    },
+    {
+     "hanzi": "打算",
+     "pinyin": "dǎsuàn",
+     "pos": "verb",
+     "meaning": "to plan to"
+    },
+    {
+     "hanzi": "电梯",
+     "pinyin": "diàntī",
+     "pos": "noun",
+     "meaning": "lift, elevator"
+    },
+    {
+     "hanzi": "耳机",
+     "pinyin": "ěrjī",
+     "pos": "noun",
+     "meaning": "headphones"
+    },
+    {
+     "hanzi": "放假",
+     "pinyin": "fàngjià",
+     "pos": "verb",
+     "meaning": "to have a holiday"
+    },
+    {
+     "hanzi": "分开",
+     "pinyin": "fēnkāi",
+     "pos": "verb",
+     "meaning": "to separate"
+    },
+    {
+     "hanzi": "该",
+     "pinyin": "gāi",
+     "pos": "modal verb",
+     "meaning": "should"
+    },
+    {
+     "hanzi": "高铁",
+     "pinyin": "gāotiě",
+     "pos": "noun",
+     "meaning": "high-speed rail"
+    },
+    {
+     "hanzi": "红绿灯",
+     "pinyin": "hóng-lǜdēng",
+     "pos": "noun",
+     "meaning": "traffic light"
+    },
+    {
+     "hanzi": "后来",
+     "pinyin": "hòulái",
+     "pos": "noun",
+     "meaning": "later, afterwards"
+    },
+    {
+     "hanzi": "急",
+     "pinyin": "jí",
+     "pos": "adjective",
+     "meaning": "urgent, anxious"
+    },
+    {
+     "hanzi": "检查",
+     "pinyin": "jiǎnchá",
+     "pos": "verb",
+     "meaning": "to check, to examine"
+    },
+    {
+     "hanzi": "检票",
+     "pinyin": "jiǎnpiào",
+     "pos": "verb",
+     "meaning": "to check tickets"
+    },
+    {
+     "hanzi": "路口",
+     "pinyin": "lùkǒu",
+     "pos": "noun",
+     "meaning": "intersection"
+    },
+    {
+     "hanzi": "如果",
+     "pinyin": "rúguǒ",
+     "pos": "conjunction",
+     "meaning": "if"
+    },
+    {
+     "hanzi": "沙发",
+     "pinyin": "shāfā",
+     "pos": "noun",
+     "meaning": "sofa"
+    },
+    {
+     "hanzi": "刷",
+     "pinyin": "shuā",
+     "pos": "verb",
+     "meaning": "to swipe, to brush"
+    },
+    {
+     "hanzi": "小心",
+     "pinyin": "xiǎoxīn",
+     "pos": "verb",
+     "meaning": "to be careful"
+    },
+    {
+     "hanzi": "行",
+     "pinyin": "xíng",
+     "pos": "adjective",
+     "meaning": "okay, fine"
+    },
+    {
+     "hanzi": "选择",
+     "pinyin": "xuǎnzé",
+     "pos": "verb",
+     "meaning": "to choose"
+    },
+    {
+     "hanzi": "以前",
+     "pinyin": "yǐqián",
+     "pos": "noun",
+     "meaning": "before"
+    },
+    {
+     "hanzi": "越",
+     "pinyin": "yuè",
+     "pos": "adverb",
+     "meaning": "the more"
+    },
+    {
+     "hanzi": "北京南站",
+     "pinyin": "Běijīng Nán Zhàn",
+     "pos": "proper noun",
+     "meaning": "Beijing South Station"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "On the high-speed train.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "该上车了！检票了吗？",
+       "pinyin": "Gāi shàng chē le! Jiǎnpiào le ma?",
+       "en": "It's time to board! Have the tickets been checked?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "检了。听说高铁上还可以点外卖。",
+       "pinyin": "Jiǎn le. Tīngshuō gāotiě shang hái kěyǐ diǎn wàimài.",
+       "en": "Yes. I hear you can even order takeaway on the high-speed train."
+      },
+      {
+       "speaker": "A：",
+       "zh": "真方便！高铁越来越好了。",
+       "pinyin": "Zhēn fāngbiàn! Gāotiě yuèláiyuè hǎo le.",
+       "en": "So convenient! High-speed trains keep getting better."
+      },
+      {
+       "speaker": "B：",
+       "zh": "如果饿了，我们就点吧。",
+       "pinyin": "Rúguǒ è le, wǒmen jiù diǎn ba.",
+       "en": "If we get hungry, we'll order."
+      }
+     ]
+    },
+    {
+     "scene": "Reaching the station.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你必须小心，这儿很多人。",
+       "pinyin": "Nǐ bìxū xiǎoxīn, zhèr hěn duō rén.",
+       "en": "You must be careful. There are a lot of people here."
+      },
+      {
+       "speaker": "B：",
+       "zh": "行。我们在路口分开，别急。",
+       "pinyin": "Xíng. Wǒmen zài lùkǒu fēnkāi, bié jí.",
+       "en": "Okay. We'll split up at the intersection. No rush."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The pattern 该……了",
+     "explanation": "该……了 means it's time for something.",
+     "examples": [
+      {
+       "zh": "该上车了。",
+       "pinyin": "Gāi shàng chē le.",
+       "en": "It's time to board."
+      }
+     ]
+    },
+    {
+     "name": "如果……，就……",
+     "explanation": "This pair means \"if..., then...\".",
+     "examples": [
+      {
+       "zh": "如果饿了，我们就吃饭。",
+       "pinyin": "Rúguǒ è le, wǒmen jiù chī fàn.",
+       "en": "If we get hungry, we'll eat."
+      }
+     ]
+    },
+    {
+     "name": "The set phrase 越来越",
+     "explanation": "越来越 + adjective means \"more and more\".",
+     "examples": [
+      {
+       "zh": "天气越来越热。",
+       "pinyin": "Tiānqì yuèláiyuè rè.",
+       "en": "The weather is getting hotter and hotter."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "（　）饿了，我们就吃饭。",
+     "options": [
+      "如果",
+      "以前",
+      "安静",
+      "必须"
+     ],
+     "answer": "如果",
+     "explanation": "如果 sets up the condition.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "该上车（　）。",
+     "options": [
+      "了",
+      "吗",
+      "呢",
+      "的"
+     ],
+     "answer": "了",
+     "explanation": "该……了 means it's time.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "The weather is getting hotter and hotter.",
+     "tokens": [
+      "天气",
+      "越来越",
+      "热"
+     ],
+     "explanation": "越来越 goes before the adjective."
+    },
+    {
+     "type": "order",
+     "prompt": "It's time to board.",
+     "tokens": [
+      "该",
+      "上",
+      "车",
+      "了"
+     ],
+     "explanation": "该 and 了 frame the action."
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "title": {
+    "zh": "那条裙子比短裤更好看",
+    "en": "That skirt looks better than the shorts"
+   },
+   "words": [
+    {
+     "hanzi": "矮",
+     "pinyin": "ǎi",
+     "pos": "adjective",
+     "meaning": "short (in height)"
+    },
+    {
+     "hanzi": "冰",
+     "pinyin": "bīng",
+     "pos": "noun",
+     "meaning": "ice",
+     "extra": true
+    },
+    {
+     "hanzi": "不但",
+     "pinyin": "búdàn",
+     "pos": "conjunction",
+     "meaning": "not only"
+    },
+    {
+     "hanzi": "大小",
+     "pinyin": "dàxiǎo",
+     "pos": "noun",
+     "meaning": "size"
+    },
+    {
+     "hanzi": "短裤",
+     "pinyin": "duǎnkù",
+     "pos": "noun",
+     "meaning": "shorts"
+    },
+    {
+     "hanzi": "而且",
+     "pinyin": "érqiě",
+     "pos": "conjunction",
+     "meaning": "and also, moreover"
+    },
+    {
+     "hanzi": "更",
+     "pinyin": "gèng",
+     "pos": "adverb",
+     "meaning": "even more"
+    },
+    {
+     "hanzi": "公斤",
+     "pinyin": "gōngjīn",
+     "pos": "measure word",
+     "meaning": "kilogram"
+    },
+    {
+     "hanzi": "合适",
+     "pinyin": "héshì",
+     "pos": "adjective",
+     "meaning": "suitable"
+    },
+    {
+     "hanzi": "黄色",
+     "pinyin": "huángsè",
+     "pos": "noun",
+     "meaning": "yellow"
+    },
+    {
+     "hanzi": "极",
+     "pinyin": "jí",
+     "pos": "adverb",
+     "meaning": "extremely"
+    },
+    {
+     "hanzi": "结婚",
+     "pinyin": "jiéhūn",
+     "pos": "verb",
+     "meaning": "to marry"
+    },
+    {
+     "hanzi": "斤",
+     "pinyin": "jīn",
+     "pos": "measure word",
+     "meaning": "half a kilogram"
+    },
+    {
+     "hanzi": "旧",
+     "pinyin": "jiù",
+     "pos": "adjective",
+     "meaning": "old, used"
+    },
+    {
+     "hanzi": "决定",
+     "pinyin": "juédìng",
+     "pos": "verb",
+     "meaning": "to decide"
+    },
+    {
+     "hanzi": "开机",
+     "pinyin": "kāijī",
+     "pos": "verb",
+     "meaning": "to turn on (a device)"
+    },
+    {
+     "hanzi": "辆",
+     "pinyin": "liàng",
+     "pos": "measure word",
+     "meaning": "measure word for vehicles"
+    },
+    {
+     "hanzi": "毛",
+     "pinyin": "máo",
+     "pos": "measure word",
+     "meaning": "one tenth of a yuan"
+    },
+    {
+     "hanzi": "裙子",
+     "pinyin": "qúnzi",
+     "pos": "noun",
+     "meaning": "skirt"
+    },
+    {
+     "hanzi": "声",
+     "pinyin": "shēng",
+     "pos": "noun",
+     "meaning": "sound, voice"
+    },
+    {
+     "hanzi": "试",
+     "pinyin": "shì",
+     "pos": "verb",
+     "meaning": "to try"
+    },
+    {
+     "hanzi": "甜",
+     "pinyin": "tián",
+     "pos": "adjective",
+     "meaning": "sweet"
+    },
+    {
+     "hanzi": "西瓜",
+     "pinyin": "xīguā",
+     "pos": "noun",
+     "meaning": "watermelon"
+    },
+    {
+     "hanzi": "香蕉",
+     "pinyin": "xiāngjiāo",
+     "pos": "noun",
+     "meaning": "banana"
+    },
+    {
+     "hanzi": "新鲜",
+     "pinyin": "xīnxiān",
+     "pos": "adjective",
+     "meaning": "fresh"
+    },
+    {
+     "hanzi": "一共",
+     "pinyin": "yígòng",
+     "pos": "adverb",
+     "meaning": "altogether"
+    },
+    {
+     "hanzi": "自行车",
+     "pinyin": "zìxíngchē",
+     "pos": "noun",
+     "meaning": "bicycle"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Buying clothes.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这条裙子和短裤，哪个好看？",
+       "pinyin": "Zhè tiáo qúnzi hé duǎnkù, nǎge hǎokàn?",
+       "en": "This skirt or the shorts, which looks better?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "裙子比短裤更好看，而且不比短裤贵。",
+       "pinyin": "Qúnzi bǐ duǎnkù gèng hǎokàn, érqiě bù bǐ duǎnkù guì.",
+       "en": "The skirt looks better than the shorts, and it's no more expensive."
+      },
+      {
+       "speaker": "A：",
+       "zh": "大小也合适，好看极了！",
+       "pinyin": "Dàxiǎo yě héshì, hǎokàn jí le!",
+       "en": "The size fits too. It looks fantastic!"
+      }
+     ]
+    },
+    {
+     "scene": "Getting home.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "咱们怎么回去？",
+       "pinyin": "Zánmen zěnme huíqù?",
+       "en": "How shall we get back?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "不远，可以走着去。这个西瓜不但新鲜，而且很甜。",
+       "pinyin": "Bù yuǎn, kěyǐ zǒuzhe qù. Zhège xīguā búdàn xīnxiān, érqiě hěn tián.",
+       "en": "It's not far, we can walk. This watermelon is not only fresh but also sweet."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Serial verb sentences (2)",
+     "explanation": "着 after the first verb shows the way the second action is done.",
+     "examples": [
+      {
+       "zh": "咱们可以走着去。",
+       "pinyin": "Zánmen kěyǐ zǒuzhe qù.",
+       "en": "We can walk there."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (10)",
+     "explanation": "A 不比 B + adjective means A and B are about the same. It is often used to correct someone.",
+     "examples": [
+      {
+       "zh": "裙子不比短裤贵。",
+       "pinyin": "Qúnzi bù bǐ duǎnkù guì.",
+       "en": "The skirt isn't more expensive than the shorts."
+      }
+     ]
+    },
+    {
+     "name": "Complement of degree (3)",
+     "explanation": "极了 after an adjective means \"extremely\".",
+     "examples": [
+      {
+       "zh": "这个西瓜甜极了。",
+       "pinyin": "Zhège xīguā tián jí le.",
+       "en": "This watermelon is extremely sweet."
+      }
+     ]
+    },
+    {
+     "name": "不但……，而且……",
+     "explanation": "This pair means \"not only... but also...\".",
+     "examples": [
+      {
+       "zh": "不但新鲜，而且很甜。",
+       "pinyin": "Búdàn xīnxiān, érqiě hěn tián.",
+       "en": "Not only fresh but also sweet."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "这个西瓜甜（　）了。",
+     "options": [
+      "极",
+      "矮",
+      "辆",
+      "毛"
+     ],
+     "answer": "极",
+     "explanation": "极了 means \"extremely\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "这件衣服不但好看，（　）便宜。",
+     "options": [
+      "而且",
+      "一共",
+      "决定",
+      "结婚"
+     ],
+     "answer": "而且",
+     "explanation": "不但 pairs with 而且.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "We can walk there.",
+     "tokens": [
+      "咱们",
+      "可以",
+      "走",
+      "着",
+      "去"
+     ],
+     "explanation": "着 shows the way of going."
+    },
+    {
+     "type": "order",
+     "prompt": "It's not only fresh but also sweet.",
+     "tokens": [
+      "不但",
+      "新鲜",
+      "而且",
+      "很",
+      "甜"
+     ],
+     "explanation": "不但 first, 而且 second."
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "title": {
+    "zh": "今天我出院了",
+    "en": "Today I was discharged from the hospital"
+   },
+   "words": [
+    {
+     "hanzi": "病人",
+     "pinyin": "bìngrén",
+     "pos": "noun",
+     "meaning": "patient"
+    },
+    {
+     "hanzi": "差不多",
+     "pinyin": "chàbuduō",
+     "pos": "adverb",
+     "meaning": "almost, about the same"
+    },
+    {
+     "hanzi": "常",
+     "pinyin": "cháng",
+     "pos": "adverb",
+     "meaning": "often"
+    },
+    {
+     "hanzi": "出院",
+     "pinyin": "chūyuàn",
+     "pos": "verb",
+     "meaning": "to leave hospital"
+    },
+    {
+     "hanzi": "担心",
+     "pinyin": "dānxīn",
+     "pos": "verb",
+     "meaning": "to worry"
+    },
+    {
+     "hanzi": "得",
+     "pinyin": "děi",
+     "pos": "modal verb",
+     "meaning": "must, have to"
+    },
+    {
+     "hanzi": "低",
+     "pinyin": "dī",
+     "pos": "adjective",
+     "meaning": "low",
+     "extra": true
+    },
+    {
+     "hanzi": "耳朵",
+     "pinyin": "ěrduo",
+     "pos": "noun",
+     "meaning": "ear"
+    },
+    {
+     "hanzi": "发烧",
+     "pinyin": "fāshāo",
+     "pos": "verb",
+     "meaning": "to have a fever"
+    },
+    {
+     "hanzi": "方法",
+     "pinyin": "fāngfǎ",
+     "pos": "noun",
+     "meaning": "method"
+    },
+    {
+     "hanzi": "感冒",
+     "pinyin": "gǎnmào",
+     "pos": "verb",
+     "meaning": "to catch a cold"
+    },
+    {
+     "hanzi": "关心",
+     "pinyin": "guānxīn",
+     "pos": "verb",
+     "meaning": "to care about"
+    },
+    {
+     "hanzi": "健康",
+     "pinyin": "jiànkāng",
+     "pos": "adjective",
+     "meaning": "healthy"
+    },
+    {
+     "hanzi": "开",
+     "pinyin": "kāi",
+     "pos": "verb",
+     "meaning": "to turn on, to bloom"
+    },
+    {
+     "hanzi": "开心",
+     "pinyin": "kāixīn",
+     "pos": "adjective",
+     "meaning": "happy"
+    },
+    {
+     "hanzi": "胖",
+     "pinyin": "pàng",
+     "pos": "adjective",
+     "meaning": "fat"
+    },
+    {
+     "hanzi": "其他",
+     "pinyin": "qítā",
+     "pos": "pronoun",
+     "meaning": "other"
+    },
+    {
+     "hanzi": "体育馆",
+     "pinyin": "tǐyùguǎn",
+     "pos": "noun",
+     "meaning": "gymnasium"
+    },
+    {
+     "hanzi": "突然",
+     "pinyin": "tūrán",
+     "pos": "adverb",
+     "meaning": "suddenly"
+    },
+    {
+     "hanzi": "腿",
+     "pinyin": "tuǐ",
+     "pos": "noun",
+     "meaning": "leg"
+    },
+    {
+     "hanzi": "习惯",
+     "pinyin": "xíguàn",
+     "pos": "noun",
+     "meaning": "habit; to be used to"
+    },
+    {
+     "hanzi": "心里",
+     "pinyin": "xīnlǐ",
+     "pos": "noun",
+     "meaning": "in one's heart"
+    },
+    {
+     "hanzi": "以后",
+     "pinyin": "yǐhòu",
+     "pos": "noun",
+     "meaning": "after, later"
+    },
+    {
+     "hanzi": "羽毛球",
+     "pinyin": "yǔmáoqiú",
+     "pos": "noun",
+     "meaning": "badminton"
+    },
+    {
+     "hanzi": "种",
+     "pinyin": "zhǒng",
+     "pos": "measure word",
+     "meaning": "kind, type"
+    },
+    {
+     "hanzi": "住院",
+     "pinyin": "zhùyuàn",
+     "pos": "verb",
+     "meaning": "to be in hospital"
+    },
+    {
+     "hanzi": "注意",
+     "pinyin": "zhùyì",
+     "pos": "verb",
+     "meaning": "to pay attention"
+    },
+    {
+     "hanzi": "最近",
+     "pinyin": "zuìjìn",
+     "pos": "noun",
+     "meaning": "recently"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Leaving the hospital.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你住院多久了？今天出院吗？",
+       "pinyin": "Nǐ zhùyuàn duō jiǔ le? Jīntiān chūyuàn ma?",
+       "en": "How long have you been in hospital? Are you leaving today?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "对，今天我出院了。上次来医院差不多两年了。",
+       "pinyin": "Duì, jīntiān wǒ chūyuàn le. Shàngcì lái yīyuàn chàbuduō liǎng nián le.",
+       "en": "Yes, I'm out today. It's almost two years since I was last here."
+      },
+      {
+       "speaker": "A：",
+       "zh": "以后注意健康，别太累。",
+       "pinyin": "Yǐhòu zhùyì jiànkāng, bié tài lèi.",
+       "en": "Pay attention to your health in future, and don't get too tired."
+      },
+      {
+       "speaker": "B：",
+       "zh": "医生说我得吃药。",
+       "pinyin": "Yīshēng shuō wǒ děi chī yào.",
+       "en": "The doctor says I must take medicine."
+      }
+     ]
+    },
+    {
+     "scene": "A swimmer's ear.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你怎么了？",
+       "pinyin": "Nǐ zěnme le?",
+       "en": "What's wrong?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "游完泳以后，我的耳朵一直有点儿疼。",
+       "pinyin": "Yóuwán yǒng yǐhòu, wǒ de ěrduo yìzhí yǒudiǎnr téng.",
+       "en": "After swimming, my ear has been a bit sore."
+      },
+      {
+       "speaker": "A：",
+       "zh": "别担心，感冒了要多休息。",
+       "pinyin": "Bié dānxīn, gǎnmào le yào duō xiūxi.",
+       "en": "Don't worry. When you have a cold you need more rest."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Extended use of the complement of direction (1)",
+     "explanation": "下去 after a verb or adjective means that something already started will go on.",
+     "examples": [
+      {
+       "zh": "你说下去。",
+       "pinyin": "Nǐ shuō xiàqù.",
+       "en": "Go on talking."
+      },
+      {
+       "zh": "天气还会冷下去。",
+       "pinyin": "Tiānqì hái huì lěng xiàqù.",
+       "en": "The weather will stay cold."
+      }
+     ]
+    },
+    {
+     "name": "Separable words (2)",
+     "explanation": "Other words can go between the two parts of a separable verb, such as 完 in 游完泳.",
+     "examples": [
+      {
+       "zh": "游完泳以后",
+       "pinyin": "yóuwán yǒng yǐhòu",
+       "en": "after swimming"
+      }
+     ]
+    },
+    {
+     "name": "Complement of duration (2)",
+     "explanation": "With verbs that cannot last, such as 来 or 结婚, the time phrase says how long ago the action finished.",
+     "examples": [
+      {
+       "zh": "他来中国两年了。",
+       "pinyin": "Tā lái Zhōngguó liǎng nián le.",
+       "en": "It's been two years since he came to China."
+      }
+     ]
+    },
+    {
+     "name": "The pattern ……以前/以后/前/后",
+     "explanation": "These go after a phrase and mean \"before\" or \"after\". The phrase comes first, the opposite of English.",
+     "examples": [
+      {
+       "zh": "吃饭以前",
+       "pinyin": "chī fàn yǐqián",
+       "en": "before eating"
+      },
+      {
+       "zh": "下班后",
+       "pinyin": "xiàbān hòu",
+       "en": "after work"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "你说（　）。",
+     "options": [
+      "下去",
+      "以前",
+      "突然",
+      "其他"
+     ],
+     "answer": "下去",
+     "explanation": "下去 means to go on doing something.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "吃饭（　）要洗手。",
+     "options": [
+      "以前",
+      "最近",
+      "习惯",
+      "开心"
+     ],
+     "answer": "以前",
+     "explanation": "The time word follows the phrase.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "After swimming, my ear has been sore.",
+     "tokens": [
+      "游",
+      "完",
+      "泳",
+      "以后",
+      "耳朵",
+      "一直",
+      "疼"
+     ],
+     "explanation": "完 goes inside the separable verb."
+    },
+    {
+     "type": "order",
+     "prompt": "It's been two years since he came to China.",
+     "tokens": [
+      "他",
+      "来",
+      "中国",
+      "两",
+      "年",
+      "了"
+     ],
+     "explanation": "The time follows the place."
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "title": {
+    "zh": "打不好没关系",
+    "en": "It doesn't matter if you don't play well"
+   },
+   "words": [
+    {
+     "hanzi": "比赛",
+     "pinyin": "bǐsài",
+     "pos": "noun",
+     "meaning": "match, competition"
+    },
+    {
+     "hanzi": "参加",
+     "pinyin": "cānjiā",
+     "pos": "verb",
+     "meaning": "to take part in"
+    },
+    {
+     "hanzi": "成绩",
+     "pinyin": "chéngjì",
+     "pos": "noun",
+     "meaning": "results, grades"
+    },
+    {
+     "hanzi": "得到",
+     "pinyin": "dédào",
+     "pos": "verb",
+     "meaning": "to get, to receive"
+    },
+    {
+     "hanzi": "得分",
+     "pinyin": "défēn",
+     "pos": "verb",
+     "meaning": "to score"
+    },
+    {
+     "hanzi": "好多",
+     "pinyin": "hǎoduō",
+     "pos": "adjective",
+     "meaning": "a lot of"
+    },
+    {
+     "hanzi": "回",
+     "pinyin": "huí",
+     "pos": "verb",
+     "meaning": "to reply"
+    },
+    {
+     "hanzi": "几乎",
+     "pinyin": "jīhū",
+     "pos": "adverb",
+     "meaning": "almost"
+    },
+    {
+     "hanzi": "紧张",
+     "pinyin": "jǐnzhāng",
+     "pos": "adjective",
+     "meaning": "nervous",
+     "extra": true
+    },
+    {
+     "hanzi": "卡",
+     "pinyin": "kǎ",
+     "pos": "noun",
+     "meaning": "card"
+    },
+    {
+     "hanzi": "练",
+     "pinyin": "liàn",
+     "pos": "verb",
+     "meaning": "to practise"
+    },
+    {
+     "hanzi": "练习",
+     "pinyin": "liànxí",
+     "pos": "verb",
+     "meaning": "to practise"
+    },
+    {
+     "hanzi": "男生",
+     "pinyin": "nánshēng",
+     "pos": "noun",
+     "meaning": "male student"
+    },
+    {
+     "hanzi": "啤酒",
+     "pinyin": "píjiǔ",
+     "pos": "noun",
+     "meaning": "beer"
+    },
+    {
+     "hanzi": "球场",
+     "pinyin": "qiúchǎng",
+     "pos": "noun",
+     "meaning": "sports court, pitch"
+    },
+    {
+     "hanzi": "世界",
+     "pinyin": "shìjiè",
+     "pos": "noun",
+     "meaning": "world"
+    },
+    {
+     "hanzi": "受到",
+     "pinyin": "shòudào",
+     "pos": "verb",
+     "meaning": "to receive, to be given"
+    },
+    {
+     "hanzi": "体育",
+     "pinyin": "tǐyù",
+     "pos": "noun",
+     "meaning": "sports, physical education"
+    },
+    {
+     "hanzi": "网球",
+     "pinyin": "wǎngqiú",
+     "pos": "noun",
+     "meaning": "tennis"
+    },
+    {
+     "hanzi": "为了",
+     "pinyin": "wèile",
+     "pos": "preposition",
+     "meaning": "in order to"
+    },
+    {
+     "hanzi": "校园",
+     "pinyin": "xiàoyuán",
+     "pos": "noun",
+     "meaning": "campus"
+    },
+    {
+     "hanzi": "影响",
+     "pinyin": "yǐngxiǎng",
+     "pos": "verb",
+     "meaning": "to affect"
+    },
+    {
+     "hanzi": "运动会",
+     "pinyin": "yùndònghuì",
+     "pos": "noun",
+     "meaning": "sports meet"
+    },
+    {
+     "hanzi": "运动员",
+     "pinyin": "yùndòngyuán",
+     "pos": "noun",
+     "meaning": "athlete"
+    },
+    {
+     "hanzi": "只是",
+     "pinyin": "zhǐshì",
+     "pos": "adverb",
+     "meaning": "just, merely"
+    },
+    {
+     "hanzi": "主要",
+     "pinyin": "zhǔyào",
+     "pos": "adjective",
+     "meaning": "main"
+    },
+    {
+     "hanzi": "奥运会",
+     "pinyin": "Àoyùnhuì",
+     "pos": "proper noun",
+     "meaning": "the Olympic Games"
+    },
+    {
+     "hanzi": "刘长春",
+     "pinyin": "Liú Chángchūn",
+     "pos": "proper noun",
+     "meaning": "Liu Changchun"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Training for a match.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "为了比赛，我每天都在球场练习。",
+       "pinyin": "Wèile bǐsài, wǒ měi tiān dōu zài qiúchǎng liànxí.",
+       "en": "For the match, I practise on the court every day."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你打得越多越好！紧张吗？",
+       "pinyin": "Nǐ dǎ de yuè duō yuè hǎo! Jǐnzhāng ma?",
+       "en": "The more you play, the better you get! Are you nervous?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "有点儿。我担心打不好。",
+       "pinyin": "Yǒudiǎnr. Wǒ dānxīn dǎ bu hǎo.",
+       "en": "A bit. I'm worried I won't play well."
+      },
+      {
+       "speaker": "B：",
+       "zh": "打不好没关系，只是一场比赛。",
+       "pinyin": "Dǎ bu hǎo méi guānxi, zhǐshì yí cì bǐsài.",
+       "en": "It doesn't matter if you don't play well. It's only one match."
+      }
+     ]
+    },
+    {
+     "scene": "Talking about the Olympics.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你知道刘长春吗？他是中国第一个参加奥运会的运动员。",
+       "pinyin": "Nǐ zhīdào Liú Chángchūn ma? Tā shì Zhōngguó dì yī ge cānjiā Àoyùnhuì de yùndòngyuán.",
+       "en": "Do you know Liu Changchun? He was the first Chinese athlete at the Olympic Games."
+      },
+      {
+       "speaker": "B：",
+       "zh": "我听不懂这个名字，他很有名吗？",
+       "pinyin": "Wǒ tīng bu dǒng zhège míngzi, tā hěn yǒumíng ma?",
+       "en": "I don't catch that name. Is he famous?"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "为了……，……",
+     "explanation": "为了 gives the purpose of an action.",
+     "examples": [
+      {
+       "zh": "为了比赛，我每天练习。",
+       "pinyin": "Wèile bǐsài, wǒ měi tiān liànxí.",
+       "en": "For the match, I practise every day."
+      }
+     ]
+    },
+    {
+     "name": "Complement of potentiality",
+     "explanation": "得 or 不 between a verb and its complement says whether something can be done.",
+     "examples": [
+      {
+       "zh": "我听得懂。",
+       "pinyin": "Wǒ tīng de dǒng.",
+       "en": "I can understand."
+      },
+      {
+       "zh": "我听不懂。",
+       "pinyin": "Wǒ tīng bu dǒng.",
+       "en": "I can't understand."
+      }
+     ]
+    },
+    {
+     "name": "The pattern 越A越B",
+     "explanation": "B grows as A grows: \"the more..., the more...\".",
+     "examples": [
+      {
+       "zh": "越多越好。",
+       "pinyin": "Yuè duō yuè hǎo.",
+       "en": "The more the better."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "（　）比赛，我每天练习。",
+     "options": [
+      "为了",
+      "几乎",
+      "好多",
+      "主要"
+     ],
+     "answer": "为了",
+     "explanation": "为了 gives the purpose.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "老师说的话我听（　）懂。",
+     "options": [
+      "不",
+      "很",
+      "才",
+      "过"
+     ],
+     "answer": "不",
+     "explanation": "不 between the verb and complement shows it can't be done.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "The more the better.",
+     "tokens": [
+      "越",
+      "多",
+      "越",
+      "好"
+     ],
+     "explanation": "越 repeats before each word."
+    },
+    {
+     "type": "order",
+     "prompt": "I can't understand.",
+     "tokens": [
+      "我",
+      "听",
+      "不",
+      "懂"
+     ],
+     "explanation": "不 goes between 听 and 懂."
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": {
+    "zh": "你明天再把书还给我",
+    "en": "You can return the book to me tomorrow"
+   },
+   "words": [
+    {
+     "hanzi": "把",
+     "pinyin": "bǎ",
+     "pos": "preposition",
+     "meaning": "marks the thing acted on",
+     "alsoIn": [
+      12
+     ]
+    },
+    {
+     "hanzi": "办公室",
+     "pinyin": "bàngōngshì",
+     "pos": "noun",
+     "meaning": "office"
+    },
+    {
+     "hanzi": "笔记",
+     "pinyin": "bǐjì",
+     "pos": "noun",
+     "meaning": "notes"
+    },
+    {
+     "hanzi": "遍",
+     "pinyin": "biàn",
+     "pos": "measure word",
+     "meaning": "time (from start to end)"
+    },
+    {
+     "hanzi": "差",
+     "pinyin": "chà",
+     "pos": "adjective",
+     "meaning": "poor; to be short of"
+    },
+    {
+     "hanzi": "当然",
+     "pinyin": "dāngrán",
+     "pos": "adverb",
+     "meaning": "of course"
+    },
+    {
+     "hanzi": "对话",
+     "pinyin": "duìhuà",
+     "pos": "noun",
+     "meaning": "dialogue"
+    },
+    {
+     "hanzi": "复习",
+     "pinyin": "fùxí",
+     "pos": "verb",
+     "meaning": "to review"
+    },
+    {
+     "hanzi": "黑板",
+     "pinyin": "hēibǎn",
+     "pos": "noun",
+     "meaning": "blackboard"
+    },
+    {
+     "hanzi": "后年",
+     "pinyin": "hòunián",
+     "pos": "noun",
+     "meaning": "the year after next"
+    },
+    {
+     "hanzi": "讲",
+     "pinyin": "jiǎng",
+     "pos": "verb",
+     "meaning": "to explain, to tell"
+    },
+    {
+     "hanzi": "句",
+     "pinyin": "jù",
+     "pos": "measure word",
+     "meaning": "measure word for sentences"
+    },
+    {
+     "hanzi": "句子",
+     "pinyin": "jùzi",
+     "pos": "noun",
+     "meaning": "sentence"
+    },
+    {
+     "hanzi": "历史",
+     "pinyin": "lìshǐ",
+     "pos": "noun",
+     "meaning": "history"
+    },
+    {
+     "hanzi": "明白",
+     "pinyin": "míngbai",
+     "pos": "verb",
+     "meaning": "to understand"
+    },
+    {
+     "hanzi": "难",
+     "pinyin": "nán",
+     "pos": "adjective",
+     "meaning": "difficult"
+    },
+    {
+     "hanzi": "年级",
+     "pinyin": "niánjí",
+     "pos": "noun",
+     "meaning": "grade, year (at school)"
+    },
+    {
+     "hanzi": "努力",
+     "pinyin": "nǔlì",
+     "pos": "adjective",
+     "meaning": "hard-working"
+    },
+    {
+     "hanzi": "清楚",
+     "pinyin": "qīngchu",
+     "pos": "adjective",
+     "meaning": "clear"
+    },
+    {
+     "hanzi": "认真",
+     "pinyin": "rènzhēn",
+     "pos": "adjective",
+     "meaning": "careful, serious"
+    },
+    {
+     "hanzi": "数学",
+     "pinyin": "shùxué",
+     "pos": "noun",
+     "meaning": "maths"
+    },
+    {
+     "hanzi": "提高",
+     "pinyin": "tígāo",
+     "pos": "verb",
+     "meaning": "to improve"
+    },
+    {
+     "hanzi": "外语",
+     "pinyin": "wàiyǔ",
+     "pos": "noun",
+     "meaning": "foreign language"
+    },
+    {
+     "hanzi": "要求",
+     "pinyin": "yāoqiú",
+     "pos": "noun",
+     "meaning": "requirement"
+    },
+    {
+     "hanzi": "页",
+     "pinyin": "yè",
+     "pos": "noun",
+     "meaning": "page"
+    },
+    {
+     "hanzi": "一般",
+     "pinyin": "yìbān",
+     "pos": "adjective",
+     "meaning": "usual, ordinary"
+    },
+    {
+     "hanzi": "遇到",
+     "pinyin": "yùdào",
+     "pos": "verb",
+     "meaning": "to run into"
+    },
+    {
+     "hanzi": "作业",
+     "pinyin": "zuòyè",
+     "pos": "noun",
+     "meaning": "homework"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Borrowing a book.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你看完这本书了吗？",
+       "pinyin": "Nǐ kànwán zhè běn shū le ma?",
+       "en": "Have you finished reading this book?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "还没有。我把重要的句子都记在本子上了。",
+       "pinyin": "Hái méiyǒu. Wǒ bǎ zhòngyào de jùzi dōu jì zài běnzi shang le.",
+       "en": "Not yet. I've written the important sentences in my notebook."
+      },
+      {
+       "speaker": "A：",
+       "zh": "没关系，你明天再把书还给我。",
+       "pinyin": "Méi guānxi, nǐ míngtiān zài bǎ shū huángěi wǒ.",
+       "en": "No problem, you can return the book to me tomorrow."
+      },
+      {
+       "speaker": "B：",
+       "zh": "好，在你的帮助下，我的中文水平提高了。",
+       "pinyin": "Hǎo, zài nǐ de bāngzhù xià, wǒ de Zhōngwén shuǐpíng tígāo le.",
+       "en": "Okay. With your help, my Chinese has improved."
+      }
+     ]
+    },
+    {
+     "scene": "After class.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "老师讲得清楚吗？",
+       "pinyin": "Lǎoshī jiǎng de qīngchu ma?",
+       "en": "Did the teacher explain clearly?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "当然。我们要努力，复习对话，做作业。",
+       "pinyin": "Dāngrán. Wǒmen yào nǔlì, fùxí duìhuà, zuò zuòyè.",
+       "en": "Of course. We need to work hard, review the dialogues and do the homework."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The 把 sentence (1)",
+     "explanation": "把 brings the object before the verb to show what happens to it. Here it moves somewhere: 把 + thing + verb + 在/到 + place. 不, 没 and modal verbs go before 把.",
+     "examples": [
+      {
+       "zh": "我把书放在桌子上了。",
+       "pinyin": "Wǒ bǎ shū fàng zài zhuōzi shang le.",
+       "en": "I put the book on the table."
+      }
+     ]
+    },
+    {
+     "name": "The pattern 在……上/中/下",
+     "explanation": "This gives a situation or condition, such as 在……下 for \"with the help of\".",
+     "examples": [
+      {
+       "zh": "在老师的帮助下",
+       "pinyin": "zài lǎoshī de bāngzhù xià",
+       "en": "with the teacher's help"
+      },
+      {
+       "zh": "在学习上",
+       "pinyin": "zài xuéxí shang",
+       "en": "in one's studies"
+      }
+     ]
+    },
+    {
+     "name": "The 把 sentence (2)",
+     "explanation": "把 + thing + verb + 给 + person shows something passing to someone.",
+     "examples": [
+      {
+       "zh": "你明天再把书还给我。",
+       "pinyin": "Nǐ míngtiān zài bǎ shū huángěi wǒ.",
+       "en": "Return the book to me tomorrow."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我（　）书放在桌子上了。",
+     "options": [
+      "把",
+      "给",
+      "比",
+      "跟"
+     ],
+     "answer": "把",
+     "explanation": "把 brings the object before the verb.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "在老师的帮助（　），我提高了。",
+     "options": [
+      "下",
+      "前",
+      "外",
+      "里"
+     ],
+     "answer": "下",
+     "explanation": "在……下 means \"with\" a condition.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Return the book to me tomorrow.",
+     "tokens": [
+      "你",
+      "明天",
+      "把",
+      "书",
+      "还",
+      "给",
+      "我"
+     ],
+     "explanation": "把 + thing + verb + 给 + person."
+    },
+    {
+     "type": "order",
+     "prompt": "I put the book on the table.",
+     "tokens": [
+      "我",
+      "把",
+      "书",
+      "放",
+      "在",
+      "桌子",
+      "上",
+      "了"
+     ],
+     "explanation": "把 + thing + verb + 在 + place."
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": {
+    "zh": "看来我没办法解决这个问题",
+    "en": "It seems I can't solve this problem"
+   },
+   "words": [
+    {
+     "hanzi": "办法",
+     "pinyin": "bànfǎ",
+     "pos": "noun",
+     "meaning": "way, method"
+    },
+    {
+     "hanzi": "笔记本电脑",
+     "pinyin": "bǐjìběn diànnǎo",
+     "pos": "noun",
+     "meaning": "laptop"
+    },
+    {
+     "hanzi": "别人",
+     "pinyin": "biérén",
+     "pos": "pronoun",
+     "meaning": "other people"
+    },
+    {
+     "hanzi": "城市",
+     "pinyin": "chéngshì",
+     "pos": "noun",
+     "meaning": "city"
+    },
+    {
+     "hanzi": "地点",
+     "pinyin": "dìdiǎn",
+     "pos": "noun",
+     "meaning": "place, location"
+    },
+    {
+     "hanzi": "发",
+     "pinyin": "fā",
+     "pos": "verb",
+     "meaning": "to send"
+    },
+    {
+     "hanzi": "后天",
+     "pinyin": "hòutiān",
+     "pos": "noun",
+     "meaning": "the day after tomorrow"
+    },
+    {
+     "hanzi": "会议",
+     "pinyin": "huìyì",
+     "pos": "noun",
+     "meaning": "meeting"
+    },
+    {
+     "hanzi": "或",
+     "pinyin": "huò",
+     "pos": "conjunction",
+     "meaning": "or"
+    },
+    {
+     "hanzi": "或者",
+     "pinyin": "huòzhě",
+     "pos": "conjunction",
+     "meaning": "or"
+    },
+    {
+     "hanzi": "机会",
+     "pinyin": "jīhuì",
+     "pos": "noun",
+     "meaning": "chance"
+    },
+    {
+     "hanzi": "解决",
+     "pinyin": "jiějué",
+     "pos": "verb",
+     "meaning": "to solve"
+    },
+    {
+     "hanzi": "经理",
+     "pinyin": "jīnglǐ",
+     "pos": "noun",
+     "meaning": "manager"
+    },
+    {
+     "hanzi": "开会",
+     "pinyin": "kāihuì",
+     "pos": "verb",
+     "meaning": "to have a meeting"
+    },
+    {
+     "hanzi": "看来",
+     "pinyin": "kànlái",
+     "pos": "verb",
+     "meaning": "it seems"
+    },
+    {
+     "hanzi": "离开",
+     "pinyin": "líkāi",
+     "pos": "verb",
+     "meaning": "to leave"
+    },
+    {
+     "hanzi": "怕",
+     "pinyin": "pà",
+     "pos": "verb",
+     "meaning": "to be afraid"
+    },
+    {
+     "hanzi": "请假",
+     "pinyin": "qǐngjià",
+     "pos": "verb",
+     "meaning": "to ask for leave"
+    },
+    {
+     "hanzi": "生活",
+     "pinyin": "shēnghuó",
+     "pos": "noun",
+     "meaning": "life"
+    },
+    {
+     "hanzi": "声音",
+     "pinyin": "shēngyīn",
+     "pos": "noun",
+     "meaning": "sound, voice"
+    },
+    {
+     "hanzi": "室",
+     "pinyin": "shì",
+     "pos": "noun",
+     "meaning": "room"
+    },
+    {
+     "hanzi": "同事",
+     "pinyin": "tóngshì",
+     "pos": "noun",
+     "meaning": "colleague"
+    },
+    {
+     "hanzi": "为",
+     "pinyin": "wèi",
+     "pos": "preposition",
+     "meaning": "for"
+    },
+    {
+     "hanzi": "休假",
+     "pinyin": "xiūjià",
+     "pos": "verb",
+     "meaning": "to be on holiday"
+    },
+    {
+     "hanzi": "邮箱",
+     "pinyin": "yóuxiāng",
+     "pos": "noun",
+     "meaning": "mailbox, email inbox"
+    },
+    {
+     "hanzi": "愿意",
+     "pinyin": "yuànyì",
+     "pos": "modal verb",
+     "meaning": "to be willing to"
+    },
+    {
+     "hanzi": "只能",
+     "pinyin": "zhǐ néng",
+     "pos": "modal verb",
+     "meaning": "can only"
+    },
+    {
+     "hanzi": "老张",
+     "pinyin": "Lǎo Zhāng",
+     "pos": "proper noun",
+     "meaning": "Old Zhang"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Trouble with the laptop.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "我的笔记本电脑开不了，看来我没办法解决这个问题。",
+       "pinyin": "Wǒ de bǐjìběn diànnǎo kāi bu liǎo, kànlái wǒ méi bànfǎ jiějué zhège wèntí.",
+       "en": "My laptop won't turn on. It seems I can't solve this problem."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你请假还是发邮件？",
+       "pinyin": "Nǐ qǐngjià háishi fā yóujiàn?",
+       "en": "Will you ask for leave or send an email?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我今天或者明天去找老张，他是我同事。",
+       "pinyin": "Wǒ jīntiān huòzhě míngtiān qù zhǎo Lǎo Zhāng, tā shì wǒ tóngshì.",
+       "en": "I'll go and see Old Zhang today or tomorrow. He's my colleague."
+      },
+      {
+       "speaker": "B：",
+       "zh": "我跟您一起把这些工作做完吧。",
+       "pinyin": "Wǒ gēn nín yìqǐ bǎ zhèxiē gōngzuò zuòwán ba.",
+       "en": "Let me finish this work with you."
+      }
+     ]
+    },
+    {
+     "scene": "Thinking of a job.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "对我来说，这是一个好机会。",
+       "pinyin": "Duì wǒ lái shuō, zhè shì yí ge hǎo jīhuì.",
+       "en": "For me, this is a good chance."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你愿意离开这个城市吗？",
+       "pinyin": "Nǐ yuànyì líkāi zhège chéngshì ma?",
+       "en": "Are you willing to leave this city?"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "还是 and 或者",
+     "explanation": "还是 is used in questions. 或者 is used in statements.",
+     "examples": [
+      {
+       "zh": "你喝茶还是喝咖啡？",
+       "pinyin": "Nǐ hē chá háishi hē kāfēi?",
+       "en": "Tea or coffee?"
+      },
+      {
+       "zh": "今天或者明天都行。",
+       "pinyin": "Jīntiān huòzhě míngtiān dōu xíng.",
+       "en": "Today or tomorrow are both fine."
+      }
+     ]
+    },
+    {
+     "name": "The set phrase 看来",
+     "explanation": "看来 means \"it seems\", drawing a conclusion from what you see.",
+     "examples": [
+      {
+       "zh": "看来他不来了。",
+       "pinyin": "Kànlái tā bù lái le.",
+       "en": "It seems he isn't coming."
+      }
+     ]
+    },
+    {
+     "name": "The 把 sentence (3)",
+     "explanation": "把 + thing + verb + result shows the result of an action on something.",
+     "examples": [
+      {
+       "zh": "我跟您一起把这些工作做完。",
+       "pinyin": "Wǒ gēn nín yìqǐ bǎ zhèxiē gōngzuò zuòwán.",
+       "en": "I'll finish this work with you."
+      }
+     ]
+    },
+    {
+     "name": "The pattern 对……来说",
+     "explanation": "This means \"for...\" or \"as far as... is concerned\".",
+     "examples": [
+      {
+       "zh": "对我来说，这很重要。",
+       "pinyin": "Duì wǒ lái shuō, zhè hěn zhòngyào.",
+       "en": "For me, this is important."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "你喝茶（　）喝咖啡？",
+     "options": [
+      "还是",
+      "或者",
+      "只能",
+      "愿意"
+     ],
+     "answer": "还是",
+     "explanation": "Use 还是 in questions and 或者 in statements.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我今天（　）明天去。",
+     "options": [
+      "或者",
+      "还是",
+      "怕",
+      "室"
+     ],
+     "answer": "或者",
+     "explanation": "或者 is used in statements.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "For me, this is important.",
+     "tokens": [
+      "对",
+      "我",
+      "来说",
+      "这",
+      "很",
+      "重要"
+     ],
+     "explanation": "对……来说 opens the sentence."
+    },
+    {
+     "type": "order",
+     "prompt": "I'll finish this work.",
+     "tokens": [
+      "我",
+      "把",
+      "这些",
+      "工作",
+      "做",
+      "完"
+     ],
+     "explanation": "把 + thing + verb + result."
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": {
+    "zh": "这个季节天气变化很快",
+    "en": "The weather changes rapidly in this season"
+   },
+   "words": [
+    {
+     "hanzi": "变",
+     "pinyin": "biàn",
+     "pos": "verb",
+     "meaning": "to change"
+    },
+    {
+     "hanzi": "变成",
+     "pinyin": "biànchéng",
+     "pos": "verb",
+     "meaning": "to become"
+    },
+    {
+     "hanzi": "变化",
+     "pinyin": "biànhuà",
+     "pos": "noun",
+     "meaning": "change"
+    },
+    {
+     "hanzi": "常常",
+     "pinyin": "chángcháng",
+     "pos": "adverb",
+     "meaning": "often"
+    },
+    {
+     "hanzi": "船",
+     "pinyin": "chuán",
+     "pos": "noun",
+     "meaning": "boat, ship"
+    },
+    {
+     "hanzi": "春天",
+     "pinyin": "chūntiān",
+     "pos": "noun",
+     "meaning": "spring"
+    },
+    {
+     "hanzi": "地方",
+     "pinyin": "dìfang",
+     "pos": "noun",
+     "meaning": "place"
+    },
+    {
+     "hanzi": "冬天",
+     "pinyin": "dōngtiān",
+     "pos": "noun",
+     "meaning": "winter"
+    },
+    {
+     "hanzi": "风",
+     "pinyin": "fēng",
+     "pos": "noun",
+     "meaning": "wind"
+    },
+    {
+     "hanzi": "刚才",
+     "pinyin": "gāngcái",
+     "pos": "noun",
+     "meaning": "just now"
+    },
+    {
+     "hanzi": "工作日",
+     "pinyin": "gōngzuòrì",
+     "pos": "noun",
+     "meaning": "working day"
+    },
+    {
+     "hanzi": "公园",
+     "pinyin": "gōngyuán",
+     "pos": "noun",
+     "meaning": "park"
+    },
+    {
+     "hanzi": "刮",
+     "pinyin": "guā",
+     "pos": "verb",
+     "meaning": "to blow (of wind)"
+    },
+    {
+     "hanzi": "关注",
+     "pinyin": "guānzhù",
+     "pos": "verb",
+     "meaning": "to pay attention to"
+    },
+    {
+     "hanzi": "季节",
+     "pinyin": "jìjié",
+     "pos": "noun",
+     "meaning": "season"
+    },
+    {
+     "hanzi": "街",
+     "pinyin": "jiē",
+     "pos": "noun",
+     "meaning": "street"
+    },
+    {
+     "hanzi": "借",
+     "pinyin": "jiè",
+     "pos": "verb",
+     "meaning": "to borrow, to lend"
+    },
+    {
+     "hanzi": "开花",
+     "pinyin": "kāihuā",
+     "pos": "verb",
+     "meaning": "to bloom"
+    },
+    {
+     "hanzi": "凉快",
+     "pinyin": "liángkuai",
+     "pos": "adjective",
+     "meaning": "pleasantly cool"
+    },
+    {
+     "hanzi": "秋天",
+     "pinyin": "qiūtiān",
+     "pos": "noun",
+     "meaning": "autumn"
+    },
+    {
+     "hanzi": "伞",
+     "pinyin": "sǎn",
+     "pos": "noun",
+     "meaning": "umbrella"
+    },
+    {
+     "hanzi": "四季",
+     "pinyin": "sìjì",
+     "pos": "noun",
+     "meaning": "the four seasons"
+    },
+    {
+     "hanzi": "夏天",
+     "pinyin": "xiàtiān",
+     "pos": "noun",
+     "meaning": "summer"
+    },
+    {
+     "hanzi": "新闻",
+     "pinyin": "xīnwén",
+     "pos": "noun",
+     "meaning": "news"
+    },
+    {
+     "hanzi": "叶子",
+     "pinyin": "yèzi",
+     "pos": "noun",
+     "meaning": "leaf",
+     "extra": true
+    },
+    {
+     "hanzi": "雨衣",
+     "pinyin": "yǔyī",
+     "pos": "noun",
+     "meaning": "raincoat"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Talking about the seasons.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这个季节天气变化很快，刚才还是晴天。",
+       "pinyin": "Zhège jìjié tiānqì biànhuà hěn kuài, gāngcái hái shì qíngtiān.",
+       "en": "The weather changes fast this season. It was sunny just now."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你听，风刮起来了，下起雨来了！",
+       "pinyin": "Nǐ tīng, fēng guā qǐlai le, xià qǐ yǔ lái le!",
+       "en": "Listen, the wind is picking up and it's starting to rain!"
+      },
+      {
+       "speaker": "A：",
+       "zh": "别怕，我带了伞。",
+       "pinyin": "Bié pà, wǒ dàile sǎn.",
+       "en": "Don't worry, I brought an umbrella."
+      },
+      {
+       "speaker": "B：",
+       "zh": "我就喜欢春天。这些花都开了，我把它们记下来。",
+       "pinyin": "Wǒ jiù xǐhuan chūntiān. Zhèxiē huā dōu kāi le, wǒ bǎ tāmen jì xiàlai.",
+       "en": "I just love spring. These flowers are all out, I'll note them down."
+      }
+     ]
+    },
+    {
+     "scene": "Weekend ideas.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "星期天你想干什么？",
+       "pinyin": "Xīngqītiān nǐ xiǎng gàn shénme?",
+       "en": "What do you want to do on Sunday?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "或者去公园，或者坐船，都可以。",
+       "pinyin": "Huòzhě qù gōngyuán, huòzhě zuò chuán, dōu kěyǐ.",
+       "en": "Either the park or a boat trip, both are fine."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "或者……，或者……",
+     "explanation": "This pair offers two or more options: \"either... or...\".",
+     "examples": [
+      {
+       "zh": "或者去公园，或者坐船。",
+       "pinyin": "Huòzhě qù gōngyuán, huòzhě zuò chuán.",
+       "en": "Either go to the park or take a boat."
+      }
+     ]
+    },
+    {
+     "name": "Extended use of the complement of direction (2)",
+     "explanation": "起来 after a verb or adjective shows that something begins or enters a new state. An object goes between 起 and 来.",
+     "examples": [
+      {
+       "zh": "风刮起来了。",
+       "pinyin": "Fēng guā qǐlai le.",
+       "en": "The wind has picked up."
+      },
+      {
+       "zh": "下起雨来了。",
+       "pinyin": "Xià qǐ yǔ lái le.",
+       "en": "It has started to rain."
+      }
+     ]
+    },
+    {
+     "name": "The adverb of scope 就",
+     "explanation": "就 can mean \"only\" or \"just\".",
+     "examples": [
+      {
+       "zh": "我就喜欢春天。",
+       "pinyin": "Wǒ jiù xǐhuan chūntiān.",
+       "en": "I only like spring."
+      }
+     ]
+    },
+    {
+     "name": "Extended use of the complement of direction (3)",
+     "explanation": "下来 after a verb shows that something taking effort has been finished or kept.",
+     "examples": [
+      {
+       "zh": "我把它们记下来了。",
+       "pinyin": "Wǒ bǎ tāmen jì xiàlai le.",
+       "en": "I wrote them down."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "（　）去公园，或者坐船。",
+     "options": [
+      "或者",
+      "还是",
+      "只是",
+      "因为"
+     ],
+     "answer": "或者",
+     "explanation": "或者……，或者…… offers options.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "下（　）雨来了。",
+     "options": [
+      "起",
+      "着",
+      "过",
+      "完"
+     ],
+     "answer": "起",
+     "explanation": "The object goes between 起 and 来.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "The wind has picked up.",
+     "tokens": [
+      "风",
+      "刮",
+      "起来",
+      "了"
+     ],
+     "explanation": "起来 shows a beginning."
+    },
+    {
+     "type": "order",
+     "prompt": "I wrote them down.",
+     "tokens": [
+      "我",
+      "把",
+      "它们",
+      "记",
+      "下来",
+      "了"
+     ],
+     "explanation": "下来 shows that something was kept."
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": {
+    "zh": "我的新邻居来自英国",
+    "en": "My new neighbors come from the UK"
+   },
+   "words": [
+    {
+     "hanzi": "北方",
+     "pinyin": "běifāng",
+     "pos": "noun",
+     "meaning": "the north"
+    },
+    {
+     "hanzi": "不同",
+     "pinyin": "bù tóng",
+     "pos": "adjective",
+     "meaning": "different"
+    },
+    {
+     "hanzi": "的话",
+     "pinyin": "dehuà",
+     "pos": "particle",
+     "meaning": "if"
+    },
+    {
+     "hanzi": "地图",
+     "pinyin": "dìtú",
+     "pos": "noun",
+     "meaning": "map"
+    },
+    {
+     "hanzi": "点",
+     "pinyin": "diǎn",
+     "pos": "measure word",
+     "meaning": "a little (amount)"
+    },
+    {
+     "hanzi": "东方",
+     "pinyin": "dōngfāng",
+     "pos": "noun",
+     "meaning": "the East"
+    },
+    {
+     "hanzi": "放",
+     "pinyin": "fàng",
+     "pos": "verb",
+     "meaning": "to put"
+    },
+    {
+     "hanzi": "放心",
+     "pinyin": "fàngxīn",
+     "pos": "verb",
+     "meaning": "to feel at ease"
+    },
+    {
+     "hanzi": "夫妻",
+     "pinyin": "fūqī",
+     "pos": "noun",
+     "meaning": "husband and wife"
+    },
+    {
+     "hanzi": "感到",
+     "pinyin": "gǎndào",
+     "pos": "verb",
+     "meaning": "to feel"
+    },
+    {
+     "hanzi": "画家",
+     "pinyin": "huàjiā",
+     "pos": "noun",
+     "meaning": "painter"
+    },
+    {
+     "hanzi": "加",
+     "pinyin": "jiā",
+     "pos": "verb",
+     "meaning": "to add"
+    },
+    {
+     "hanzi": "酒",
+     "pinyin": "jiǔ",
+     "pos": "noun",
+     "meaning": "alcohol, wine"
+    },
+    {
+     "hanzi": "客人",
+     "pinyin": "kèrén",
+     "pos": "noun",
+     "meaning": "guest"
+    },
+    {
+     "hanzi": "来自",
+     "pinyin": "láizì",
+     "pos": "verb",
+     "meaning": "to come from"
+    },
+    {
+     "hanzi": "礼物",
+     "pinyin": "lǐwù",
+     "pos": "noun",
+     "meaning": "gift"
+    },
+    {
+     "hanzi": "聊天儿",
+     "pinyin": "liáotiānr",
+     "pos": "verb",
+     "meaning": "to chat"
+    },
+    {
+     "hanzi": "邻居",
+     "pinyin": "línjū",
+     "pos": "noun",
+     "meaning": "neighbour"
+    },
+    {
+     "hanzi": "南方",
+     "pinyin": "nánfāng",
+     "pos": "noun",
+     "meaning": "the south"
+    },
+    {
+     "hanzi": "盘子",
+     "pinyin": "pánzi",
+     "pos": "noun",
+     "meaning": "plate"
+    },
+    {
+     "hanzi": "请客",
+     "pinyin": "qǐngkè",
+     "pos": "verb",
+     "meaning": "to treat someone"
+    },
+    {
+     "hanzi": "晚会",
+     "pinyin": "wǎnhuì",
+     "pos": "noun",
+     "meaning": "evening party"
+    },
+    {
+     "hanzi": "文化",
+     "pinyin": "wénhuà",
+     "pos": "noun",
+     "meaning": "culture"
+    },
+    {
+     "hanzi": "一边",
+     "pinyin": "yìbiān",
+     "pos": "adverb",
+     "meaning": "while, at the same time"
+    },
+    {
+     "hanzi": "直到",
+     "pinyin": "zhídào",
+     "pos": "verb",
+     "meaning": "until"
+    },
+    {
+     "hanzi": "做法",
+     "pinyin": "zuòfǎ",
+     "pos": "noun",
+     "meaning": "way of making something",
+     "extra": true
+    },
+    {
+     "hanzi": "做客",
+     "pinyin": "zuòkè",
+     "pos": "verb",
+     "meaning": "to be a guest"
+    },
+    {
+     "hanzi": "英国",
+     "pinyin": "Yīngguó",
+     "pos": "proper noun",
+     "meaning": "the United Kingdom"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Meeting the neighbours.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你认识新邻居吗？",
+       "pinyin": "Nǐ rènshi xīn línjū ma?",
+       "en": "Do you know the new neighbours?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "认识，他们是一对夫妻，来自英国。",
+       "pinyin": "Rènshi, tāmen shì yí duì fūqī, láizì Yīngguó.",
+       "en": "Yes, they're a couple from the UK."
+      },
+      {
+       "speaker": "A：",
+       "zh": "如果有空的话，我们就请他们来做客。",
+       "pinyin": "Rúguǒ yǒu kòng dehuà, wǒmen jiù qǐng tāmen lái zuòkè.",
+       "en": "If we have time, we'll invite them over as guests."
+      },
+      {
+       "speaker": "B：",
+       "zh": "好，一边喝酒，一边聊天儿。",
+       "pinyin": "Hǎo, yìbiān hē jiǔ, yìbiān liáotiānr.",
+       "en": "Great, we can chat over a drink."
+      }
+     ]
+    },
+    {
+     "scene": "Before the party.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你把声音开得太大了。",
+       "pinyin": "Nǐ bǎ shēngyīn kāi de tài dà le.",
+       "en": "You've turned the sound up too loud."
+      },
+      {
+       "speaker": "B：",
+       "zh": "对不起，我把盘子拿出来，你放心。",
+       "pinyin": "Duìbuqǐ, wǒ bǎ pánzi ná chūlai, nǐ fàngxīn.",
+       "en": "Sorry. I'll bring out the plates, don't worry."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "……的话，就……",
+     "explanation": "的话 ends the \"if\" part of a sentence. It can be used with or without 如果.",
+     "examples": [
+      {
+       "zh": "有时间的话，我就去。",
+       "pinyin": "Yǒu shíjiān dehuà, wǒ jiù qù.",
+       "en": "If I have time, I'll go."
+      }
+     ]
+    },
+    {
+     "name": "The 把 sentence (4)",
+     "explanation": "把 + thing + verb + a direction or state shows how the action changes the thing.",
+     "examples": [
+      {
+       "zh": "你把声音开得太大了。",
+       "pinyin": "Nǐ bǎ shēngyīn kāi de tài dà le.",
+       "en": "You've turned the sound up too loud."
+      },
+      {
+       "zh": "我把盘子拿出来。",
+       "pinyin": "Wǒ bǎ pánzi ná chūlai.",
+       "en": "I'll bring out the plates."
+      }
+     ]
+    },
+    {
+     "name": "一边……，一边……",
+     "explanation": "Two actions happen at the same time.",
+     "examples": [
+      {
+       "zh": "一边喝茶，一边聊天儿。",
+       "pinyin": "Yìbiān hē chá, yìbiān liáotiānr.",
+       "en": "Chat while drinking tea."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "有时间（　），我就去。",
+     "options": [
+      "的话",
+      "直到",
+      "文化",
+      "感到"
+     ],
+     "answer": "的话",
+     "explanation": "的话 ends the \"if\" part.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "（　）喝茶，一边聊天儿。",
+     "options": [
+      "一边",
+      "放心",
+      "请客",
+      "客人"
+     ],
+     "answer": "一边",
+     "explanation": "一边 repeats for each action.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "You've turned the sound up too loud.",
+     "tokens": [
+      "你",
+      "把",
+      "声音",
+      "开",
+      "得",
+      "太",
+      "大",
+      "了"
+     ],
+     "explanation": "把 + thing + verb + state."
+    },
+    {
+     "type": "order",
+     "prompt": "If I have time, I'll go.",
+     "tokens": [
+      "有",
+      "时间",
+      "的话",
+      "我",
+      "就",
+      "去"
+     ],
+     "explanation": "的话 closes the condition."
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": {
+    "zh": "这本书被别人借走了",
+    "en": "This book is checked out"
+   },
+   "words": [
+    {
+     "hanzi": "班级",
+     "pinyin": "bānjí",
+     "pos": "noun",
+     "meaning": "class (group of students)"
+    },
+    {
+     "hanzi": "报纸",
+     "pinyin": "bàozhǐ",
+     "pos": "noun",
+     "meaning": "newspaper"
+    },
+    {
+     "hanzi": "被",
+     "pinyin": "bèi",
+     "pos": "preposition",
+     "meaning": "marks the passive"
+    },
+    {
+     "hanzi": "表演",
+     "pinyin": "biǎoyǎn",
+     "pos": "verb",
+     "meaning": "to perform"
+    },
+    {
+     "hanzi": "词典",
+     "pinyin": "cídiǎn",
+     "pos": "noun",
+     "meaning": "dictionary"
+    },
+    {
+     "hanzi": "电子书",
+     "pinyin": "diànzǐshū",
+     "pos": "noun",
+     "meaning": "e-book"
+    },
+    {
+     "hanzi": "故事",
+     "pinyin": "gùshi",
+     "pos": "noun",
+     "meaning": "story"
+    },
+    {
+     "hanzi": "节",
+     "pinyin": "jié",
+     "pos": "measure word",
+     "meaning": "measure word for classes",
+     "alsoIn": [
+      18
+     ]
+    },
+    {
+     "hanzi": "节目",
+     "pinyin": "jiémù",
+     "pos": "noun",
+     "meaning": "programme, show"
+    },
+    {
+     "hanzi": "留学生",
+     "pinyin": "liúxuéshēng",
+     "pos": "noun",
+     "meaning": "international student"
+    },
+    {
+     "hanzi": "面前",
+     "pinyin": "miànqián",
+     "pos": "noun",
+     "meaning": "in front of"
+    },
+    {
+     "hanzi": "名人",
+     "pinyin": "míngrén",
+     "pos": "noun",
+     "meaning": "famous person"
+    },
+    {
+     "hanzi": "女生",
+     "pinyin": "nǚshēng",
+     "pos": "noun",
+     "meaning": "female student"
+    },
+    {
+     "hanzi": "然后",
+     "pinyin": "ránhòu",
+     "pos": "conjunction",
+     "meaning": "then"
+    },
+    {
+     "hanzi": "视频",
+     "pinyin": "shìpín",
+     "pos": "noun",
+     "meaning": "video",
+     "extra": true
+    },
+    {
+     "hanzi": "跳",
+     "pinyin": "tiào",
+     "pos": "verb",
+     "meaning": "to jump"
+    },
+    {
+     "hanzi": "图书馆",
+     "pinyin": "túshūguǎn",
+     "pos": "noun",
+     "meaning": "library"
+    },
+    {
+     "hanzi": "网站",
+     "pinyin": "wǎngzhàn",
+     "pos": "noun",
+     "meaning": "website"
+    },
+    {
+     "hanzi": "忘记",
+     "pinyin": "wàngjì",
+     "pos": "verb",
+     "meaning": "to forget"
+    },
+    {
+     "hanzi": "相信",
+     "pinyin": "xiāngxìn",
+     "pos": "verb",
+     "meaning": "to believe"
+    },
+    {
+     "hanzi": "校长",
+     "pinyin": "xiàozhǎng",
+     "pos": "noun",
+     "meaning": "head of a school"
+    },
+    {
+     "hanzi": "新年",
+     "pinyin": "xīnnián",
+     "pos": "noun",
+     "meaning": "New Year"
+    },
+    {
+     "hanzi": "一块儿",
+     "pinyin": "yíkuàir",
+     "pos": "adverb",
+     "meaning": "together"
+    },
+    {
+     "hanzi": "有些",
+     "pinyin": "yǒuxiē",
+     "pos": "pronoun",
+     "meaning": "some"
+    },
+    {
+     "hanzi": "怎么办",
+     "pinyin": "zěnme bàn",
+     "pos": "phrase",
+     "meaning": "what should one do"
+    },
+    {
+     "hanzi": "最好",
+     "pinyin": "zuìhǎo",
+     "pos": "adverb",
+     "meaning": "had better"
+    },
+    {
+     "hanzi": "最后",
+     "pinyin": "zuìhòu",
+     "pos": "noun",
+     "meaning": "finally, last"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "In the library.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这本书我找了好久，它在哪儿？",
+       "pinyin": "Zhè běn shū wǒ zhǎole hǎojiǔ, tā zài nǎr?",
+       "en": "I've been looking for this book for ages. Where is it?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "这本书被别人借走了。",
+       "pinyin": "Zhè běn shū bèi biérén jièzǒu le.",
+       "en": "This book has been borrowed by someone else."
+      },
+      {
+       "speaker": "A：",
+       "zh": "那怎么办？",
+       "pinyin": "Nà zěnme bàn?",
+       "en": "What should I do, then?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "你先去图书馆网站查，然后再来。",
+       "pinyin": "Nǐ xiān qù túshūguǎn wǎngzhàn chá, ránhòu zài lái.",
+       "en": "First check the library website, then come back."
+      }
+     ]
+    },
+    {
+     "scene": "A class play.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "校长要看我们班级的节目？",
+       "pinyin": "Xiàozhǎng yào kàn wǒmen bānjí de jiémù?",
+       "en": "Is the head going to watch our class's show?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "看什么啊！他今天没时间。",
+       "pinyin": "Kàn shénme a! Tā jīntiān méi shíjiān.",
+       "en": "Watch what! He has no time today."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Passive sentences (1)",
+     "explanation": "被 shows that the subject receives an action, often an unwanted one. Adverbs and modal verbs go before 被. The doer can follow 被.",
+     "examples": [
+      {
+       "zh": "这本书被别人借走了。",
+       "pinyin": "Zhè běn shū bèi biérén jièzǒu le.",
+       "en": "This book was borrowed by someone else."
+      }
+     ]
+    },
+    {
+     "name": "先……，再/然后……",
+     "explanation": "This gives the order of two actions: \"first..., then...\".",
+     "examples": [
+      {
+       "zh": "先写作业，然后看电视。",
+       "pinyin": "Xiān xiě zuòyè, ránhòu kàn diànshì.",
+       "en": "First do the homework, then watch TV."
+      }
+     ]
+    },
+    {
+     "name": "The pattern X 什么（啊）",
+     "explanation": "Putting 什么 after a word disagrees with what was just said, showing surprise or doubt.",
+     "examples": [
+      {
+       "zh": "看什么啊！",
+       "pinyin": "Kàn shénme a!",
+       "en": "What's there to watch!"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "这本书（　）别人借走了。",
+     "options": [
+      "被",
+      "把",
+      "比",
+      "跳"
+     ],
+     "answer": "被",
+     "explanation": "被 shows the passive.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "先写作业，（　）看电视。",
+     "options": [
+      "然后",
+      "最后",
+      "报纸",
+      "相信"
+     ],
+     "answer": "然后",
+     "explanation": "先 pairs with 然后.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "This book was borrowed by someone else.",
+     "tokens": [
+      "这",
+      "本",
+      "书",
+      "被",
+      "别人",
+      "借",
+      "走",
+      "了"
+     ],
+     "explanation": "Thing + 被 + doer + verb."
+    },
+    {
+     "type": "order",
+     "prompt": "First do the homework, then watch TV.",
+     "tokens": [
+      "先",
+      "写",
+      "作业",
+      "然后",
+      "看",
+      "电视"
+     ],
+     "explanation": "先 first, 然后 second."
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": {
+    "zh": "我是半个南京人",
+    "en": "I am basically half a Nanjing local"
+   },
+   "words": [
+    {
+     "hanzi": "草地",
+     "pinyin": "cǎodì",
+     "pos": "noun",
+     "meaning": "lawn, grass"
+    },
+    {
+     "hanzi": "段",
+     "pinyin": "duàn",
+     "pos": "measure word",
+     "meaning": "section, period"
+    },
+    {
+     "hanzi": "放学",
+     "pinyin": "fàngxué",
+     "pos": "verb",
+     "meaning": "school finishes"
+    },
+    {
+     "hanzi": "附近",
+     "pinyin": "fùjìn",
+     "pos": "noun",
+     "meaning": "nearby"
+    },
+    {
+     "hanzi": "根据",
+     "pinyin": "gēnjù",
+     "pos": "preposition",
+     "meaning": "according to"
+    },
+    {
+     "hanzi": "关系",
+     "pinyin": "guānxì",
+     "pos": "noun",
+     "meaning": "relationship"
+    },
+    {
+     "hanzi": "河",
+     "pinyin": "hé",
+     "pos": "noun",
+     "meaning": "river"
+    },
+    {
+     "hanzi": "经过",
+     "pinyin": "jīngguò",
+     "pos": "verb",
+     "meaning": "to pass through"
+    },
+    {
+     "hanzi": "景点",
+     "pinyin": "jǐngdiǎn",
+     "pos": "noun",
+     "meaning": "scenic spot",
+     "extra": true
+    },
+    {
+     "hanzi": "可是",
+     "pinyin": "kěshì",
+     "pos": "conjunction",
+     "meaning": "but"
+    },
+    {
+     "hanzi": "蓝",
+     "pinyin": "lán",
+     "pos": "adjective",
+     "meaning": "blue"
+    },
+    {
+     "hanzi": "老人",
+     "pinyin": "lǎorén",
+     "pos": "noun",
+     "meaning": "old person"
+    },
+    {
+     "hanzi": "聊",
+     "pinyin": "liáo",
+     "pos": "verb",
+     "meaning": "to chat"
+    },
+    {
+     "hanzi": "了解",
+     "pinyin": "liǎojiě",
+     "pos": "verb",
+     "meaning": "to understand, to know about"
+    },
+    {
+     "hanzi": "马路",
+     "pinyin": "mǎlù",
+     "pos": "noun",
+     "meaning": "road"
+    },
+    {
+     "hanzi": "平时",
+     "pinyin": "píngshí",
+     "pos": "noun",
+     "meaning": "usually"
+    },
+    {
+     "hanzi": "外地",
+     "pinyin": "wàidì",
+     "pos": "noun",
+     "meaning": "other parts of the country"
+    },
+    {
+     "hanzi": "西北",
+     "pinyin": "xīběi",
+     "pos": "noun",
+     "meaning": "the northwest"
+    },
+    {
+     "hanzi": "养",
+     "pinyin": "yǎng",
+     "pos": "verb",
+     "meaning": "to raise, to keep (a pet)"
+    },
+    {
+     "hanzi": "以上",
+     "pinyin": "yǐshàng",
+     "pos": "noun",
+     "meaning": "more than, above"
+    },
+    {
+     "hanzi": "游客",
+     "pinyin": "yóukè",
+     "pos": "noun",
+     "meaning": "tourist"
+    },
+    {
+     "hanzi": "游戏",
+     "pinyin": "yóuxì",
+     "pos": "noun",
+     "meaning": "game"
+    },
+    {
+     "hanzi": "有名",
+     "pinyin": "yǒumíng",
+     "pos": "adjective",
+     "meaning": "famous"
+    },
+    {
+     "hanzi": "遇见",
+     "pinyin": "yùjiàn",
+     "pos": "verb",
+     "meaning": "to meet by chance"
+    },
+    {
+     "hanzi": "黄河",
+     "pinyin": "Huáng Hé",
+     "pos": "proper noun",
+     "meaning": "the Yellow River"
+    },
+    {
+     "hanzi": "南京",
+     "pinyin": "Nánjīng",
+     "pos": "proper noun",
+     "meaning": "Nanjing"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "A trip to Nanjing.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你了解南京吗？",
+       "pinyin": "Nǐ liǎojiě Nánjīng ma?",
+       "en": "Do you know Nanjing well?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "根据我的了解，那儿的公园一个一个都很有名。",
+       "pinyin": "Gēnjù wǒ de liǎojiě, nàr de gōngyuán yí ge yí ge dōu hěn yǒumíng.",
+       "en": "From what I know, the parks there are famous, one after another."
+      },
+      {
+       "speaker": "A：",
+       "zh": "在你看来，平时游客多吗？",
+       "pinyin": "Zài nǐ kànlái, píngshí yóukè duō ma?",
+       "en": "In your view, are there usually a lot of tourists?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "不多。我在那儿住了十年，是半个南京人。",
+       "pinyin": "Bù duō. Wǒ zài nàr zhùle shí nián, shì bàn ge Nánjīng rén.",
+       "en": "Not many. I lived there ten years, so I'm half a Nanjing local."
+      }
+     ]
+    },
+    {
+     "scene": "By the river.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "我们走了不一会儿，就看到黄河了。",
+       "pinyin": "Wǒmen zǒule bù yíhuìr, jiù kàndào Huáng Hé le.",
+       "en": "We walked for a short while and saw the Yellow River."
+      },
+      {
+       "speaker": "B：",
+       "zh": "这段河真漂亮！附近有老人在聊天。",
+       "pinyin": "Zhè duàn hé zhēn piàoliang! Fùjìn yǒu lǎorén zài liáotiān.",
+       "en": "This stretch of river is really pretty! There are old people chatting nearby."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The preposition 根据",
+     "explanation": "根据 means \"according to\" or \"based on\".",
+     "examples": [
+      {
+       "zh": "根据天气，我们决定不去了。",
+       "pinyin": "Gēnjù tiānqì, wǒmen juédìng bú qù le.",
+       "en": "Based on the weather, we decided not to go."
+      }
+     ]
+    },
+    {
+     "name": "Reduplication of number + measure word",
+     "explanation": "一个一个 means \"one after another\" or \"one by one\".",
+     "examples": [
+      {
+       "zh": "学生们一个一个地进来。",
+       "pinyin": "Xuéshēngmen yí ge yí ge de jìnlái.",
+       "en": "The students came in one by one."
+      }
+     ]
+    },
+    {
+     "name": "The set phrase 在……看来",
+     "explanation": "在 + person + 看来 means \"in someone's opinion\".",
+     "examples": [
+      {
+       "zh": "在我看来，这很好。",
+       "pinyin": "Zài wǒ kànlái, zhè hěn hǎo.",
+       "en": "In my opinion, this is good."
+      }
+     ]
+    },
+    {
+     "name": "The set phrase 不一会儿",
+     "explanation": "不一会儿 means \"in a short while\".",
+     "examples": [
+      {
+       "zh": "不一会儿，他就回来了。",
+       "pinyin": "Bù yíhuìr, tā jiù huílái le.",
+       "en": "In a short while he came back."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "（　）天气，我们决定不去了。",
+     "options": [
+      "根据",
+      "可是",
+      "养",
+      "遇见"
+     ],
+     "answer": "根据",
+     "explanation": "根据 means \"based on\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "在我（　），这很好。",
+     "options": [
+      "看来",
+      "平时",
+      "关系",
+      "游戏"
+     ],
+     "answer": "看来",
+     "explanation": "在……看来 means \"in my opinion\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "In my opinion, this is good.",
+     "tokens": [
+      "在",
+      "我",
+      "看来",
+      "这",
+      "很",
+      "好"
+     ],
+     "explanation": "在……看来 opens the sentence."
+    },
+    {
+     "type": "order",
+     "prompt": "The students came in one by one.",
+     "tokens": [
+      "学生们",
+      "一个",
+      "一个",
+      "地",
+      "进来"
+     ],
+     "explanation": "一个一个 describes how they came."
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "title": {
+    "zh": "我听说有的熊猫出国了",
+    "en": "I heard that some pandas have gone abroad"
+   },
+   "words": [
+    {
+     "hanzi": "半天",
+     "pinyin": "bàntiān",
+     "pos": "noun",
+     "meaning": "half a day, a long time"
+    },
+    {
+     "hanzi": "饱",
+     "pinyin": "bǎo",
+     "pos": "adjective",
+     "meaning": "full (after eating)"
+    },
+    {
+     "hanzi": "大人",
+     "pinyin": "dàren",
+     "pos": "noun",
+     "meaning": "adult"
+    },
+    {
+     "hanzi": "大熊猫",
+     "pinyin": "dàxióngmāo",
+     "pos": "noun",
+     "meaning": "giant panda"
+    },
+    {
+     "hanzi": "动物",
+     "pinyin": "dòngwù",
+     "pos": "noun",
+     "meaning": "animal"
+    },
+    {
+     "hanzi": "动物园",
+     "pinyin": "dòngwùyuán",
+     "pos": "noun",
+     "meaning": "zoo"
+    },
+    {
+     "hanzi": "关于",
+     "pinyin": "guānyú",
+     "pos": "preposition",
+     "meaning": "about, on"
+    },
+    {
+     "hanzi": "国宝",
+     "pinyin": "guóbǎo",
+     "pos": "noun",
+     "meaning": "national treasure",
+     "extra": true
+    },
+    {
+     "hanzi": "脚",
+     "pinyin": "jiǎo",
+     "pos": "noun",
+     "meaning": "foot"
+    },
+    {
+     "hanzi": "可爱",
+     "pinyin": "kě'ài",
+     "pos": "adjective",
+     "meaning": "cute, lovely"
+    },
+    {
+     "hanzi": "脸",
+     "pinyin": "liǎn",
+     "pos": "noun",
+     "meaning": "face"
+    },
+    {
+     "hanzi": "其实",
+     "pinyin": "qíshí",
+     "pos": "adverb",
+     "meaning": "actually"
+    },
+    {
+     "hanzi": "奇怪",
+     "pinyin": "qíguài",
+     "pos": "adjective",
+     "meaning": "strange"
+    },
+    {
+     "hanzi": "全",
+     "pinyin": "quán",
+     "pos": "adjective",
+     "meaning": "whole, all",
+     "extra": true
+    },
+    {
+     "hanzi": "认得",
+     "pinyin": "rènde",
+     "pos": "verb",
+     "meaning": "to recognise"
+    },
+    {
+     "hanzi": "身边",
+     "pinyin": "shēnbiān",
+     "pos": "noun",
+     "meaning": "at one's side"
+    },
+    {
+     "hanzi": "喜爱",
+     "pinyin": "xǐ'ài",
+     "pos": "verb",
+     "meaning": "to love, to like"
+    },
+    {
+     "hanzi": "野生",
+     "pinyin": "yěshēng",
+     "pos": "adjective",
+     "meaning": "wild",
+     "extra": true
+    },
+    {
+     "hanzi": "一会儿",
+     "pinyin": "yíhuìr",
+     "pos": "noun",
+     "meaning": "a moment; now... now..."
+    },
+    {
+     "hanzi": "脏",
+     "pinyin": "zāng",
+     "pos": "adjective",
+     "meaning": "dirty"
+    },
+    {
+     "hanzi": "照顾",
+     "pinyin": "zhàogù",
+     "pos": "verb",
+     "meaning": "to look after"
+    },
+    {
+     "hanzi": "周末",
+     "pinyin": "zhōumò",
+     "pos": "noun",
+     "meaning": "weekend"
+    },
+    {
+     "hanzi": "竹子",
+     "pinyin": "zhúzi",
+     "pos": "noun",
+     "meaning": "bamboo",
+     "extra": true
+    },
+    {
+     "hanzi": "嘴",
+     "pinyin": "zuǐ",
+     "pos": "noun",
+     "meaning": "mouth"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "At the zoo.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你听说了吗？有的大熊猫出国了。",
+       "pinyin": "Nǐ tīngshuō le ma? Yǒude dàxióngmāo chūguó le.",
+       "en": "Have you heard? Some giant pandas have gone abroad."
+      },
+      {
+       "speaker": "B：",
+       "zh": "它们是国宝。一般来说，熊猫每天吃竹子。",
+       "pinyin": "Tāmen shì guóbǎo. Yìbān lái shuō, xióngmāo měi tiān chī zhúzi.",
+       "en": "They're a national treasure. Generally speaking, pandas eat bamboo every day."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你看，这只一会儿爬上去，一会儿跳下来，真可爱！",
+       "pinyin": "Nǐ kàn, zhè zhī yíhuìr pá shàngqu, yíhuìr tiào xiàlai, zhēn kě'ài!",
+       "en": "Look, this one climbs up one moment and jumps down the next. So cute!"
+      }
+     ]
+    },
+    {
+     "scene": "Choosing a closing time.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "关于这个动物园，你了解多少？",
+       "pinyin": "Guānyú zhège dòngwùyuán, nǐ liǎojiě duōshao?",
+       "en": "What do you know about this zoo?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "冬天比夏天早关门一个小时。其实我也认得几只熊猫。",
+       "pinyin": "Dōngtiān bǐ xiàtiān zǎo guānmén yí ge xiǎoshí. Qíshí wǒ yě rènde jǐ zhī xióngmāo.",
+       "en": "It closes an hour earlier in winter than in summer. Actually, I even recognise a few pandas."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "一会儿……，一会儿……",
+     "explanation": "Two things keep changing back and forth: \"one moment..., the next...\".",
+     "examples": [
+      {
+       "zh": "一会儿爬上去，一会儿跳下来",
+       "pinyin": "yíhuìr pá shàngqu, yíhuìr tiào xiàlai",
+       "en": "climbing up one moment and jumping down the next"
+      }
+     ]
+    },
+    {
+     "name": "The preposition 关于",
+     "explanation": "关于 means \"about\" and introduces a topic.",
+     "examples": [
+      {
+       "zh": "关于大熊猫，你知道多少？",
+       "pinyin": "Guānyú dàxióngmāo, nǐ zhīdào duōshao?",
+       "en": "How much do you know about giant pandas?"
+      }
+     ]
+    },
+    {
+     "name": "The set phrase 一般来说",
+     "explanation": "一般来说 means \"generally speaking\".",
+     "examples": [
+      {
+       "zh": "一般来说，他八点起床。",
+       "pinyin": "Yìbān lái shuō, tā bā diǎn qǐchuáng.",
+       "en": "Generally speaking, he gets up at eight."
+      }
+     ]
+    },
+    {
+     "name": "Comparative sentences (11)",
+     "explanation": "A 比 B + 多/少/早/晚 + verb + number shows a difference in amount or time.",
+     "examples": [
+      {
+       "zh": "冬天比夏天早关门一个小时。",
+       "pinyin": "Dōngtiān bǐ xiàtiān zǎo guānmén yí ge xiǎoshí.",
+       "en": "It closes an hour earlier in winter than in summer."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "（　）大熊猫，你知道多少？",
+     "options": [
+      "关于",
+      "其实",
+      "奇怪",
+      "半天"
+     ],
+     "answer": "关于",
+     "explanation": "关于 introduces a topic.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "他一会儿跑，（　）跳。",
+     "options": [
+      "一会儿",
+      "周末",
+      "身边",
+      "大人"
+     ],
+     "answer": "一会儿",
+     "explanation": "一会儿 repeats for each action.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Generally speaking, he gets up at eight.",
+     "tokens": [
+      "一般来说",
+      "他",
+      "八",
+      "点",
+      "起床"
+     ],
+     "explanation": "一般来说 opens the sentence."
+    },
+    {
+     "type": "order",
+     "prompt": "He gets here an hour earlier than me.",
+     "tokens": [
+      "他",
+      "比",
+      "我",
+      "早",
+      "到",
+      "一",
+      "个",
+      "小时"
+     ],
+     "explanation": "早 goes before the verb, and the amount after."
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "title": {
+    "zh": "我要多向认真的人学习",
+    "en": "I will learn from people who are careful"
+   },
+   "words": [
+    {
+     "hanzi": "比如",
+     "pinyin": "bǐrú",
+     "pos": "verb",
+     "meaning": "for example"
+    },
+    {
+     "hanzi": "查",
+     "pinyin": "chá",
+     "pos": "verb",
+     "meaning": "to check, to look up"
+    },
+    {
+     "hanzi": "常见",
+     "pinyin": "cháng jiàn",
+     "pos": "adjective",
+     "meaning": "common"
+    },
+    {
+     "hanzi": "聪明",
+     "pinyin": "cōngmíng",
+     "pos": "adjective",
+     "meaning": "clever"
+    },
+    {
+     "hanzi": "错",
+     "pinyin": "cuò",
+     "pos": "noun",
+     "meaning": "mistake",
+     "extra": true
+    },
+    {
+     "hanzi": "到处",
+     "pinyin": "dàochù",
+     "pos": "adverb",
+     "meaning": "everywhere"
+    },
+    {
+     "hanzi": "方向",
+     "pinyin": "fāngxiàng",
+     "pos": "noun",
+     "meaning": "direction"
+    },
+    {
+     "hanzi": "关机",
+     "pinyin": "guānjī",
+     "pos": "verb",
+     "meaning": "to turn off (a device)"
+    },
+    {
+     "hanzi": "国家",
+     "pinyin": "guójiā",
+     "pos": "noun",
+     "meaning": "country"
+    },
+    {
+     "hanzi": "害怕",
+     "pinyin": "hàipà",
+     "pos": "verb",
+     "meaning": "to be afraid"
+    },
+    {
+     "hanzi": "回答",
+     "pinyin": "huídá",
+     "pos": "verb",
+     "meaning": "to answer"
+    },
+    {
+     "hanzi": "继续",
+     "pinyin": "jìxù",
+     "pos": "verb",
+     "meaning": "to continue",
+     "extra": true
+    },
+    {
+     "hanzi": "可",
+     "pinyin": "kě",
+     "pos": "adverb",
+     "meaning": "really (for emphasis)"
+    },
+    {
+     "hanzi": "留学",
+     "pinyin": "liúxué",
+     "pos": "verb",
+     "meaning": "to study abroad"
+    },
+    {
+     "hanzi": "楼梯",
+     "pinyin": "lóutī",
+     "pos": "noun",
+     "meaning": "stairs"
+    },
+    {
+     "hanzi": "难题",
+     "pinyin": "nántí",
+     "pos": "noun",
+     "meaning": "hard problem"
+    },
+    {
+     "hanzi": "前天",
+     "pinyin": "qiántiān",
+     "pos": "noun",
+     "meaning": "the day before yesterday"
+    },
+    {
+     "hanzi": "认为",
+     "pinyin": "rènwéi",
+     "pos": "verb",
+     "meaning": "to think, to believe"
+    },
+    {
+     "hanzi": "容易",
+     "pinyin": "róngyì",
+     "pos": "adjective",
+     "meaning": "easy"
+    },
+    {
+     "hanzi": "生气",
+     "pinyin": "shēngqì",
+     "pos": "adjective",
+     "meaning": "angry"
+    },
+    {
+     "hanzi": "同意",
+     "pinyin": "tóngyì",
+     "pos": "verb",
+     "meaning": "to agree"
+    },
+    {
+     "hanzi": "屋子",
+     "pinyin": "wūzi",
+     "pos": "noun",
+     "meaning": "room"
+    },
+    {
+     "hanzi": "向",
+     "pinyin": "xiàng",
+     "pos": "preposition",
+     "meaning": "towards, from"
+    },
+    {
+     "hanzi": "有关",
+     "pinyin": "yǒuguān",
+     "pos": "verb",
+     "meaning": "to be related to"
+    },
+    {
+     "hanzi": "有用",
+     "pinyin": "yǒuyòng",
+     "pos": "adjective",
+     "meaning": "useful"
+    },
+    {
+     "hanzi": "真正",
+     "pinyin": "zhēnzhèng",
+     "pos": "adjective",
+     "meaning": "true, real",
+     "extra": true
+    },
+    {
+     "hanzi": "只有",
+     "pinyin": "zhǐyǒu",
+     "pos": "conjunction",
+     "meaning": "only if"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Advice from a friend.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "我这个学期成绩不好，心里很难过。",
+       "pinyin": "Wǒ zhège xuéqī chéngjì bù hǎo, xīnli hěn nánguò.",
+       "en": "My results this term are poor and I feel sad."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你不是很聪明吗？别害怕，你要多向认真的人学习。",
+       "pinyin": "Nǐ bú shì hěn cōngmíng ma? Bié hàipà, nǐ yào duō xiàng rènzhēn de rén xuéxí.",
+       "en": "Aren't you very clever? Don't be afraid. Learn from people who are careful."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你认为这有用吗？",
+       "pinyin": "Nǐ rènwéi zhè yǒuyòng ma?",
+       "en": "Do you think that's useful?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "只有努力，才能提高。",
+       "pinyin": "Zhǐyǒu nǔlì, cái néng tígāo.",
+       "en": "Only by working hard can you improve."
+      }
+     ]
+    },
+    {
+     "scene": "A lost friend.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你到处找什么？",
+       "pinyin": "Nǐ dàochù zhǎo shénme?",
+       "en": "What are you looking for everywhere?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我的手机关机了。今天很忙，明天更忙。",
+       "pinyin": "Wǒ de shǒujī guānjī le. Jīntiān hěn máng, míngtiān gèng máng.",
+       "en": "My phone is off. Today is busy, and tomorrow will be even busier."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The preposition 向",
+     "explanation": "向 means \"towards\", or \"from\" with verbs like 学习.",
+     "examples": [
+      {
+       "zh": "向左走",
+       "pinyin": "xiàng zuǒ zǒu",
+       "en": "walk to the left"
+      },
+      {
+       "zh": "我们要向他学习。",
+       "pinyin": "Wǒmen yào xiàng tā xuéxí.",
+       "en": "We should learn from him."
+      }
+     ]
+    },
+    {
+     "name": "The rhetorical question 不是……吗？",
+     "explanation": "This looks like a question but makes a strong statement: \"Isn't it...?\"",
+     "examples": [
+      {
+       "zh": "你不是很聪明吗？",
+       "pinyin": "Nǐ bú shì hěn cōngmíng ma?",
+       "en": "Aren't you very clever?"
+      }
+     ]
+    },
+    {
+     "name": "The pattern ……，更……",
+     "explanation": "更 in the second part shows that it goes further than the first part.",
+     "examples": [
+      {
+       "zh": "今天很忙，明天更忙。",
+       "pinyin": "Jīntiān hěn máng, míngtiān gèng máng.",
+       "en": "Today is busy, and tomorrow even busier."
+      }
+     ]
+    },
+    {
+     "name": "只有……，才……",
+     "explanation": "This pair gives the only condition: \"only if..., can...\".",
+     "examples": [
+      {
+       "zh": "只有努力，才能提高。",
+       "pinyin": "Zhǐyǒu nǔlì, cái néng tígāo.",
+       "en": "Only by working hard can you improve."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我们要（　）他学习。",
+     "options": [
+      "向",
+      "比如",
+      "同意",
+      "屋子"
+     ],
+     "answer": "向",
+     "explanation": "向 with 学习 means \"learn from\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "只有努力，（　）能提高。",
+     "options": [
+      "才",
+      "就",
+      "更",
+      "很"
+     ],
+     "answer": "才",
+     "explanation": "只有 pairs with 才.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Aren't you very clever?",
+     "tokens": [
+      "你",
+      "不是",
+      "很",
+      "聪明",
+      "吗"
+     ],
+     "explanation": "不是……吗 makes a strong statement."
+    },
+    {
+     "type": "order",
+     "prompt": "Only by working hard can you improve.",
+     "tokens": [
+      "只有",
+      "努力",
+      "才",
+      "能",
+      "提高"
+     ],
+     "explanation": "只有 first, 才 second."
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "title": {
+    "zh": "我学会了包饺子",
+    "en": "I've learned how to make jiaozi"
+   },
+   "words": [
+    {
+     "hanzi": "阿姨",
+     "pinyin": "āyí",
+     "pos": "noun",
+     "meaning": "aunt, auntie"
+    },
+    {
+     "hanzi": "毕业",
+     "pinyin": "bìyè",
+     "pos": "verb",
+     "meaning": "to graduate",
+     "extra": true
+    },
+    {
+     "hanzi": "不久",
+     "pinyin": "bùjiǔ",
+     "pos": "adverb",
+     "meaning": "soon, not long"
+    },
+    {
+     "hanzi": "出发",
+     "pinyin": "chūfā",
+     "pos": "verb",
+     "meaning": "to set off"
+    },
+    {
+     "hanzi": "出生",
+     "pinyin": "chūshēng",
+     "pos": "verb",
+     "meaning": "to be born"
+    },
+    {
+     "hanzi": "大概",
+     "pinyin": "dàgài",
+     "pos": "adverb",
+     "meaning": "probably, about"
+    },
+    {
+     "hanzi": "懂得",
+     "pinyin": "dǒngde",
+     "pos": "verb",
+     "meaning": "to understand, to know"
+    },
+    {
+     "hanzi": "发生",
+     "pinyin": "fāshēng",
+     "pos": "verb",
+     "meaning": "to happen"
+    },
+    {
+     "hanzi": "发展",
+     "pinyin": "fāzhǎn",
+     "pos": "verb",
+     "meaning": "to develop"
+    },
+    {
+     "hanzi": "刚",
+     "pinyin": "gāng",
+     "pos": "adverb",
+     "meaning": "just"
+    },
+    {
+     "hanzi": "刚刚",
+     "pinyin": "gānggāng",
+     "pos": "adverb",
+     "meaning": "just, a moment ago"
+    },
+    {
+     "hanzi": "过节",
+     "pinyin": "guòjié",
+     "pos": "verb",
+     "meaning": "to celebrate a festival"
+    },
+    {
+     "hanzi": "过去",
+     "pinyin": "guòqù",
+     "pos": "noun",
+     "meaning": "the past"
+    },
+    {
+     "hanzi": "坚持",
+     "pinyin": "jiānchí",
+     "pos": "verb",
+     "meaning": "to keep on"
+    },
+    {
+     "hanzi": "见面",
+     "pinyin": "jiànmiàn",
+     "pos": "verb",
+     "meaning": "to meet"
+    },
+    {
+     "hanzi": "节日",
+     "pinyin": "jiérì",
+     "pos": "noun",
+     "meaning": "festival"
+    },
+    {
+     "hanzi": "矿泉水",
+     "pinyin": "kuàngquánshuǐ",
+     "pos": "noun",
+     "meaning": "mineral water"
+    },
+    {
+     "hanzi": "联欢",
+     "pinyin": "liánhuān",
+     "pos": "verb",
+     "meaning": "to hold a get-together",
+     "extra": true
+    },
+    {
+     "hanzi": "目标",
+     "pinyin": "mùbiāo",
+     "pos": "noun",
+     "meaning": "goal",
+     "extra": true
+    },
+    {
+     "hanzi": "起",
+     "pinyin": "qǐ",
+     "pos": "verb",
+     "meaning": "to rise, to start"
+    },
+    {
+     "hanzi": "收",
+     "pinyin": "shōu",
+     "pos": "verb",
+     "meaning": "to receive, to collect"
+    },
+    {
+     "hanzi": "叔叔",
+     "pinyin": "shūshu",
+     "pos": "noun",
+     "meaning": "uncle"
+    },
+    {
+     "hanzi": "完成",
+     "pinyin": "wánchéng",
+     "pos": "verb",
+     "meaning": "to complete"
+    },
+    {
+     "hanzi": "学期",
+     "pinyin": "xuéqī",
+     "pos": "noun",
+     "meaning": "school term"
+    },
+    {
+     "hanzi": "怎样",
+     "pinyin": "zěnyàng",
+     "pos": "pronoun",
+     "meaning": "how"
+    },
+    {
+     "hanzi": "只要",
+     "pinyin": "zhǐyào",
+     "pos": "conjunction",
+     "meaning": "as long as"
+    },
+    {
+     "hanzi": "总",
+     "pinyin": "zǒng",
+     "pos": "adverb",
+     "meaning": "always"
+    },
+    {
+     "hanzi": "春节",
+     "pinyin": "Chūnjié",
+     "pos": "proper noun",
+     "meaning": "Spring Festival"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Learning to make dumplings.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "春节快到了，阿姨和叔叔让我去做客。",
+       "pinyin": "Chūnjié kuài dào le, āyí hé shūshu ràng wǒ qù zuòkè.",
+       "en": "Spring Festival is nearly here. My auntie and uncle have invited me over."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你学会了包饺子吗？",
+       "pinyin": "Nǐ xuéhuìle bāo jiǎozi ma?",
+       "en": "Have you learned to make dumplings?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "刚刚学会，包了大概五十个。只要多练习，就能做好。",
+       "pinyin": "Gānggāng xuéhuì, bāole dàgài wǔshí ge. Zhǐyào duō liànxí, jiù néng zuò hǎo.",
+       "en": "I've only just learned, and made about fifty. As long as you practise, you can do it well."
+      },
+      {
+       "speaker": "B：",
+       "zh": "真不错！从今天起，我也要学。",
+       "pinyin": "Zhēn búcuò! Cóng jīntiān qǐ, wǒ yě yào xué.",
+       "en": "Very nice! From today on, I'll learn too."
+      }
+     ]
+    },
+    {
+     "scene": "End of term.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "刚才你们去哪儿了？",
+       "pinyin": "Gāngcái nǐmen qù nǎr le?",
+       "en": "Where did you go just now?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我们准备出发去晚会，二十多个人，三四个老师。",
+       "pinyin": "Wǒmen zhǔnbèi chūfā qù wǎnhuì, èrshí duō ge rén, sān sì ge lǎoshī.",
+       "en": "We're getting ready to set off for the party, over twenty people and three or four teachers."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Approximate numbers",
+     "explanation": "Two neighbouring numbers give an estimate. 大概 and 多 also work.",
+     "examples": [
+      {
+       "zh": "三四个老师",
+       "pinyin": "sān sì ge lǎoshī",
+       "en": "three or four teachers"
+      },
+      {
+       "zh": "大概五十个",
+       "pinyin": "dàgài wǔshí ge",
+       "en": "about fifty"
+      }
+     ]
+    },
+    {
+     "name": "刚才 and 刚刚",
+     "explanation": "刚才 is a time word for the moment before now. It can go before the subject and can be used with 不. 刚刚 is an adverb that goes after the subject.",
+     "examples": [
+      {
+       "zh": "刚才我去了超市。",
+       "pinyin": "Gāngcái wǒ qùle chāoshì.",
+       "en": "I went to the supermarket just now."
+      },
+      {
+       "zh": "我刚刚学会。",
+       "pinyin": "Wǒ gānggāng xuéhuì.",
+       "en": "I've only just learned it."
+      }
+     ]
+    },
+    {
+     "name": "只要……，就……",
+     "explanation": "This pair gives a condition that is enough: \"as long as..., then...\".",
+     "examples": [
+      {
+       "zh": "只要多练习，就能做好。",
+       "pinyin": "Zhǐyào duō liànxí, jiù néng zuò hǎo.",
+       "en": "As long as you practise, you can do it well."
+      }
+     ]
+    },
+    {
+     "name": "The pattern 从……起",
+     "explanation": "This gives a starting point: \"from... on\".",
+     "examples": [
+      {
+       "zh": "从今天起，我要学习中文。",
+       "pinyin": "Cóng jīntiān qǐ, wǒ yào xuéxí Zhōngwén.",
+       "en": "From today on, I'm going to study Chinese."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "只要多练习，（　）能做好。",
+     "options": [
+      "就",
+      "才",
+      "更",
+      "很"
+     ],
+     "answer": "就",
+     "explanation": "只要 pairs with 就.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "（　）今天起，我要学习中文。",
+     "options": [
+      "从",
+      "向",
+      "离",
+      "给"
+     ],
+     "answer": "从",
+     "explanation": "从……起 gives a starting point.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "From today on, I'm going to study Chinese.",
+     "tokens": [
+      "从",
+      "今天",
+      "起",
+      "我",
+      "要",
+      "学习",
+      "中文"
+     ],
+     "explanation": "从……起 opens the sentence."
+    },
+    {
+     "type": "order",
+     "prompt": "I've only just learned it.",
+     "tokens": [
+      "我",
+      "刚刚",
+      "学会"
+     ],
+     "explanation": "刚刚 goes after the subject."
+    }
+   ]
+  }
+ ]
+}

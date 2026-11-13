@@ -1,0 +1,4297 @@
+{
+ "level": 1,
+ "lessons": [
+  {
+   "id": 1,
+   "title": {
+    "zh": "AI小语，你好！",
+    "en": "Hello, AI Xiaoyu!"
+   },
+   "words": [
+    {
+     "hanzi": "不客气",
+     "pinyin": "bú kèqi",
+     "pos": "phrase",
+     "meaning": "you're welcome"
+    },
+    {
+     "hanzi": "大家",
+     "pinyin": "dàjiā",
+     "pos": "pronoun",
+     "meaning": "everybody"
+    },
+    {
+     "hanzi": "好",
+     "pinyin": "hǎo",
+     "pos": "adjective",
+     "meaning": "good, well"
+    },
+    {
+     "hanzi": "老师",
+     "pinyin": "lǎoshī",
+     "pos": "noun",
+     "meaning": "teacher"
+    },
+    {
+     "hanzi": "们",
+     "pinyin": "men",
+     "pos": "suffix",
+     "meaning": "plural suffix"
+    },
+    {
+     "hanzi": "你好",
+     "pinyin": "nǐ hǎo",
+     "pos": "phrase",
+     "meaning": "hello"
+    },
+    {
+     "hanzi": "你们",
+     "pinyin": "nǐmen",
+     "pos": "pronoun",
+     "meaning": "you (plural)"
+    },
+    {
+     "hanzi": "您",
+     "pinyin": "nín",
+     "pos": "pronoun",
+     "meaning": "you (polite)"
+    },
+    {
+     "hanzi": "同学",
+     "pinyin": "tóngxué",
+     "pos": "noun",
+     "meaning": "classmate"
+    },
+    {
+     "hanzi": "谢谢",
+     "pinyin": "xièxie",
+     "pos": "verb",
+     "meaning": "thank you"
+    },
+    {
+     "hanzi": "学生",
+     "pinyin": "xuéshēng",
+     "pos": "noun",
+     "meaning": "student"
+    },
+    {
+     "hanzi": "再见",
+     "pinyin": "zàijiàn",
+     "pos": "verb",
+     "meaning": "goodbye"
+    },
+    {
+     "hanzi": "王老师",
+     "pinyin": "Wáng lǎoshī",
+     "pos": "proper noun",
+     "meaning": "Teacher Wang"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Greeting a teacher at school.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "王老师，您好！",
+       "pinyin": "Wáng lǎoshī, nín hǎo!",
+       "en": "Hello, Teacher Wang!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "同学们好！",
+       "pinyin": "Tóngxuémen hǎo!",
+       "en": "Hello, students!"
+      },
+      {
+       "speaker": "A：",
+       "zh": "谢谢老师！",
+       "pinyin": "Xièxie lǎoshī!",
+       "en": "Thank you, teacher!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "不客气。",
+       "pinyin": "Bú kèqi.",
+       "en": "You're welcome."
+      }
+     ]
+    },
+    {
+     "scene": "Saying goodbye after class.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "大家再见！",
+       "pinyin": "Dàjiā zàijiàn!",
+       "en": "Goodbye, everybody!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "老师再见！",
+       "pinyin": "Lǎoshī zàijiàn!",
+       "en": "Goodbye, teacher!"
+      }
+     ]
+    }
+   ],
+   "grammar": [],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "王老师，（　）好！",
+     "options": [
+      "您",
+      "们",
+      "再见",
+      "谢谢"
+     ],
+     "answer": "您",
+     "explanation": "您 is the polite word for \"you\", used with a teacher.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "谢谢！——（　）。",
+     "options": [
+      "不客气",
+      "你好",
+      "老师",
+      "同学"
+     ],
+     "answer": "不客气",
+     "explanation": "不客气 is the usual reply to 谢谢.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Hello, everybody!",
+     "tokens": [
+      "大家",
+      "好"
+     ],
+     "explanation": "The person comes first, then 好."
+    },
+    {
+     "type": "order",
+     "prompt": "Goodbye, Teacher Wang!",
+     "tokens": [
+      "王老师",
+      "再见"
+     ],
+     "explanation": "The name comes first, then 再见."
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "title": {
+    "zh": "我叫李文",
+    "en": "My name is Li Wen"
+   },
+   "words": [
+    {
+     "hanzi": "不",
+     "pinyin": "bù",
+     "pos": "adverb",
+     "meaning": "not, no"
+    },
+    {
+     "hanzi": "对不起",
+     "pinyin": "duìbuqǐ",
+     "pos": "phrase",
+     "meaning": "sorry"
+    },
+    {
+     "hanzi": "高兴",
+     "pinyin": "gāoxìng",
+     "pos": "adjective",
+     "meaning": "happy, glad"
+    },
+    {
+     "hanzi": "很",
+     "pinyin": "hěn",
+     "pos": "adverb",
+     "meaning": "very"
+    },
+    {
+     "hanzi": "叫",
+     "pinyin": "jiào",
+     "pos": "verb",
+     "meaning": "to be called"
+    },
+    {
+     "hanzi": "没关系",
+     "pinyin": "méi guānxi",
+     "pos": "phrase",
+     "meaning": "it doesn't matter"
+    },
+    {
+     "hanzi": "没事",
+     "pinyin": "méishì",
+     "pos": "phrase",
+     "meaning": "it's nothing, no problem"
+    },
+    {
+     "hanzi": "名字",
+     "pinyin": "míngzi",
+     "pos": "noun",
+     "meaning": "name"
+    },
+    {
+     "hanzi": "你",
+     "pinyin": "nǐ",
+     "pos": "pronoun",
+     "meaning": "you"
+    },
+    {
+     "hanzi": "请问",
+     "pinyin": "qǐngwèn",
+     "pos": "phrase",
+     "meaning": "excuse me, may I ask"
+    },
+    {
+     "hanzi": "认识",
+     "pinyin": "rènshi",
+     "pos": "verb",
+     "meaning": "to know, to meet"
+    },
+    {
+     "hanzi": "什么",
+     "pinyin": "shénme",
+     "pos": "pronoun",
+     "meaning": "what"
+    },
+    {
+     "hanzi": "是",
+     "pinyin": "shì",
+     "pos": "verb",
+     "meaning": "to be"
+    },
+    {
+     "hanzi": "我",
+     "pinyin": "wǒ",
+     "pos": "pronoun",
+     "meaning": "I, me"
+    },
+    {
+     "hanzi": "也",
+     "pinyin": "yě",
+     "pos": "adverb",
+     "meaning": "also, too"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Two new classmates meet.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你好！请问，你叫什么名字？",
+       "pinyin": "Nǐ hǎo! Qǐngwèn, nǐ jiào shénme míngzi?",
+       "en": "Hello! Excuse me, what's your name?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我叫小文。你叫什么名字？",
+       "pinyin": "Wǒ jiào Xiǎo Wén. Nǐ jiào shénme míngzi?",
+       "en": "My name is Xiao Wen. What's your name?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我叫安娜。认识你很高兴。",
+       "pinyin": "Wǒ jiào Ānnà. Rènshi nǐ hěn gāoxìng.",
+       "en": "My name is Anna. Glad to meet you."
+      },
+      {
+       "speaker": "B：",
+       "zh": "我也很高兴。",
+       "pinyin": "Wǒ yě hěn gāoxìng.",
+       "en": "I'm glad too."
+      }
+     ]
+    },
+    {
+     "scene": "Someone bumps into a friend.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "对不起！",
+       "pinyin": "Duìbuqǐ!",
+       "en": "Sorry!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "没关系。",
+       "pinyin": "Méi guānxi.",
+       "en": "It doesn't matter."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Basic word order",
+     "explanation": "A Chinese sentence normally goes subject, then verb, then object, the same order as English. Words do not change form for person or tense.",
+     "examples": [
+      {
+       "zh": "我叫小文。",
+       "pinyin": "Wǒ jiào Xiǎo Wén.",
+       "en": "My name is Xiao Wen."
+      },
+      {
+       "zh": "我认识老师。",
+       "pinyin": "Wǒ rènshi lǎoshī.",
+       "en": "I know the teacher."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "你叫（　）名字？",
+     "options": [
+      "什么",
+      "也",
+      "很",
+      "不"
+     ],
+     "answer": "什么",
+     "explanation": "什么 means \"what\" and goes before the noun it asks about.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "对不起！——（　）。",
+     "options": [
+      "没关系",
+      "谢谢",
+      "你好",
+      "请问"
+     ],
+     "answer": "没关系",
+     "explanation": "没关系 is the usual reply to an apology.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "My name is Xiao Wen.",
+     "tokens": [
+      "我",
+      "叫",
+      "小文"
+     ],
+     "explanation": "Subject, verb, object."
+    },
+    {
+     "type": "order",
+     "prompt": "I'm glad too.",
+     "tokens": [
+      "我",
+      "也",
+      "很",
+      "高兴"
+     ],
+     "explanation": "也 comes before 很 and the adjective."
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "title": {
+    "zh": "我是中国人",
+    "en": "I'm Chinese"
+   },
+   "words": [
+    {
+     "hanzi": "的",
+     "pinyin": "de",
+     "pos": "particle",
+     "meaning": "possessive particle"
+    },
+    {
+     "hanzi": "对",
+     "pinyin": "duì",
+     "pos": "adjective",
+     "meaning": "correct, right",
+     "alsoIn": [
+      11
+     ]
+    },
+    {
+     "hanzi": "工作",
+     "pinyin": "gōngzuò",
+     "pos": "noun",
+     "meaning": "work, job; to work",
+     "alsoIn": [
+      8
+     ]
+    },
+    {
+     "hanzi": "国",
+     "pinyin": "guó",
+     "pos": "noun",
+     "meaning": "country"
+    },
+    {
+     "hanzi": "还",
+     "pinyin": "hái",
+     "pos": "adverb",
+     "meaning": "also, still"
+    },
+    {
+     "hanzi": "姐姐",
+     "pinyin": "jiějie",
+     "pos": "noun",
+     "meaning": "older sister"
+    },
+    {
+     "hanzi": "吗",
+     "pinyin": "ma",
+     "pos": "particle",
+     "meaning": "question particle"
+    },
+    {
+     "hanzi": "忙",
+     "pinyin": "máng",
+     "pos": "adjective",
+     "meaning": "busy"
+    },
+    {
+     "hanzi": "哪",
+     "pinyin": "nǎ",
+     "pos": "pronoun",
+     "meaning": "which"
+    },
+    {
+     "hanzi": "女朋友",
+     "pinyin": "nǚpéngyou",
+     "pos": "noun",
+     "meaning": "girlfriend"
+    },
+    {
+     "hanzi": "人",
+     "pinyin": "rén",
+     "pos": "noun",
+     "meaning": "person"
+    },
+    {
+     "hanzi": "谁",
+     "pinyin": "shéi",
+     "pos": "pronoun",
+     "meaning": "who"
+    },
+    {
+     "hanzi": "她",
+     "pinyin": "tā",
+     "pos": "pronoun",
+     "meaning": "she, her"
+    },
+    {
+     "hanzi": "太",
+     "pinyin": "tài",
+     "pos": "adverb",
+     "meaning": "too, extremely"
+    },
+    {
+     "hanzi": "喂",
+     "pinyin": "wèi",
+     "pos": "interjection",
+     "meaning": "hello (on the phone)"
+    },
+    {
+     "hanzi": "我们",
+     "pinyin": "wǒmen",
+     "pos": "pronoun",
+     "meaning": "we, us"
+    },
+    {
+     "hanzi": "想",
+     "pinyin": "xiǎng",
+     "pos": "modal verb",
+     "meaning": "to want to; to think",
+     "alsoIn": [
+      6
+     ]
+    },
+    {
+     "hanzi": "这",
+     "pinyin": "zhè",
+     "pos": "pronoun",
+     "meaning": "this"
+    },
+    {
+     "hanzi": "法国",
+     "pinyin": "Fǎguó",
+     "pos": "proper noun",
+     "meaning": "France"
+    },
+    {
+     "hanzi": "泰国",
+     "pinyin": "Tàiguó",
+     "pos": "proper noun",
+     "meaning": "Thailand"
+    },
+    {
+     "hanzi": "中国",
+     "pinyin": "Zhōngguó",
+     "pos": "proper noun",
+     "meaning": "China"
+    },
+    {
+     "hanzi": "中文",
+     "pinyin": "Zhōngwén",
+     "pos": "proper noun",
+     "meaning": "Chinese language"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Asking about nationality.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你是哪国人？",
+       "pinyin": "Nǐ shì nǎ guó rén?",
+       "en": "What country are you from?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我是法国人。你是中国人吗？",
+       "pinyin": "Wǒ shì Fǎguó rén. Nǐ shì Zhōngguó rén ma?",
+       "en": "I'm French. Are you Chinese?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "对，我是中国人。这是我的姐姐。",
+       "pinyin": "Duì, wǒ shì Zhōngguó rén. Zhè shì wǒ de jiějie.",
+       "en": "Yes, I'm Chinese. This is my older sister."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你好！你姐姐忙吗？",
+       "pinyin": "Nǐ hǎo! Nǐ jiějie máng ma?",
+       "en": "Hello! Is your sister busy?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "她不忙。",
+       "pinyin": "Tā bù máng.",
+       "en": "She isn't busy."
+      }
+     ]
+    },
+    {
+     "scene": "A phone call.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "喂，你是小文吗？",
+       "pinyin": "Wèi, nǐ shì Xiǎo Wén ma?",
+       "en": "Hello, is this Xiao Wen?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "是，我是小文。你是谁？",
+       "pinyin": "Shì, wǒ shì Xiǎo Wén. Nǐ shì shéi?",
+       "en": "Yes, this is Xiao Wen. Who are you?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我是安娜，你的中文老师。",
+       "pinyin": "Wǒ shì Ānnà, nǐ de Zhōngwén lǎoshī.",
+       "en": "I'm Anna, your Chinese teacher."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The 是 sentence",
+     "explanation": "是 links two nouns, like \"am/is/are\". To say \"is not\", put 不 before it.",
+     "examples": [
+      {
+       "zh": "我是学生。",
+       "pinyin": "Wǒ shì xuéshēng.",
+       "en": "I am a student."
+      },
+      {
+       "zh": "她不是老师。",
+       "pinyin": "Tā bú shì lǎoshī.",
+       "en": "She is not a teacher."
+      }
+     ]
+    },
+    {
+     "name": "The structural particle 的",
+     "explanation": "的 joins an owner to what is owned, like 's in English.",
+     "examples": [
+      {
+       "zh": "我的老师",
+       "pinyin": "wǒ de lǎoshī",
+       "en": "my teacher"
+      },
+      {
+       "zh": "她的名字",
+       "pinyin": "tā de míngzi",
+       "en": "her name"
+      }
+     ]
+    },
+    {
+     "name": "Yes-no questions with 吗",
+     "explanation": "Add 吗 to the end of a statement to turn it into a yes-no question. The word order stays the same.",
+     "examples": [
+      {
+       "zh": "你是中国人吗？",
+       "pinyin": "Nǐ shì Zhōngguó rén ma?",
+       "en": "Are you Chinese?"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "你是学生（　）？",
+     "options": [
+      "吗",
+      "的",
+      "很",
+      "不"
+     ],
+     "answer": "吗",
+     "explanation": "吗 at the end makes a yes-no question.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "这是我（　）姐姐。",
+     "options": [
+      "的",
+      "吗",
+      "是",
+      "也"
+     ],
+     "answer": "的",
+     "explanation": "的 shows that the sister belongs to me.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "She is not a teacher.",
+     "tokens": [
+      "她",
+      "不",
+      "是",
+      "老师"
+     ],
+     "explanation": "不 goes directly before 是."
+    },
+    {
+     "type": "order",
+     "prompt": "Are you Chinese?",
+     "tokens": [
+      "你",
+      "是",
+      "中国",
+      "人",
+      "吗"
+     ],
+     "explanation": "吗 stays at the end of the sentence."
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "title": {
+    "zh": "我有两个孩子",
+    "en": "I have two children"
+   },
+   "words": [
+    {
+     "hanzi": "八",
+     "pinyin": "bā",
+     "pos": "numeral",
+     "meaning": "eight"
+    },
+    {
+     "hanzi": "爸爸",
+     "pinyin": "bàba",
+     "pos": "noun",
+     "meaning": "dad, father"
+    },
+    {
+     "hanzi": "百",
+     "pinyin": "bǎi",
+     "pos": "numeral",
+     "meaning": "hundred"
+    },
+    {
+     "hanzi": "大",
+     "pinyin": "dà",
+     "pos": "adjective",
+     "meaning": "big, old (in age)",
+     "alsoIn": [
+      8
+     ]
+    },
+    {
+     "hanzi": "多",
+     "pinyin": "duō",
+     "pos": "adjective",
+     "meaning": "many, much",
+     "alsoIn": [
+      8
+     ]
+    },
+    {
+     "hanzi": "多少",
+     "pinyin": "duōshao",
+     "pos": "pronoun",
+     "meaning": "how many, how much"
+    },
+    {
+     "hanzi": "儿子",
+     "pinyin": "érzi",
+     "pos": "noun",
+     "meaning": "son"
+    },
+    {
+     "hanzi": "二",
+     "pinyin": "èr",
+     "pos": "numeral",
+     "meaning": "two"
+    },
+    {
+     "hanzi": "哥哥",
+     "pinyin": "gēge",
+     "pos": "noun",
+     "meaning": "older brother"
+    },
+    {
+     "hanzi": "个",
+     "pinyin": "gè",
+     "pos": "measure word",
+     "meaning": "general measure word"
+    },
+    {
+     "hanzi": "孩子",
+     "pinyin": "háizi",
+     "pos": "noun",
+     "meaning": "child"
+    },
+    {
+     "hanzi": "和",
+     "pinyin": "hé",
+     "pos": "conjunction",
+     "meaning": "and",
+     "alsoIn": [
+      9
+     ]
+    },
+    {
+     "hanzi": "几",
+     "pinyin": "jǐ",
+     "pos": "pronoun",
+     "meaning": "how many, a few",
+     "alsoIn": [
+      15
+     ]
+    },
+    {
+     "hanzi": "家",
+     "pinyin": "jiā",
+     "pos": "noun",
+     "meaning": "home, family",
+     "alsoIn": [
+      7,
+      9
+     ]
+    },
+    {
+     "hanzi": "今年",
+     "pinyin": "jīnnián",
+     "pos": "noun",
+     "meaning": "this year"
+    },
+    {
+     "hanzi": "九",
+     "pinyin": "jiǔ",
+     "pos": "numeral",
+     "meaning": "nine"
+    },
+    {
+     "hanzi": "口",
+     "pinyin": "kǒu",
+     "pos": "measure word",
+     "meaning": "measure word for family members"
+    },
+    {
+     "hanzi": "两",
+     "pinyin": "liǎng",
+     "pos": "numeral",
+     "meaning": "two (before measure words)"
+    },
+    {
+     "hanzi": "零",
+     "pinyin": "líng",
+     "pos": "numeral",
+     "meaning": "zero"
+    },
+    {
+     "hanzi": "六",
+     "pinyin": "liù",
+     "pos": "numeral",
+     "meaning": "six"
+    },
+    {
+     "hanzi": "妈妈",
+     "pinyin": "māma",
+     "pos": "noun",
+     "meaning": "mum, mother"
+    },
+    {
+     "hanzi": "没有",
+     "pinyin": "méiyǒu",
+     "pos": "verb",
+     "meaning": "not have"
+    },
+    {
+     "hanzi": "妹妹",
+     "pinyin": "mèimei",
+     "pos": "noun",
+     "meaning": "younger sister"
+    },
+    {
+     "hanzi": "呢",
+     "pinyin": "ne",
+     "pos": "particle",
+     "meaning": "and you?; ongoing action",
+     "alsoIn": [
+      7
+     ]
+    },
+    {
+     "hanzi": "女儿",
+     "pinyin": "nǚ'ér",
+     "pos": "noun",
+     "meaning": "daughter"
+    },
+    {
+     "hanzi": "七",
+     "pinyin": "qī",
+     "pos": "numeral",
+     "meaning": "seven"
+    },
+    {
+     "hanzi": "千",
+     "pinyin": "qiān",
+     "pos": "numeral",
+     "meaning": "thousand"
+    },
+    {
+     "hanzi": "三",
+     "pinyin": "sān",
+     "pos": "numeral",
+     "meaning": "three"
+    },
+    {
+     "hanzi": "十",
+     "pinyin": "shí",
+     "pos": "numeral",
+     "meaning": "ten"
+    },
+    {
+     "hanzi": "四",
+     "pinyin": "sì",
+     "pos": "numeral",
+     "meaning": "four"
+    },
+    {
+     "hanzi": "岁",
+     "pinyin": "suì",
+     "pos": "measure word",
+     "meaning": "years old"
+    },
+    {
+     "hanzi": "他",
+     "pinyin": "tā",
+     "pos": "pronoun",
+     "meaning": "he, him"
+    },
+    {
+     "hanzi": "五",
+     "pinyin": "wǔ",
+     "pos": "numeral",
+     "meaning": "five"
+    },
+    {
+     "hanzi": "一",
+     "pinyin": "yī",
+     "pos": "numeral",
+     "meaning": "one"
+    },
+    {
+     "hanzi": "有",
+     "pinyin": "yǒu",
+     "pos": "verb",
+     "meaning": "to have, there is"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Talking about family.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你家有几口人？",
+       "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+       "en": "How many people are in your family?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我家有四口人：爸爸、妈妈、哥哥和我。你呢？",
+       "pinyin": "Wǒ jiā yǒu sì kǒu rén: bàba, māma, gēge hé wǒ. Nǐ ne?",
+       "en": "There are four: dad, mum, my older brother and me. And you?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我家有三口人。我有一个女儿。",
+       "pinyin": "Wǒ jiā yǒu sān kǒu rén. Wǒ yǒu yí ge nǚ'ér.",
+       "en": "There are three of us. I have a daughter."
+      },
+      {
+       "speaker": "B：",
+       "zh": "她今年多大？",
+       "pinyin": "Tā jīnnián duō dà?",
+       "en": "How old is she this year?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "她今年八岁。",
+       "pinyin": "Tā jīnnián bā suì.",
+       "en": "She is eight this year."
+      }
+     ]
+    },
+    {
+     "scene": "Asking a teacher about the class.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你有多少个学生？",
+       "pinyin": "Nǐ yǒu duōshao ge xuéshēng?",
+       "en": "How many students do you have?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我有三十个学生。",
+       "pinyin": "Wǒ yǒu sānshí ge xuéshēng.",
+       "en": "I have thirty students."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The 有 sentence (1)",
+     "explanation": "有 means \"have\". The negative is always 没有, never 不有.",
+     "examples": [
+      {
+       "zh": "我有两个哥哥。",
+       "pinyin": "Wǒ yǒu liǎng ge gēge.",
+       "en": "I have two older brothers."
+      },
+      {
+       "zh": "我没有妹妹。",
+       "pinyin": "Wǒ méiyǒu mèimei.",
+       "en": "I don't have a younger sister."
+      }
+     ]
+    },
+    {
+     "name": "Numbers",
+     "explanation": "Numbers build logically: 十二 is 10 + 2, and 二十 is 2 × 10. Use 二 when counting and in numbers, and 两 before a measure word.",
+     "examples": [
+      {
+       "zh": "二十五",
+       "pinyin": "èrshíwǔ",
+       "en": "25"
+      },
+      {
+       "zh": "两个人",
+       "pinyin": "liǎng ge rén",
+       "en": "two people"
+      }
+     ]
+    },
+    {
+     "name": "The particle 呢 (1)",
+     "explanation": "After a statement, a word plus 呢 asks \"and what about...?\"",
+     "examples": [
+      {
+       "zh": "我是学生，你呢？",
+       "pinyin": "Wǒ shì xuéshēng, nǐ ne?",
+       "en": "I'm a student, and you?"
+      }
+     ]
+    },
+    {
+     "name": "Measure words",
+     "explanation": "A number needs a measure word before the noun. 个 is the most general one, and 口 counts family members.",
+     "examples": [
+      {
+       "zh": "三口人",
+       "pinyin": "sān kǒu rén",
+       "en": "three family members"
+      },
+      {
+       "zh": "两个孩子",
+       "pinyin": "liǎng ge háizi",
+       "en": "two children"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我有（　）个哥哥。",
+     "options": [
+      "两",
+      "二",
+      "几",
+      "呢"
+     ],
+     "answer": "两",
+     "explanation": "Use 两, not 二, before a measure word.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我（　）妹妹。",
+     "options": [
+      "没有",
+      "不有",
+      "不是",
+      "多少"
+     ],
+     "answer": "没有",
+     "explanation": "The negative of 有 is 没有.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I have two children.",
+     "tokens": [
+      "我",
+      "有",
+      "两",
+      "个",
+      "孩子"
+     ],
+     "explanation": "Number, measure word, then noun."
+    },
+    {
+     "type": "order",
+     "prompt": "How old is she this year?",
+     "tokens": [
+      "她",
+      "今年",
+      "多",
+      "大"
+     ],
+     "explanation": "The time word comes after the subject."
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "title": {
+    "zh": "今天我休息",
+    "en": "I'm off today"
+   },
+   "words": [
+    {
+     "hanzi": "菜",
+     "pinyin": "cài",
+     "pos": "noun",
+     "meaning": "dish, vegetable",
+     "alsoIn": [
+      7
+     ]
+    },
+    {
+     "hanzi": "电脑",
+     "pinyin": "diànnǎo",
+     "pos": "noun",
+     "meaning": "computer"
+    },
+    {
+     "hanzi": "好看",
+     "pinyin": "hǎokàn",
+     "pos": "adjective",
+     "meaning": "good-looking"
+    },
+    {
+     "hanzi": "号",
+     "pinyin": "hào",
+     "pos": "noun",
+     "meaning": "date, number",
+     "alsoIn": [
+      6
+     ]
+    },
+    {
+     "hanzi": "会",
+     "pinyin": "huì",
+     "pos": "modal verb",
+     "meaning": "can, know how to"
+    },
+    {
+     "hanzi": "饺子",
+     "pinyin": "jiǎozi",
+     "pos": "noun",
+     "meaning": "dumpling"
+    },
+    {
+     "hanzi": "今天",
+     "pinyin": "jīntiān",
+     "pos": "noun",
+     "meaning": "today"
+    },
+    {
+     "hanzi": "面条儿",
+     "pinyin": "miàntiáor",
+     "pos": "noun",
+     "meaning": "noodles"
+    },
+    {
+     "hanzi": "日",
+     "pinyin": "rì",
+     "pos": "noun",
+     "meaning": "day, date"
+    },
+    {
+     "hanzi": "它",
+     "pinyin": "tā",
+     "pos": "pronoun",
+     "meaning": "it"
+    },
+    {
+     "hanzi": "喜欢",
+     "pinyin": "xǐhuan",
+     "pos": "verb",
+     "meaning": "to like"
+    },
+    {
+     "hanzi": "下班",
+     "pinyin": "xiàbān",
+     "pos": "verb",
+     "meaning": "to finish work"
+    },
+    {
+     "hanzi": "新",
+     "pinyin": "xīn",
+     "pos": "adjective",
+     "meaning": "new"
+    },
+    {
+     "hanzi": "星期",
+     "pinyin": "xīngqī",
+     "pos": "noun",
+     "meaning": "week"
+    },
+    {
+     "hanzi": "星期日",
+     "pinyin": "Xīngqīrì",
+     "pos": "noun",
+     "meaning": "Sunday"
+    },
+    {
+     "hanzi": "星期天",
+     "pinyin": "Xīngqītiān",
+     "pos": "noun",
+     "meaning": "Sunday"
+    },
+    {
+     "hanzi": "休息",
+     "pinyin": "xiūxi",
+     "pos": "verb",
+     "meaning": "to rest"
+    },
+    {
+     "hanzi": "一些",
+     "pinyin": "yìxiē",
+     "pos": "phrase",
+     "meaning": "some"
+    },
+    {
+     "hanzi": "月",
+     "pinyin": "yuè",
+     "pos": "noun",
+     "meaning": "month"
+    },
+    {
+     "hanzi": "真",
+     "pinyin": "zhēn",
+     "pos": "adverb",
+     "meaning": "really"
+    },
+    {
+     "hanzi": "做",
+     "pinyin": "zuò",
+     "pos": "verb",
+     "meaning": "to do, to make",
+     "alsoIn": [
+      9
+     ]
+    },
+    {
+     "hanzi": "做饭",
+     "pinyin": "zuò fàn",
+     "pos": "verb",
+     "meaning": "to cook"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Chatting about the day.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "今天几月几号？",
+       "pinyin": "Jīntiān jǐ yuè jǐ hào?",
+       "en": "What's the date today?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "今天十月二十号，星期日。",
+       "pinyin": "Jīntiān shí yuè èrshí hào, Xīngqīrì.",
+       "en": "Today is October 20th, Sunday."
+      },
+      {
+       "speaker": "A：",
+       "zh": "星期日你休息吗？",
+       "pinyin": "Xīngqīrì nǐ xiūxi ma?",
+       "en": "Do you rest on Sundays?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我休息。今天我做饭。",
+       "pinyin": "Wǒ xiūxi. Jīntiān wǒ zuò fàn.",
+       "en": "I do. Today I'm cooking."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你会做饭？真好！",
+       "pinyin": "Nǐ huì zuò fàn? Zhēn hǎo!",
+       "en": "You can cook? How nice!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我会做饺子，也会做面条儿。",
+       "pinyin": "Wǒ huì zuò jiǎozi, yě huì zuò miàntiáor.",
+       "en": "I can make dumplings and noodles too."
+      }
+     ]
+    },
+    {
+     "scene": "A new computer.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这是你的新电脑吗？",
+       "pinyin": "Zhè shì nǐ de xīn diànnǎo ma?",
+       "en": "Is this your new computer?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "是，真好看！我很喜欢。",
+       "pinyin": "Shì, zhēn hǎokàn! Wǒ hěn xǐhuan.",
+       "en": "Yes, it looks great! I like it a lot."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Expressing time (1)",
+     "explanation": "Dates run from large to small: year, month, day, then day of the week.",
+     "examples": [
+      {
+       "zh": "五月一号，星期三",
+       "pinyin": "wǔ yuè yī hào, Xīngqīsān",
+       "en": "Wednesday, May 1st"
+      }
+     ]
+    },
+    {
+     "name": "Nominal-predicate sentences",
+     "explanation": "For dates, ages and days, a noun can be the predicate. No 是 is needed.",
+     "examples": [
+      {
+       "zh": "今天星期六。",
+       "pinyin": "Jīntiān Xīngqīliù.",
+       "en": "Today is Saturday."
+      }
+     ]
+    },
+    {
+     "name": "The modal verb 会",
+     "explanation": "会 means \"can\" for a learned skill. Put it before the verb.",
+     "examples": [
+      {
+       "zh": "我会做饭。",
+       "pinyin": "Wǒ huì zuò fàn.",
+       "en": "I can cook."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我（　）做饺子。",
+     "options": [
+      "会",
+      "是",
+      "有",
+      "真"
+     ],
+     "answer": "会",
+     "explanation": "会 goes before the verb and shows a learned skill.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "今天（　）月几号？",
+     "options": [
+      "几",
+      "会",
+      "新",
+      "它"
+     ],
+     "answer": "几",
+     "explanation": "几 asks for a small number, such as the month.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Today is Saturday.",
+     "tokens": [
+      "今天",
+      "星期六"
+     ],
+     "explanation": "A date phrase can be the predicate without 是."
+    },
+    {
+     "type": "order",
+     "prompt": "I can cook.",
+     "tokens": [
+      "我",
+      "会",
+      "做饭"
+     ],
+     "explanation": "会 comes before the verb."
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "title": {
+    "zh": "你的手机号是多少？",
+    "en": "What's your cell phone number?"
+   },
+   "words": [
+    {
+     "hanzi": "包子",
+     "pinyin": "bāozi",
+     "pos": "noun",
+     "meaning": "steamed stuffed bun"
+    },
+    {
+     "hanzi": "超市",
+     "pinyin": "chāoshì",
+     "pos": "noun",
+     "meaning": "supermarket"
+    },
+    {
+     "hanzi": "吃",
+     "pinyin": "chī",
+     "pos": "verb",
+     "meaning": "to eat"
+    },
+    {
+     "hanzi": "出租车",
+     "pinyin": "chūzūchē",
+     "pos": "noun",
+     "meaning": "taxi"
+    },
+    {
+     "hanzi": "电话",
+     "pinyin": "diànhuà",
+     "pos": "noun",
+     "meaning": "telephone"
+    },
+    {
+     "hanzi": "东西",
+     "pinyin": "dōngxi",
+     "pos": "noun",
+     "meaning": "thing"
+    },
+    {
+     "hanzi": "非常",
+     "pinyin": "fēicháng",
+     "pos": "adverb",
+     "meaning": "very, extremely"
+    },
+    {
+     "hanzi": "好吃",
+     "pinyin": "hǎochī",
+     "pos": "adjective",
+     "meaning": "tasty"
+    },
+    {
+     "hanzi": "买",
+     "pinyin": "mǎi",
+     "pos": "verb",
+     "meaning": "to buy"
+    },
+    {
+     "hanzi": "米饭",
+     "pinyin": "mǐfàn",
+     "pos": "noun",
+     "meaning": "cooked rice"
+    },
+    {
+     "hanzi": "明天",
+     "pinyin": "míngtiān",
+     "pos": "noun",
+     "meaning": "tomorrow"
+    },
+    {
+     "hanzi": "哪儿",
+     "pinyin": "nǎr",
+     "pos": "pronoun",
+     "meaning": "where"
+    },
+    {
+     "hanzi": "那边",
+     "pinyin": "nàbiān",
+     "pos": "pronoun",
+     "meaning": "over there"
+    },
+    {
+     "hanzi": "牛奶",
+     "pinyin": "niúnǎi",
+     "pos": "noun",
+     "meaning": "milk"
+    },
+    {
+     "hanzi": "去",
+     "pinyin": "qù",
+     "pos": "verb",
+     "meaning": "to go"
+    },
+    {
+     "hanzi": "手机",
+     "pinyin": "shǒujī",
+     "pos": "noun",
+     "meaning": "mobile phone"
+    },
+    {
+     "hanzi": "晚饭",
+     "pinyin": "wǎnfàn",
+     "pos": "noun",
+     "meaning": "dinner"
+    },
+    {
+     "hanzi": "些",
+     "pinyin": "xiē",
+     "pos": "measure word",
+     "meaning": "some"
+    },
+    {
+     "hanzi": "怎么",
+     "pinyin": "zěnme",
+     "pos": "pronoun",
+     "meaning": "how, why"
+    },
+    {
+     "hanzi": "坐",
+     "pinyin": "zuò",
+     "pos": "verb",
+     "meaning": "to sit, to travel by",
+     "alsoIn": [
+      13
+     ]
+    },
+    {
+     "hanzi": "西安饭店",
+     "pinyin": "Xī'ān Fàndiàn",
+     "pos": "proper noun",
+     "meaning": "Xi'an Restaurant"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Deciding what to eat.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你想吃什么？",
+       "pinyin": "Nǐ xiǎng chī shénme?",
+       "en": "What do you want to eat?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我想吃包子。你呢？",
+       "pinyin": "Wǒ xiǎng chī bāozi. Nǐ ne?",
+       "en": "I want steamed buns. And you?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我想吃米饭和菜。",
+       "pinyin": "Wǒ xiǎng chī mǐfàn hé cài.",
+       "en": "I want rice and vegetables."
+      },
+      {
+       "speaker": "B：",
+       "zh": "明天我们去那边吃晚饭，非常好吃！",
+       "pinyin": "Míngtiān wǒmen qù nàbiān chī wǎnfàn, fēicháng hǎochī!",
+       "en": "Tomorrow let's have dinner over there. It's really tasty!"
+      }
+     ]
+    },
+    {
+     "scene": "Planning a shopping trip.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你的手机号是多少？",
+       "pinyin": "Nǐ de shǒujī hào shì duōshao?",
+       "en": "What's your mobile number?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "五三六八九。你想去哪儿？",
+       "pinyin": "Wǔ sān liù bā jiǔ. Nǐ xiǎng qù nǎr?",
+       "en": "Five three six eight nine. Where do you want to go?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我去超市买东西。我们怎么去？",
+       "pinyin": "Wǒ qù chāoshì mǎi dōngxi. Wǒmen zěnme qù?",
+       "en": "I'm going to the supermarket. How shall we go?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "坐出租车去。",
+       "pinyin": "Zuò chūzūchē qù.",
+       "en": "Let's take a taxi."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The modal verb 想",
+     "explanation": "想 before a verb means \"want to\".",
+     "examples": [
+      {
+       "zh": "我想吃包子。",
+       "pinyin": "Wǒ xiǎng chī bāozi.",
+       "en": "I want to eat steamed buns."
+      }
+     ]
+    },
+    {
+     "name": "Serial verb sentences (1)",
+     "explanation": "Two verb phrases can follow each other, in the order the actions happen.",
+     "examples": [
+      {
+       "zh": "我去超市买东西。",
+       "pinyin": "Wǒ qù chāoshì mǎi dōngxi.",
+       "en": "I'm going to the supermarket to buy things."
+      }
+     ]
+    },
+    {
+     "name": "The question word 怎么",
+     "explanation": "怎么 before a verb asks how something is done.",
+     "examples": [
+      {
+       "zh": "你怎么去？",
+       "pinyin": "Nǐ zěnme qù?",
+       "en": "How are you going?"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我（　）吃米饭。",
+     "options": [
+      "想",
+      "号",
+      "些",
+      "非常"
+     ],
+     "answer": "想",
+     "explanation": "想 before a verb means \"want to\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我们（　）去？——坐出租车。",
+     "options": [
+      "怎么",
+      "什么",
+      "哪",
+      "多少"
+     ],
+     "answer": "怎么",
+     "explanation": "怎么 asks how, and the answer gives the way of travelling.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I'm going to the supermarket to buy things.",
+     "tokens": [
+      "我",
+      "去",
+      "超市",
+      "买",
+      "东西"
+     ],
+     "explanation": "Actions follow the order they happen in."
+    },
+    {
+     "type": "order",
+     "prompt": "What do you want to eat?",
+     "tokens": [
+      "你",
+      "想",
+      "吃",
+      "什么"
+     ],
+     "explanation": "The question word sits where the answer would go."
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "title": {
+    "zh": "我晚上六点半下班",
+    "en": "I'll finish work at 6:30 in the evening"
+   },
+   "words": [
+    {
+     "hanzi": "吧",
+     "pinyin": "ba",
+     "pos": "particle",
+     "meaning": "particle for suggestions"
+    },
+    {
+     "hanzi": "半",
+     "pinyin": "bàn",
+     "pos": "numeral",
+     "meaning": "half"
+    },
+    {
+     "hanzi": "点",
+     "pinyin": "diǎn",
+     "pos": "measure word",
+     "meaning": "o'clock"
+    },
+    {
+     "hanzi": "电影",
+     "pinyin": "diànyǐng",
+     "pos": "noun",
+     "meaning": "film, movie"
+    },
+    {
+     "hanzi": "电影院",
+     "pinyin": "diànyǐngyuàn",
+     "pos": "noun",
+     "meaning": "cinema"
+    },
+    {
+     "hanzi": "店",
+     "pinyin": "diàn",
+     "pos": "noun",
+     "meaning": "shop"
+    },
+    {
+     "hanzi": "分",
+     "pinyin": "fēn",
+     "pos": "measure word",
+     "meaning": "minute"
+    },
+    {
+     "hanzi": "分钟",
+     "pinyin": "fēnzhōng",
+     "pos": "noun",
+     "meaning": "minute (duration)"
+    },
+    {
+     "hanzi": "后",
+     "pinyin": "hòu",
+     "pos": "noun",
+     "meaning": "after, behind"
+    },
+    {
+     "hanzi": "见",
+     "pinyin": "jiàn",
+     "pos": "verb",
+     "meaning": "to see, to meet"
+    },
+    {
+     "hanzi": "看",
+     "pinyin": "kàn",
+     "pos": "verb",
+     "meaning": "to look, to watch, to read"
+    },
+    {
+     "hanzi": "课",
+     "pinyin": "kè",
+     "pos": "noun",
+     "meaning": "class, lesson"
+    },
+    {
+     "hanzi": "里",
+     "pinyin": "lǐ",
+     "pos": "noun",
+     "meaning": "inside"
+    },
+    {
+     "hanzi": "上班",
+     "pinyin": "shàngbān",
+     "pos": "verb",
+     "meaning": "to go to work"
+    },
+    {
+     "hanzi": "上课",
+     "pinyin": "shàngkè",
+     "pos": "verb",
+     "meaning": "to have class"
+    },
+    {
+     "hanzi": "上午",
+     "pinyin": "shàngwǔ",
+     "pos": "noun",
+     "meaning": "morning"
+    },
+    {
+     "hanzi": "事",
+     "pinyin": "shì",
+     "pos": "noun",
+     "meaning": "matter, thing"
+    },
+    {
+     "hanzi": "晚上",
+     "pinyin": "wǎnshang",
+     "pos": "noun",
+     "meaning": "evening"
+    },
+    {
+     "hanzi": "下课",
+     "pinyin": "xiàkè",
+     "pos": "verb",
+     "meaning": "to finish class"
+    },
+    {
+     "hanzi": "下午",
+     "pinyin": "xiàwǔ",
+     "pos": "noun",
+     "meaning": "afternoon"
+    },
+    {
+     "hanzi": "现在",
+     "pinyin": "xiànzài",
+     "pos": "noun",
+     "meaning": "now"
+    },
+    {
+     "hanzi": "医院",
+     "pinyin": "yīyuàn",
+     "pos": "noun",
+     "meaning": "hospital"
+    },
+    {
+     "hanzi": "在",
+     "pinyin": "zài",
+     "pos": "preposition",
+     "meaning": "at, in; be at",
+     "alsoIn": [
+      8,
+      11
+     ]
+    },
+    {
+     "hanzi": "早上",
+     "pinyin": "zǎoshang",
+     "pos": "noun",
+     "meaning": "early morning"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Making evening plans.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "现在几点？",
+       "pinyin": "Xiànzài jǐ diǎn?",
+       "en": "What time is it now?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "现在七点半。我八点上班。",
+       "pinyin": "Xiànzài qī diǎn bàn. Wǒ bā diǎn shàngbān.",
+       "en": "It's 7:30. I start work at eight."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你几点下班？",
+       "pinyin": "Nǐ jǐ diǎn xiàbān?",
+       "en": "When do you finish work?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "下午五点。",
+       "pinyin": "Xiàwǔ wǔ diǎn.",
+       "en": "Five in the afternoon."
+      },
+      {
+       "speaker": "A：",
+       "zh": "晚上我们去看电影吧。",
+       "pinyin": "Wǎnshang wǒmen qù kàn diànyǐng ba.",
+       "en": "Let's go and see a film this evening."
+      },
+      {
+       "speaker": "B：",
+       "zh": "好，六点半见！",
+       "pinyin": "Hǎo, liù diǎn bàn jiàn!",
+       "en": "Okay, see you at 6:30!"
+      }
+     ]
+    },
+    {
+     "scene": "After class.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你今天有课吗？",
+       "pinyin": "Nǐ jīntiān yǒu kè ma?",
+       "en": "Do you have class today?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "上午有课，十点下课。",
+       "pinyin": "Shàngwǔ yǒu kè, shí diǎn xiàkè.",
+       "en": "I have class in the morning, and it ends at ten."
+      },
+      {
+       "speaker": "A：",
+       "zh": "下课后你去哪儿？",
+       "pinyin": "Xiàkè hòu nǐ qù nǎr?",
+       "en": "Where are you going after class?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我去医院。我妈妈在医院工作。",
+       "pinyin": "Wǒ qù yīyuàn. Wǒ māma zài yīyuàn gōngzuò.",
+       "en": "I'm going to the hospital. My mum works there."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Expressing time (2)",
+     "explanation": "Clock time uses 点 for the hour and 分 for minutes. 半 means half past.",
+     "examples": [
+      {
+       "zh": "八点半",
+       "pinyin": "bā diǎn bàn",
+       "en": "8:30"
+      },
+      {
+       "zh": "七点二十分",
+       "pinyin": "qī diǎn èrshí fēn",
+       "en": "7:20"
+      }
+     ]
+    },
+    {
+     "name": "The particle 吧 (1)",
+     "explanation": "吧 at the end of a sentence makes a soft suggestion, like \"let's\".",
+     "examples": [
+      {
+       "zh": "我们看电影吧。",
+       "pinyin": "Wǒmen kàn diànyǐng ba.",
+       "en": "Let's watch a film."
+      }
+     ]
+    },
+    {
+     "name": "Position of adverbs and time words",
+     "explanation": "Time words and adverbs go before the verb, not at the end of the sentence.",
+     "examples": [
+      {
+       "zh": "我晚上七点下班。",
+       "pinyin": "Wǒ wǎnshang qī diǎn xiàbān.",
+       "en": "I finish work at seven in the evening."
+      }
+     ]
+    },
+    {
+     "name": "The particle 呢 (2)",
+     "explanation": "呢 at the end of a sentence can show that something is going on right now.",
+     "examples": [
+      {
+       "zh": "老师上课呢。",
+       "pinyin": "Lǎoshī shàngkè ne.",
+       "en": "The teacher is teaching."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我们去看电影（　）。",
+     "options": [
+      "吧",
+      "吗",
+      "半",
+      "的"
+     ],
+     "answer": "吧",
+     "explanation": "吧 makes a friendly suggestion.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "现在八点（　）。",
+     "options": [
+      "半",
+      "课",
+      "看",
+      "吧"
+     ],
+     "answer": "半",
+     "explanation": "半 after the hour means half past.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I finish work at seven in the evening.",
+     "tokens": [
+      "我",
+      "晚上",
+      "七点",
+      "下班"
+     ],
+     "explanation": "The time goes before the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "Where are you going after class?",
+     "tokens": [
+      "下课",
+      "后",
+      "你",
+      "去",
+      "哪儿"
+     ],
+     "explanation": "The question word 哪儿 sits where the place would go."
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "title": {
+    "zh": "我爸爸也在医院工作",
+    "en": "My father also works at a hospital"
+   },
+   "words": [
+    {
+     "hanzi": "病人",
+     "pinyin": "bìngrén",
+     "pos": "noun",
+     "meaning": "patient",
+     "extra": true
+    },
+    {
+     "hanzi": "到",
+     "pinyin": "dào",
+     "pos": "verb",
+     "meaning": "to arrive"
+    },
+    {
+     "hanzi": "饭",
+     "pinyin": "fàn",
+     "pos": "noun",
+     "meaning": "meal, cooked rice"
+    },
+    {
+     "hanzi": "房间",
+     "pinyin": "fángjiān",
+     "pos": "noun",
+     "meaning": "room"
+    },
+    {
+     "hanzi": "看见",
+     "pinyin": "kànjiàn",
+     "pos": "verb",
+     "meaning": "to see"
+    },
+    {
+     "hanzi": "猫",
+     "pinyin": "māo",
+     "pos": "noun",
+     "meaning": "cat"
+    },
+    {
+     "hanzi": "没",
+     "pinyin": "méi",
+     "pos": "adverb",
+     "meaning": "not (past), have not"
+    },
+    {
+     "hanzi": "能",
+     "pinyin": "néng",
+     "pos": "modal verb",
+     "meaning": "can, be able to"
+    },
+    {
+     "hanzi": "漂亮",
+     "pinyin": "piàoliang",
+     "pos": "adjective",
+     "meaning": "pretty"
+    },
+    {
+     "hanzi": "前",
+     "pinyin": "qián",
+     "pos": "noun",
+     "meaning": "front, before"
+    },
+    {
+     "hanzi": "书店",
+     "pinyin": "shūdiàn",
+     "pos": "noun",
+     "meaning": "bookshop"
+    },
+    {
+     "hanzi": "外",
+     "pinyin": "wài",
+     "pos": "noun",
+     "meaning": "outside"
+    },
+    {
+     "hanzi": "午饭",
+     "pinyin": "wǔfàn",
+     "pos": "noun",
+     "meaning": "lunch"
+    },
+    {
+     "hanzi": "下",
+     "pinyin": "xià",
+     "pos": "noun",
+     "meaning": "under, next; to go down",
+     "alsoIn": [
+      12
+     ]
+    },
+    {
+     "hanzi": "小",
+     "pinyin": "xiǎo",
+     "pos": "adjective",
+     "meaning": "small, young"
+    },
+    {
+     "hanzi": "学校",
+     "pinyin": "xuéxiào",
+     "pos": "noun",
+     "meaning": "school"
+    },
+    {
+     "hanzi": "医生",
+     "pinyin": "yīshēng",
+     "pos": "noun",
+     "meaning": "doctor"
+    },
+    {
+     "hanzi": "只",
+     "pinyin": "zhī",
+     "pos": "measure word",
+     "meaning": "measure word for animals"
+    },
+    {
+     "hanzi": "桌子",
+     "pinyin": "zhuōzi",
+     "pos": "noun",
+     "meaning": "table, desk"
+    },
+    {
+     "hanzi": "胡医生",
+     "pinyin": "Hú yīshēng",
+     "pos": "proper noun",
+     "meaning": "Dr. Hu"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Talking about parents' jobs.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你爸爸是医生吗？",
+       "pinyin": "Nǐ bàba shì yīshēng ma?",
+       "en": "Is your dad a doctor?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "对，他在医院工作。你爸爸呢？",
+       "pinyin": "Duì, tā zài yīyuàn gōngzuò. Nǐ bàba ne?",
+       "en": "Yes, he works at a hospital. What about your dad?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我爸爸也在医院工作。",
+       "pinyin": "Wǒ bàba yě zài yīyuàn gōngzuò.",
+       "en": "My dad works at a hospital too."
+      }
+     ]
+    },
+    {
+     "scene": "At home with a pet.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你的猫在哪儿？",
+       "pinyin": "Nǐ de māo zài nǎr?",
+       "en": "Where is your cat?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "它在桌子下。",
+       "pinyin": "Tā zài zhuōzi xià.",
+       "en": "It's under the table."
+      },
+      {
+       "speaker": "A：",
+       "zh": "真小，真漂亮！",
+       "pinyin": "Zhēn xiǎo, zhēn piàoliang!",
+       "en": "So small and so pretty!"
+      },
+      {
+       "speaker": "B：",
+       "zh": "午饭后我们去书店吧。",
+       "pinyin": "Wǔfàn hòu wǒmen qù shūdiàn ba.",
+       "en": "Let's go to the bookshop after lunch."
+      },
+      {
+       "speaker": "A：",
+       "zh": "好，我能去。",
+       "pinyin": "Hǎo, wǒ néng qù.",
+       "en": "Okay, I can go."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Position words",
+     "explanation": "Words like 前 (front), 后 (back), 下 (under) and 外 (outside) go after a noun.",
+     "examples": [
+      {
+       "zh": "桌子下",
+       "pinyin": "zhuōzi xià",
+       "en": "under the table"
+      },
+      {
+       "zh": "学校前",
+       "pinyin": "xuéxiào qián",
+       "en": "in front of the school"
+      }
+     ]
+    },
+    {
+     "name": "The preposition 在",
+     "explanation": "在 plus a place, placed before the verb, says where an action happens.",
+     "examples": [
+      {
+       "zh": "我在医院工作。",
+       "pinyin": "Wǒ zài yīyuàn gōngzuò.",
+       "en": "I work at a hospital."
+      }
+     ]
+    },
+    {
+     "name": "The modal verb 能",
+     "explanation": "能 means \"can\" in the sense of being able or free to do something.",
+     "examples": [
+      {
+       "zh": "明天我能到。",
+       "pinyin": "Míngtiān wǒ néng dào.",
+       "en": "I can get there tomorrow."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我爸爸（　）医院工作。",
+     "options": [
+      "在",
+      "能",
+      "到",
+      "小"
+     ],
+     "answer": "在",
+     "explanation": "在 plus a place goes before the verb.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "猫在桌子（　）。",
+     "options": [
+      "下",
+      "大",
+      "没",
+      "只"
+     ],
+     "answer": "下",
+     "explanation": "Position words such as 下 come after the noun.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I work at a hospital.",
+     "tokens": [
+      "我",
+      "在",
+      "医院",
+      "工作"
+     ],
+     "explanation": "The place goes before the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "My dad works at a hospital too.",
+     "tokens": [
+      "我",
+      "爸爸",
+      "也",
+      "在",
+      "医院",
+      "工作"
+     ],
+     "explanation": "也 goes before 在."
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "title": {
+    "zh": "我明天上午在学校学习",
+    "en": "I'll be studying at school tomorrow morning"
+   },
+   "words": [
+    {
+     "hanzi": "白天",
+     "pinyin": "báitiān",
+     "pos": "noun",
+     "meaning": "daytime"
+    },
+    {
+     "hanzi": "本",
+     "pinyin": "běn",
+     "pos": "measure word",
+     "meaning": "measure word for books"
+    },
+    {
+     "hanzi": "边",
+     "pinyin": "biān",
+     "pos": "noun",
+     "meaning": "side"
+    },
+    {
+     "hanzi": "唱",
+     "pinyin": "chàng",
+     "pos": "verb",
+     "meaning": "to sing"
+    },
+    {
+     "hanzi": "第",
+     "pinyin": "dì",
+     "pos": "particle",
+     "meaning": "ordinal prefix"
+    },
+    {
+     "hanzi": "电视",
+     "pinyin": "diànshì",
+     "pos": "noun",
+     "meaning": "television"
+    },
+    {
+     "hanzi": "读书",
+     "pinyin": "dúshū",
+     "pos": "verb",
+     "meaning": "to read, to study"
+    },
+    {
+     "hanzi": "歌",
+     "pinyin": "gē",
+     "pos": "noun",
+     "meaning": "song"
+    },
+    {
+     "hanzi": "狗",
+     "pinyin": "gǒu",
+     "pos": "noun",
+     "meaning": "dog"
+    },
+    {
+     "hanzi": "好听",
+     "pinyin": "hǎotīng",
+     "pos": "adjective",
+     "meaning": "pleasant to hear"
+    },
+    {
+     "hanzi": "那",
+     "pinyin": "nà",
+     "pos": "pronoun",
+     "meaning": "that",
+     "alsoIn": [
+      15
+     ]
+    },
+    {
+     "hanzi": "那个",
+     "pinyin": "nàge",
+     "pos": "pronoun",
+     "meaning": "that one"
+    },
+    {
+     "hanzi": "朋友",
+     "pinyin": "péngyou",
+     "pos": "noun",
+     "meaning": "friend"
+    },
+    {
+     "hanzi": "前边",
+     "pinyin": "qiánbian",
+     "pos": "noun",
+     "meaning": "in front"
+    },
+    {
+     "hanzi": "上",
+     "pinyin": "shàng",
+     "pos": "noun",
+     "meaning": "on, above; to go to",
+     "alsoIn": [
+      14
+     ]
+    },
+    {
+     "hanzi": "书",
+     "pinyin": "shū",
+     "pos": "noun",
+     "meaning": "book"
+    },
+    {
+     "hanzi": "外边",
+     "pinyin": "wàibian",
+     "pos": "noun",
+     "meaning": "outside"
+    },
+    {
+     "hanzi": "玩",
+     "pinyin": "wán",
+     "pos": "verb",
+     "meaning": "to play, to have fun"
+    },
+    {
+     "hanzi": "学习",
+     "pinyin": "xuéxí",
+     "pos": "verb",
+     "meaning": "to study"
+    },
+    {
+     "hanzi": "椅子",
+     "pinyin": "yǐzi",
+     "pos": "noun",
+     "meaning": "chair"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Weekend plans.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你明天上午在哪儿？",
+       "pinyin": "Nǐ míngtiān shàngwǔ zài nǎr?",
+       "en": "Where will you be tomorrow morning?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我明天上午在学校学习。",
+       "pinyin": "Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí.",
+       "en": "I'll be studying at school tomorrow morning."
+      },
+      {
+       "speaker": "A：",
+       "zh": "下午呢？",
+       "pinyin": "Xiàwǔ ne?",
+       "en": "And in the afternoon?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "下午我和朋友去玩。我们唱歌，看电视。",
+       "pinyin": "Xiàwǔ wǒ hé péngyou qù wán. Wǒmen chàng gē, kàn diànshì.",
+       "en": "My friends and I are going out. We'll sing and watch TV."
+      }
+     ]
+    },
+    {
+     "scene": "In a classroom.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这是第几本书？",
+       "pinyin": "Zhè shì dì jǐ běn shū?",
+       "en": "Which book in the series is this?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "第二本。",
+       "pinyin": "Dì èr běn.",
+       "en": "The second one."
+      },
+      {
+       "speaker": "A：",
+       "zh": "桌子上有什么？",
+       "pinyin": "Zhuōzi shang yǒu shénme?",
+       "en": "What's on the table?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "有两本书。桌子前边有一个椅子。",
+       "pinyin": "Yǒu liǎng běn shū. Zhuōzi qiánbian yǒu yí ge yǐzi.",
+       "en": "Two books. There's a chair in front of the table."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Existential sentences (1)",
+     "explanation": "To say what is in a place, start with the place, then 有, then the thing.",
+     "examples": [
+      {
+       "zh": "学校前边有一个超市。",
+       "pinyin": "Xuéxiào qiánbian yǒu yí ge chāoshì.",
+       "en": "There's a supermarket in front of the school."
+      }
+     ]
+    },
+    {
+     "name": "Order of time and place",
+     "explanation": "When a sentence has both, the time comes first and the place second, and both go before the verb.",
+     "examples": [
+      {
+       "zh": "我明天上午在学校学习。",
+       "pinyin": "Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí.",
+       "en": "I'll study at school tomorrow morning."
+      }
+     ]
+    },
+    {
+     "name": "第 for ordinal numbers",
+     "explanation": "Put 第 before a number to make first, second, and so on.",
+     "examples": [
+      {
+       "zh": "第一",
+       "pinyin": "dì yī",
+       "en": "first"
+      },
+      {
+       "zh": "第二本书",
+       "pinyin": "dì èr běn shū",
+       "en": "the second book"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "这是（　）二本书。",
+     "options": [
+      "第",
+      "本",
+      "边",
+      "和"
+     ],
+     "answer": "第",
+     "explanation": "第 before a number makes an ordinal.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "桌子上（　）两本书。",
+     "options": [
+      "有",
+      "做",
+      "玩",
+      "唱"
+     ],
+     "answer": "有",
+     "explanation": "Place, then 有, then the thing.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I'll study at school tomorrow morning.",
+     "tokens": [
+      "我",
+      "明天",
+      "上午",
+      "在",
+      "学校",
+      "学习"
+     ],
+     "explanation": "Time first, then place, then the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "There are two books on the table.",
+     "tokens": [
+      "桌子",
+      "上",
+      "有",
+      "两",
+      "本",
+      "书"
+     ],
+     "explanation": "The place starts the sentence."
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": {
+    "zh": "这儿的苹果真便宜！",
+    "en": "The apples here are really affordable!"
+   },
+   "words": [
+    {
+     "hanzi": "杯子",
+     "pinyin": "bēizi",
+     "pos": "noun",
+     "meaning": "cup, glass"
+    },
+    {
+     "hanzi": "穿",
+     "pinyin": "chuān",
+     "pos": "verb",
+     "meaning": "to wear"
+    },
+    {
+     "hanzi": "贵",
+     "pinyin": "guì",
+     "pos": "adjective",
+     "meaning": "expensive"
+    },
+    {
+     "hanzi": "件",
+     "pinyin": "jiàn",
+     "pos": "measure word",
+     "meaning": "measure word for clothes, matters"
+    },
+    {
+     "hanzi": "斤",
+     "pinyin": "jīn",
+     "pos": "measure word",
+     "meaning": "half a kilogram",
+     "extra": true
+    },
+    {
+     "hanzi": "块",
+     "pinyin": "kuài",
+     "pos": "measure word",
+     "meaning": "yuan (spoken)"
+    },
+    {
+     "hanzi": "那儿",
+     "pinyin": "nàr",
+     "pos": "pronoun",
+     "meaning": "there"
+    },
+    {
+     "hanzi": "那些",
+     "pinyin": "nàxiē",
+     "pos": "pronoun",
+     "meaning": "those"
+    },
+    {
+     "hanzi": "男",
+     "pinyin": "nán",
+     "pos": "adjective",
+     "meaning": "male"
+    },
+    {
+     "hanzi": "女",
+     "pinyin": "nǚ",
+     "pos": "adjective",
+     "meaning": "female"
+    },
+    {
+     "hanzi": "便宜",
+     "pinyin": "piányi",
+     "pos": "adjective",
+     "meaning": "cheap"
+    },
+    {
+     "hanzi": "苹果",
+     "pinyin": "píngguǒ",
+     "pos": "noun",
+     "meaning": "apple"
+    },
+    {
+     "hanzi": "钱",
+     "pinyin": "qián",
+     "pos": "noun",
+     "meaning": "money"
+    },
+    {
+     "hanzi": "商店",
+     "pinyin": "shāngdiàn",
+     "pos": "noun",
+     "meaning": "shop"
+    },
+    {
+     "hanzi": "少",
+     "pinyin": "shǎo",
+     "pos": "adjective",
+     "meaning": "few, little"
+    },
+    {
+     "hanzi": "售货员",
+     "pinyin": "shòuhuòyuán",
+     "pos": "noun",
+     "meaning": "shop assistant",
+     "extra": true
+    },
+    {
+     "hanzi": "水果",
+     "pinyin": "shuǐguǒ",
+     "pos": "noun",
+     "meaning": "fruit"
+    },
+    {
+     "hanzi": "衣服",
+     "pinyin": "yīfu",
+     "pos": "noun",
+     "meaning": "clothes"
+    },
+    {
+     "hanzi": "元",
+     "pinyin": "yuán",
+     "pos": "measure word",
+     "meaning": "yuan"
+    },
+    {
+     "hanzi": "怎么样",
+     "pinyin": "zěnmeyàng",
+     "pos": "pronoun",
+     "meaning": "how about"
+    },
+    {
+     "hanzi": "这边",
+     "pinyin": "zhèbiān",
+     "pos": "pronoun",
+     "meaning": "this side, here"
+    },
+    {
+     "hanzi": "这儿",
+     "pinyin": "zhèr",
+     "pos": "pronoun",
+     "meaning": "here"
+    },
+    {
+     "hanzi": "这些",
+     "pinyin": "zhèxiē",
+     "pos": "pronoun",
+     "meaning": "these"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Buying fruit.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "苹果多少钱一斤？",
+       "pinyin": "Píngguǒ duōshao qián yì jīn?",
+       "en": "How much is a jin of apples?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "六块。",
+       "pinyin": "Liù kuài.",
+       "en": "Six yuan."
+      },
+      {
+       "speaker": "A：",
+       "zh": "这些水果真便宜！我买两斤。",
+       "pinyin": "Zhèxiē shuǐguǒ zhēn piányi! Wǒ mǎi liǎng jīn.",
+       "en": "This fruit is really cheap! I'll buy two jin."
+      },
+      {
+       "speaker": "B：",
+       "zh": "好，十二块。",
+       "pinyin": "Hǎo, shí'èr kuài.",
+       "en": "Okay, twelve yuan."
+      }
+     ]
+    },
+    {
+     "scene": "Shopping for clothes.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "这件衣服怎么样？",
+       "pinyin": "Zhè jiàn yīfu zěnmeyàng?",
+       "en": "How is this piece of clothing?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "很好看。多少钱？",
+       "pinyin": "Hěn hǎokàn. Duōshao qián?",
+       "en": "It looks nice. How much is it?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "三百块。",
+       "pinyin": "Sānbǎi kuài.",
+       "en": "Three hundred yuan."
+      },
+      {
+       "speaker": "B：",
+       "zh": "真贵！那边的便宜。",
+       "pinyin": "Zhēn guì! Nàbiān de piányi.",
+       "en": "So expensive! The ones over there are cheap."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Expressing amounts of money",
+     "explanation": "块 is spoken and 元 is written. Both follow the number.",
+     "examples": [
+      {
+       "zh": "五块",
+       "pinyin": "wǔ kuài",
+       "en": "five yuan"
+      },
+      {
+       "zh": "三百元",
+       "pinyin": "sānbǎi yuán",
+       "en": "300 yuan"
+      }
+     ]
+    },
+    {
+     "name": "Adjectival-predicate sentences",
+     "explanation": "Adjectives work as the predicate without 是. A word like 很 or 真 usually comes before them.",
+     "examples": [
+      {
+       "zh": "苹果很便宜。",
+       "pinyin": "Píngguǒ hěn piányi.",
+       "en": "Apples are cheap."
+      }
+     ]
+    },
+    {
+     "name": "The question word 怎么样",
+     "explanation": "怎么样 at the end of a sentence asks for an opinion.",
+     "examples": [
+      {
+       "zh": "这件衣服怎么样？",
+       "pinyin": "Zhè jiàn yīfu zěnmeyàng?",
+       "en": "What do you think of these clothes?"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "这件衣服（　）贵。",
+     "options": [
+      "真",
+      "是",
+      "块",
+      "件"
+     ],
+     "answer": "真",
+     "explanation": "Adjectives need no 是. 真 means \"really\".",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "苹果多少（　）一斤？",
+     "options": [
+      "钱",
+      "人",
+      "号",
+      "书"
+     ],
+     "answer": "钱",
+     "explanation": "多少钱 asks the price.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Apples are cheap.",
+     "tokens": [
+      "苹果",
+      "很",
+      "便宜"
+     ],
+     "explanation": "Adjective predicates use 很, not 是."
+    },
+    {
+     "type": "order",
+     "prompt": "What do you think of these clothes?",
+     "tokens": [
+      "这",
+      "件",
+      "衣服",
+      "怎么样"
+     ],
+     "explanation": "怎么样 goes at the end."
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": {
+    "zh": "我读大学呢",
+    "en": "I'm studying at university"
+   },
+   "words": [
+    {
+     "hanzi": "车",
+     "pinyin": "chē",
+     "pos": "noun",
+     "meaning": "car, vehicle"
+    },
+    {
+     "hanzi": "大学",
+     "pinyin": "dàxué",
+     "pos": "noun",
+     "meaning": "university"
+    },
+    {
+     "hanzi": "大学生",
+     "pinyin": "dàxuéshēng",
+     "pos": "noun",
+     "meaning": "university student"
+    },
+    {
+     "hanzi": "弟弟",
+     "pinyin": "dìdi",
+     "pos": "noun",
+     "meaning": "younger brother"
+    },
+    {
+     "hanzi": "读",
+     "pinyin": "dú",
+     "pos": "verb",
+     "meaning": "to read, to study at"
+    },
+    {
+     "hanzi": "饭店",
+     "pinyin": "fàndiàn",
+     "pos": "noun",
+     "meaning": "restaurant, hotel"
+    },
+    {
+     "hanzi": "开车",
+     "pinyin": "kāichē",
+     "pos": "verb",
+     "meaning": "to drive"
+    },
+    {
+     "hanzi": "哪里",
+     "pinyin": "nǎlǐ",
+     "pos": "pronoun",
+     "meaning": "where"
+    },
+    {
+     "hanzi": "那里",
+     "pinyin": "nàlǐ",
+     "pos": "pronoun",
+     "meaning": "there"
+    },
+    {
+     "hanzi": "起床",
+     "pinyin": "qǐchuáng",
+     "pos": "verb",
+     "meaning": "to get up"
+    },
+    {
+     "hanzi": "时候",
+     "pinyin": "shíhou",
+     "pos": "noun",
+     "meaning": "time, moment"
+    },
+    {
+     "hanzi": "睡",
+     "pinyin": "shuì",
+     "pos": "verb",
+     "meaning": "to sleep"
+    },
+    {
+     "hanzi": "睡觉",
+     "pinyin": "shuìjiào",
+     "pos": "verb",
+     "meaning": "to sleep"
+    },
+    {
+     "hanzi": "说",
+     "pinyin": "shuō",
+     "pos": "verb",
+     "meaning": "to say, to speak"
+    },
+    {
+     "hanzi": "问",
+     "pinyin": "wèn",
+     "pos": "verb",
+     "meaning": "to ask"
+    },
+    {
+     "hanzi": "小朋友",
+     "pinyin": "xiǎopéngyǒu",
+     "pos": "noun",
+     "meaning": "child, kid"
+    },
+    {
+     "hanzi": "学",
+     "pinyin": "xué",
+     "pos": "verb",
+     "meaning": "to learn"
+    },
+    {
+     "hanzi": "要",
+     "pinyin": "yào",
+     "pos": "modal verb",
+     "meaning": "to want, will, need",
+     "alsoIn": [
+      13,
+      15
+     ]
+    },
+    {
+     "hanzi": "医",
+     "pinyin": "yī",
+     "pos": "noun",
+     "meaning": "medicine (as a field)",
+     "extra": true
+    },
+    {
+     "hanzi": "找",
+     "pinyin": "zhǎo",
+     "pos": "verb",
+     "meaning": "to look for"
+    },
+    {
+     "hanzi": "正在",
+     "pinyin": "zhèngzài",
+     "pos": "adverb",
+     "meaning": "in the middle of"
+    },
+    {
+     "hanzi": "知道",
+     "pinyin": "zhīdào",
+     "pos": "verb",
+     "meaning": "to know"
+    },
+    {
+     "hanzi": "昨天",
+     "pinyin": "zuótiān",
+     "pos": "noun",
+     "meaning": "yesterday"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Meeting a student.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你是大学生吗？",
+       "pinyin": "Nǐ shì dàxuéshēng ma?",
+       "en": "Are you a university student?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "是，我正在学中文。",
+       "pinyin": "Shì, wǒ zhèngzài xué Zhōngwén.",
+       "en": "Yes, I'm learning Chinese."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你弟弟呢？",
+       "pinyin": "Nǐ dìdi ne?",
+       "en": "What about your younger brother?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "他要开车去饭店。",
+       "pinyin": "Tā yào kāichē qù fàndiàn.",
+       "en": "He's going to drive to the restaurant."
+      }
+     ]
+    },
+    {
+     "scene": "Visiting an office.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你找谁？",
+       "pinyin": "Nǐ zhǎo shéi?",
+       "en": "Who are you looking for?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我找王老师。他在不在？",
+       "pinyin": "Wǒ zhǎo Wáng lǎoshī. Tā zài bu zài?",
+       "en": "I'm looking for Teacher Wang. Is he here?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "他正在上课。",
+       "pinyin": "Tā zhèngzài shàngkè.",
+       "en": "He's teaching a class right now."
+      },
+      {
+       "speaker": "B：",
+       "zh": "他什么时候下课？",
+       "pinyin": "Tā shénme shíhou xiàkè?",
+       "en": "When does the class finish?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "十一点。",
+       "pinyin": "Shíyī diǎn.",
+       "en": "At eleven."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Affirmative-negative questions",
+     "explanation": "Saying a verb and then its negative makes a question, and 吗 isn't needed.",
+     "examples": [
+      {
+       "zh": "你去不去？",
+       "pinyin": "Nǐ qù bu qù?",
+       "en": "Are you going?"
+      }
+     ]
+    },
+    {
+     "name": "在 and 正在 for ongoing actions",
+     "explanation": "Before a verb, 在 or 正在 means an action is happening now.",
+     "examples": [
+      {
+       "zh": "他正在睡觉。",
+       "pinyin": "Tā zhèngzài shuìjiào.",
+       "en": "He's sleeping right now."
+      }
+     ]
+    },
+    {
+     "name": "The modal verb 要",
+     "explanation": "要 before a verb shows a plan or wish to do something.",
+     "examples": [
+      {
+       "zh": "我要学中文。",
+       "pinyin": "Wǒ yào xué Zhōngwén.",
+       "en": "I'm going to learn Chinese."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "他（　）睡觉。",
+     "options": [
+      "正在",
+      "知道",
+      "找",
+      "说"
+     ],
+     "answer": "正在",
+     "explanation": "正在 before a verb shows an ongoing action.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "王老师在（　）在？",
+     "options": [
+      "不",
+      "要",
+      "很",
+      "的"
+     ],
+     "answer": "不",
+     "explanation": "Verb + 不 + verb makes a question.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "He's sleeping right now.",
+     "tokens": [
+      "他",
+      "正在",
+      "睡觉"
+     ],
+     "explanation": "正在 goes directly before the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "When does the class finish?",
+     "tokens": [
+      "他",
+      "什么",
+      "时候",
+      "下课"
+     ],
+     "explanation": "什么时候 goes before the verb."
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": {
+    "zh": "昨天下雪了",
+    "en": "It snowed yesterday"
+   },
+   "words": [
+    {
+     "hanzi": "病",
+     "pinyin": "bìng",
+     "pos": "noun",
+     "meaning": "illness"
+    },
+    {
+     "hanzi": "公司",
+     "pinyin": "gōngsī",
+     "pos": "noun",
+     "meaning": "company"
+    },
+    {
+     "hanzi": "喝",
+     "pinyin": "hē",
+     "pos": "verb",
+     "meaning": "to drink"
+    },
+    {
+     "hanzi": "回",
+     "pinyin": "huí",
+     "pos": "verb",
+     "meaning": "to return"
+    },
+    {
+     "hanzi": "觉得",
+     "pinyin": "juéde",
+     "pos": "verb",
+     "meaning": "to feel, to think"
+    },
+    {
+     "hanzi": "看病",
+     "pinyin": "kànbìng",
+     "pos": "verb",
+     "meaning": "to see a doctor"
+    },
+    {
+     "hanzi": "来",
+     "pinyin": "lái",
+     "pos": "verb",
+     "meaning": "to come"
+    },
+    {
+     "hanzi": "了",
+     "pinyin": "le",
+     "pos": "particle",
+     "meaning": "completed action or change",
+     "alsoIn": [
+      14
+     ]
+    },
+    {
+     "hanzi": "冷",
+     "pinyin": "lěng",
+     "pos": "adjective",
+     "meaning": "cold"
+    },
+    {
+     "hanzi": "热",
+     "pinyin": "rè",
+     "pos": "adjective",
+     "meaning": "hot"
+    },
+    {
+     "hanzi": "生病",
+     "pinyin": "shēngbìng",
+     "pos": "verb",
+     "meaning": "to fall ill"
+    },
+    {
+     "hanzi": "水",
+     "pinyin": "shuǐ",
+     "pos": "noun",
+     "meaning": "water"
+    },
+    {
+     "hanzi": "天",
+     "pinyin": "tiān",
+     "pos": "noun",
+     "meaning": "day, sky"
+    },
+    {
+     "hanzi": "天气",
+     "pinyin": "tiānqì",
+     "pos": "noun",
+     "meaning": "weather"
+    },
+    {
+     "hanzi": "下雨",
+     "pinyin": "xià yǔ",
+     "pos": "verb",
+     "meaning": "to rain"
+    },
+    {
+     "hanzi": "雪",
+     "pinyin": "xuě",
+     "pos": "noun",
+     "meaning": "snow"
+    },
+    {
+     "hanzi": "药",
+     "pinyin": "yào",
+     "pos": "noun",
+     "meaning": "medicine",
+     "extra": true
+    },
+    {
+     "hanzi": "一点儿",
+     "pinyin": "yìdiǎnr",
+     "pos": "phrase",
+     "meaning": "a little"
+    },
+    {
+     "hanzi": "有点儿",
+     "pinyin": "yǒudiǎnr",
+     "pos": "adverb",
+     "meaning": "a bit"
+    },
+    {
+     "hanzi": "雨",
+     "pinyin": "yǔ",
+     "pos": "noun",
+     "meaning": "rain"
+    },
+    {
+     "hanzi": "再",
+     "pinyin": "zài",
+     "pos": "adverb",
+     "meaning": "again",
+     "alsoIn": [
+      13
+     ]
+    },
+    {
+     "hanzi": "这里",
+     "pinyin": "zhèlǐ",
+     "pos": "pronoun",
+     "meaning": "here"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Talking about the weather.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "今天天气怎么样？",
+       "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+       "en": "What's the weather like today?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "下雨了，有点儿冷。",
+       "pinyin": "Xià yǔ le, yǒudiǎnr lěng.",
+       "en": "It's raining and a bit cold."
+      },
+      {
+       "speaker": "A：",
+       "zh": "昨天呢？",
+       "pinyin": "Zuótiān ne?",
+       "en": "And yesterday?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "昨天下雪了，太冷了！",
+       "pinyin": "Zuótiān xià xuě le, tài lěng le!",
+       "en": "It snowed yesterday. It was so cold!"
+      }
+     ]
+    },
+    {
+     "scene": "A friend is feeling ill.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你怎么了？",
+       "pinyin": "Nǐ zěnme le?",
+       "en": "What's wrong?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我生病了，我觉得很热。",
+       "pinyin": "Wǒ shēngbìng le, wǒ juéde hěn rè.",
+       "en": "I'm ill. I feel very hot."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你喝一点儿水，再去看病吧。",
+       "pinyin": "Nǐ hē yìdiǎnr shuǐ, zài qù kànbìng ba.",
+       "en": "Drink some water, then go and see a doctor."
+      },
+      {
+       "speaker": "B：",
+       "zh": "好，谢谢！",
+       "pinyin": "Hǎo, xièxie!",
+       "en": "Okay, thanks!"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Non-subject-predicate sentences",
+     "explanation": "Weather sentences often have no subject at all.",
+     "examples": [
+      {
+       "zh": "下雨了。",
+       "pinyin": "Xià yǔ le.",
+       "en": "It's raining."
+      }
+     ]
+    },
+    {
+     "name": "The modal particle 了 (1)",
+     "explanation": "了 at the end of a sentence shows that a situation is new or has changed.",
+     "examples": [
+      {
+       "zh": "他生病了。",
+       "pinyin": "Tā shēngbìng le.",
+       "en": "He has fallen ill."
+      }
+     ]
+    },
+    {
+     "name": "The 太……了 pattern",
+     "explanation": "太 + adjective + 了 means \"so...!\" or \"too...!\"",
+     "examples": [
+      {
+       "zh": "太好了！",
+       "pinyin": "Tài hǎo le!",
+       "en": "That's great!"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "今天（　）冷了！",
+     "options": [
+      "太",
+      "天",
+      "来",
+      "回"
+     ],
+     "answer": "太",
+     "explanation": "太 + adjective + 了 means \"so...!\"",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "下雨（　）。",
+     "options": [
+      "了",
+      "吗",
+      "的",
+      "再"
+     ],
+     "answer": "了",
+     "explanation": "了 shows a new situation.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "It's raining and a bit cold.",
+     "tokens": [
+      "下雨",
+      "了",
+      "有点儿",
+      "冷"
+     ],
+     "explanation": "有点儿 goes before the adjective."
+    },
+    {
+     "type": "order",
+     "prompt": "I feel very hot.",
+     "tokens": [
+      "我",
+      "觉得",
+      "很",
+      "热"
+     ],
+     "explanation": "觉得 comes before the feeling."
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": {
+    "zh": "请给我一杯茶",
+    "en": "I'll have a cup of tea, please"
+   },
+   "words": [
+    {
+     "hanzi": "杯",
+     "pinyin": "bēi",
+     "pos": "measure word",
+     "meaning": "cup of, glass of"
+    },
+    {
+     "hanzi": "茶",
+     "pinyin": "chá",
+     "pos": "noun",
+     "meaning": "tea"
+    },
+    {
+     "hanzi": "打电话",
+     "pinyin": "dǎ diànhuà",
+     "pos": "phrase",
+     "meaning": "to make a phone call"
+    },
+    {
+     "hanzi": "服务员",
+     "pinyin": "fúwùyuán",
+     "pos": "noun",
+     "meaning": "waiter, attendant",
+     "extra": true
+    },
+    {
+     "hanzi": "给",
+     "pinyin": "gěi",
+     "pos": "verb",
+     "meaning": "to give"
+    },
+    {
+     "hanzi": "鸡蛋",
+     "pinyin": "jīdàn",
+     "pos": "noun",
+     "meaning": "egg"
+    },
+    {
+     "hanzi": "可以",
+     "pinyin": "kěyǐ",
+     "pos": "modal verb",
+     "meaning": "can, may"
+    },
+    {
+     "hanzi": "卖",
+     "pinyin": "mài",
+     "pos": "verb",
+     "meaning": "to sell"
+    },
+    {
+     "hanzi": "面包",
+     "pinyin": "miànbāo",
+     "pos": "noun",
+     "meaning": "bread"
+    },
+    {
+     "hanzi": "女士",
+     "pinyin": "nǚshì",
+     "pos": "noun",
+     "meaning": "Ms., madam"
+    },
+    {
+     "hanzi": "请",
+     "pinyin": "qǐng",
+     "pos": "verb",
+     "meaning": "please; to invite"
+    },
+    {
+     "hanzi": "问题",
+     "pinyin": "wèntí",
+     "pos": "noun",
+     "meaning": "question, problem"
+    },
+    {
+     "hanzi": "先生",
+     "pinyin": "xiānsheng",
+     "pos": "noun",
+     "meaning": "Mr., sir"
+    },
+    {
+     "hanzi": "一半",
+     "pinyin": "yíbàn",
+     "pos": "noun",
+     "meaning": "half"
+    },
+    {
+     "hanzi": "一下",
+     "pinyin": "yíxià",
+     "pos": "phrase",
+     "meaning": "for a moment"
+    },
+    {
+     "hanzi": "早饭",
+     "pinyin": "zǎofàn",
+     "pos": "noun",
+     "meaning": "breakfast"
+    },
+    {
+     "hanzi": "这个",
+     "pinyin": "zhège",
+     "pos": "pronoun",
+     "meaning": "this one"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "At a café.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "先生，您要什么？",
+       "pinyin": "Xiānsheng, nín yào shénme?",
+       "en": "Sir, what would you like?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "请给我一杯茶。",
+       "pinyin": "Qǐng gěi wǒ yì bēi chá.",
+       "en": "Please give me a cup of tea."
+      },
+      {
+       "speaker": "A：",
+       "zh": "好的。您要面包吗？",
+       "pinyin": "Hǎo de. Nín yào miànbāo ma?",
+       "en": "Certainly. Would you like some bread?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "要一个面包和两个鸡蛋。我可以坐这儿吗？",
+       "pinyin": "Yào yí ge miànbāo hé liǎng ge jīdàn. Wǒ kěyǐ zuò zhèr ma?",
+       "en": "One piece of bread and two eggs. May I sit here?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "可以，请坐。",
+       "pinyin": "Kěyǐ, qǐng zuò.",
+       "en": "Yes, please sit down."
+      }
+     ]
+    },
+    {
+     "scene": "Good news by phone.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你给王老师打电话了吗？",
+       "pinyin": "Nǐ gěi Wáng lǎoshī dǎ diànhuà le ma?",
+       "en": "Did you phone Teacher Wang?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "打了。老师说明天没有课。",
+       "pinyin": "Dǎ le. Lǎoshī shuō míngtiān méiyǒu kè.",
+       "en": "Yes. The teacher said there's no class tomorrow."
+      },
+      {
+       "speaker": "A：",
+       "zh": "太好了！",
+       "pinyin": "Tài hǎo le!",
+       "en": "That's great!"
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The modal verb 可以",
+     "explanation": "可以 asks for or gives permission.",
+     "examples": [
+      {
+       "zh": "我可以坐这儿吗？",
+       "pinyin": "Wǒ kěyǐ zuò zhèr ma?",
+       "en": "May I sit here?"
+      }
+     ]
+    },
+    {
+     "name": "Verb + 一下",
+     "explanation": "一下 after a verb means doing it briefly, and it sounds softer and more polite.",
+     "examples": [
+      {
+       "zh": "请看一下。",
+       "pinyin": "Qǐng kàn yíxià.",
+       "en": "Please take a look."
+      }
+     ]
+    },
+    {
+     "name": "Double-object sentences (1)",
+     "explanation": "Verbs like 给 take two objects: first the person, then the thing.",
+     "examples": [
+      {
+       "zh": "请给我一杯茶。",
+       "pinyin": "Qǐng gěi wǒ yì bēi chá.",
+       "en": "Please give me a cup of tea."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我（　）坐这儿吗？",
+     "options": [
+      "可以",
+      "给",
+      "问题",
+      "鸡蛋"
+     ],
+     "answer": "可以",
+     "explanation": "可以 asks for permission.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "请（　）我一杯茶。",
+     "options": [
+      "给",
+      "卖",
+      "坐",
+      "要的"
+     ],
+     "answer": "给",
+     "explanation": "给 takes the person first, then the thing.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "Please give me a cup of tea.",
+     "tokens": [
+      "请",
+      "给",
+      "我",
+      "一",
+      "杯",
+      "茶"
+     ],
+     "explanation": "Person first, then the thing."
+    },
+    {
+     "type": "order",
+     "prompt": "May I sit here?",
+     "tokens": [
+      "我",
+      "可以",
+      "坐",
+      "这儿",
+      "吗"
+     ],
+     "explanation": "可以 goes before the verb."
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": {
+    "zh": "我看了一个电影",
+    "en": "I watched a movie"
+   },
+   "words": [
+    {
+     "hanzi": "不要",
+     "pinyin": "búyào",
+     "pos": "adverb",
+     "meaning": "don't"
+    },
+    {
+     "hanzi": "都",
+     "pinyin": "dōu",
+     "pos": "adverb",
+     "meaning": "all, both"
+    },
+    {
+     "hanzi": "火车",
+     "pinyin": "huǒchē",
+     "pos": "noun",
+     "meaning": "train"
+    },
+    {
+     "hanzi": "开",
+     "pinyin": "kāi",
+     "pos": "verb",
+     "meaning": "to open, to start, to drive"
+    },
+    {
+     "hanzi": "明年",
+     "pinyin": "míngnián",
+     "pos": "noun",
+     "meaning": "next year"
+    },
+    {
+     "hanzi": "哪些",
+     "pinyin": "nǎxiē",
+     "pos": "pronoun",
+     "meaning": "which ones"
+    },
+    {
+     "hanzi": "上学",
+     "pinyin": "shàngxué",
+     "pos": "verb",
+     "meaning": "to go to school"
+    },
+    {
+     "hanzi": "说话",
+     "pinyin": "shuōhuà",
+     "pos": "verb",
+     "meaning": "to talk"
+    },
+    {
+     "hanzi": "他们",
+     "pinyin": "tāmen",
+     "pos": "pronoun",
+     "meaning": "they (male or mixed)"
+    },
+    {
+     "hanzi": "它们",
+     "pinyin": "tāmen",
+     "pos": "pronoun",
+     "meaning": "they (things, animals)"
+    },
+    {
+     "hanzi": "她们",
+     "pinyin": "tāmen",
+     "pos": "pronoun",
+     "meaning": "they (female)"
+    },
+    {
+     "hanzi": "听",
+     "pinyin": "tīng",
+     "pos": "verb",
+     "meaning": "to listen"
+    },
+    {
+     "hanzi": "听见",
+     "pinyin": "tīngjiàn",
+     "pos": "verb",
+     "meaning": "to hear"
+    },
+    {
+     "hanzi": "晚",
+     "pinyin": "wǎn",
+     "pos": "adjective",
+     "meaning": "late"
+    },
+    {
+     "hanzi": "小学",
+     "pinyin": "xiǎoxué",
+     "pos": "noun",
+     "meaning": "primary school"
+    },
+    {
+     "hanzi": "小学生",
+     "pinyin": "xiǎoxuéshēng",
+     "pos": "noun",
+     "meaning": "primary school pupil"
+    },
+    {
+     "hanzi": "写",
+     "pinyin": "xiě",
+     "pos": "verb",
+     "meaning": "to write"
+    },
+    {
+     "hanzi": "有的",
+     "pinyin": "yǒude",
+     "pos": "pronoun",
+     "meaning": "some"
+    },
+    {
+     "hanzi": "有些",
+     "pinyin": "yǒuxiē",
+     "pos": "pronoun",
+     "meaning": "some"
+    },
+    {
+     "hanzi": "中午",
+     "pinyin": "zhōngwǔ",
+     "pos": "noun",
+     "meaning": "noon"
+    },
+    {
+     "hanzi": "中学",
+     "pinyin": "zhōngxué",
+     "pos": "noun",
+     "meaning": "middle school"
+    },
+    {
+     "hanzi": "中学生",
+     "pinyin": "zhōngxuéshēng",
+     "pos": "noun",
+     "meaning": "middle school student"
+    },
+    {
+     "hanzi": "字",
+     "pinyin": "zì",
+     "pos": "noun",
+     "meaning": "character (written)"
+    },
+    {
+     "hanzi": "汉语",
+     "pinyin": "Hànyǔ",
+     "pos": "proper noun",
+     "meaning": "Chinese language"
+    },
+    {
+     "hanzi": "汉字",
+     "pinyin": "Hànzì",
+     "pos": "proper noun",
+     "meaning": "Chinese characters"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Talking about yesterday.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "昨天你做什么了？",
+       "pinyin": "Zuótiān nǐ zuò shénme le?",
+       "en": "What did you do yesterday?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我写了一些汉字，也看了一个电影。",
+       "pinyin": "Wǒ xiěle yìxiē Hànzì, yě kànle yí ge diànyǐng.",
+       "en": "I wrote some characters and watched a film."
+      },
+      {
+       "speaker": "A：",
+       "zh": "电影好看吗？",
+       "pinyin": "Diànyǐng hǎokàn ma?",
+       "en": "Was the film good?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "很好看！我们都喜欢。",
+       "pinyin": "Hěn hǎokàn! Wǒmen dōu xǐhuan.",
+       "en": "Very good! We all liked it."
+      }
+     ]
+    },
+    {
+     "scene": "At the train station.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "你听见了吗？",
+       "pinyin": "Nǐ tīngjiàn le ma?",
+       "en": "Did you hear that?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "听见了。火车开了！",
+       "pinyin": "Tīngjiàn le. Huǒchē kāi le!",
+       "en": "I heard it. The train has left!"
+      },
+      {
+       "speaker": "A：",
+       "zh": "不要说话了，我们坐明天的吧。",
+       "pinyin": "Búyào shuōhuà le, wǒmen zuò míngtiān de ba.",
+       "en": "Never mind, let's take tomorrow's."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "The aspect particle 了 (2)",
+     "explanation": "了 straight after a verb shows that the action is done. It often comes with a number or description before the object.",
+     "examples": [
+      {
+       "zh": "我看了一个电影。",
+       "pinyin": "Wǒ kànle yí ge diànyǐng.",
+       "en": "I watched a film."
+      }
+     ]
+    },
+    {
+     "name": "Separable words (1)",
+     "explanation": "Some two-part verbs can be split by other words, such as 了.",
+     "examples": [
+      {
+       "zh": "吃了饭",
+       "pinyin": "chīle fàn",
+       "en": "had a meal"
+      },
+      {
+       "zh": "上了课",
+       "pinyin": "shàngle kè",
+       "en": "had class"
+      }
+     ]
+    },
+    {
+     "name": "The scope adverb 都",
+     "explanation": "都 means \"all\" and refers back to the group before it. It goes before the verb.",
+     "examples": [
+      {
+       "zh": "我们都是学生。",
+       "pinyin": "Wǒmen dōu shì xuéshēng.",
+       "en": "We are all students."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我们（　）是学生。",
+     "options": [
+      "都",
+      "了",
+      "开",
+      "字"
+     ],
+     "answer": "都",
+     "explanation": "都 goes before the verb and sums up the group.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我看（　）一个电影。",
+     "options": [
+      "了",
+      "都",
+      "写",
+      "晚"
+     ],
+     "answer": "了",
+     "explanation": "了 after a verb shows a finished action.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I watched a film.",
+     "tokens": [
+      "我",
+      "看",
+      "了",
+      "一",
+      "个",
+      "电影"
+     ],
+     "explanation": "了 comes right after the verb."
+    },
+    {
+     "type": "order",
+     "prompt": "We are all students.",
+     "tokens": [
+      "我们",
+      "都",
+      "是",
+      "学生"
+     ],
+     "explanation": "都 goes before 是."
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": {
+    "zh": "大兴机场见！",
+    "en": "See you at Daxing Airport!"
+   },
+   "words": [
+    {
+     "hanzi": "爱",
+     "pinyin": "ài",
+     "pos": "verb",
+     "meaning": "to love"
+    },
+    {
+     "hanzi": "飞机",
+     "pinyin": "fēijī",
+     "pos": "noun",
+     "meaning": "plane"
+    },
+    {
+     "hanzi": "好玩儿",
+     "pinyin": "hǎowánr",
+     "pos": "adjective",
+     "meaning": "fun"
+    },
+    {
+     "hanzi": "机场",
+     "pinyin": "jīchǎng",
+     "pos": "noun",
+     "meaning": "airport",
+     "extra": true
+    },
+    {
+     "hanzi": "家人",
+     "pinyin": "jiārén",
+     "pos": "noun",
+     "meaning": "family members"
+    },
+    {
+     "hanzi": "接",
+     "pinyin": "jiē",
+     "pos": "verb",
+     "meaning": "to pick up, to meet",
+     "extra": true
+    },
+    {
+     "hanzi": "哪个",
+     "pinyin": "nǎge",
+     "pos": "pronoun",
+     "meaning": "which one"
+    },
+    {
+     "hanzi": "男朋友",
+     "pinyin": "nánpéngyou",
+     "pos": "noun",
+     "meaning": "boyfriend"
+    },
+    {
+     "hanzi": "年",
+     "pinyin": "nián",
+     "pos": "noun",
+     "meaning": "year"
+    },
+    {
+     "hanzi": "去年",
+     "pinyin": "qùnián",
+     "pos": "noun",
+     "meaning": "last year"
+    },
+    {
+     "hanzi": "时间",
+     "pinyin": "shíjiān",
+     "pos": "noun",
+     "meaning": "time"
+    },
+    {
+     "hanzi": "小时",
+     "pinyin": "xiǎoshí",
+     "pos": "noun",
+     "meaning": "hour"
+    },
+    {
+     "hanzi": "早",
+     "pinyin": "zǎo",
+     "pos": "adjective",
+     "meaning": "early"
+    },
+    {
+     "hanzi": "住",
+     "pinyin": "zhù",
+     "pos": "verb",
+     "meaning": "to live, to stay"
+    },
+    {
+     "hanzi": "北京",
+     "pinyin": "Běijīng",
+     "pos": "proper noun",
+     "meaning": "Beijing"
+    },
+    {
+     "hanzi": "大兴机场",
+     "pinyin": "Dàxīng Jīchǎng",
+     "pos": "proper noun",
+     "meaning": "Daxing Airport"
+    },
+    {
+     "hanzi": "西安",
+     "pinyin": "Xī'ān",
+     "pos": "proper noun",
+     "meaning": "Xi'an"
+    }
+   ],
+   "texts": [
+    {
+     "scene": "Talking about a trip.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "明年你去哪儿？",
+       "pinyin": "Míngnián nǐ qù nǎr?",
+       "en": "Where are you going next year?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "我去北京住一年。",
+       "pinyin": "Wǒ qù Běijīng zhù yì nián.",
+       "en": "I'm going to live in Beijing for a year."
+      },
+      {
+       "speaker": "A：",
+       "zh": "你坐飞机去吗？",
+       "pinyin": "Nǐ zuò fēijī qù ma?",
+       "en": "Are you going by plane?"
+      },
+      {
+       "speaker": "B：",
+       "zh": "对。我的家人来机场接我。",
+       "pinyin": "Duì. Wǒ de jiārén lái jīchǎng jiē wǒ.",
+       "en": "Yes. My family will meet me at the airport."
+      }
+     ]
+    },
+    {
+     "scene": "Sharing travel stories.",
+     "lines": [
+      {
+       "speaker": "A：",
+       "zh": "去年我去了西安，非常好玩儿。",
+       "pinyin": "Qùnián wǒ qùle Xī'ān, fēicháng hǎowánr.",
+       "en": "I went to Xi'an last year. It was great fun."
+      },
+      {
+       "speaker": "B：",
+       "zh": "你爱吃什么？",
+       "pinyin": "Nǐ ài chī shénme?",
+       "en": "What do you love to eat?"
+      },
+      {
+       "speaker": "A：",
+       "zh": "我爱吃饺子，还爱吃面条儿。",
+       "pinyin": "Wǒ ài chī jiǎozi, hái ài chī miàntiáor.",
+       "en": "I love dumplings, and noodles as well."
+      },
+      {
+       "speaker": "B：",
+       "zh": "时间还早，我们去吃饭吧。",
+       "pinyin": "Shíjiān hái zǎo, wǒmen qù chī fàn ba.",
+       "en": "It's still early. Let's go and eat."
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "name": "Coordinate sentences with 还 and 也",
+     "explanation": "Use 也 or 还 in the second part of a sentence to add something, like \"and also\".",
+     "examples": [
+      {
+       "zh": "我喜欢看电影，也喜欢唱歌。",
+       "pinyin": "Wǒ xǐhuan kàn diànyǐng, yě xǐhuan chàng gē.",
+       "en": "I like films, and I also like singing."
+      },
+      {
+       "zh": "我买了水果，还买了牛奶。",
+       "pinyin": "Wǒ mǎile shuǐguǒ, hái mǎile niúnǎi.",
+       "en": "I bought fruit and also milk."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "fill",
+     "prompt": "我爱吃饺子，（　）爱吃面条儿。",
+     "options": [
+      "还",
+      "住",
+      "接",
+      "早"
+     ],
+     "answer": "还",
+     "explanation": "还 adds another item.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "fill",
+     "prompt": "我的家人来机场（　）我。",
+     "options": [
+      "接",
+      "爱",
+      "年",
+      "飞机"
+     ],
+     "answer": "接",
+     "explanation": "接 means to meet someone arriving.",
+     "label": "Choose the word that fits"
+    },
+    {
+     "type": "order",
+     "prompt": "I'm going to live in Beijing for a year.",
+     "tokens": [
+      "我",
+      "去",
+      "北京",
+      "住",
+      "一",
+      "年"
+     ],
+     "explanation": "Actions follow the order they happen in."
+    },
+    {
+     "type": "order",
+     "prompt": "I bought fruit and also milk.",
+     "tokens": [
+      "我",
+      "买",
+      "了",
+      "水果",
+      "还",
+      "买",
+      "了",
+      "牛奶"
+     ],
+     "explanation": "还 begins the second part."
+    }
+   ]
+  }
+ ]
+}
